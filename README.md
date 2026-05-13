@@ -1,4 +1,4 @@
-# Data Curation and Quality Management - Education & Employment Datasets
+# Data Curation and Quality Management Project
 
 A structured SQL-based data curation project covering two real-world messy datasets - one on student education records and another on employment survey data. The work covers end-to-end data diagnosis, validation, cleaning, and final table production using **T-SQL (SQL Server Management Studio)**.
 
