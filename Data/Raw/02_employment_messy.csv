@@ -1,0 +1,1541 @@
+person_id,name,gender,age,education_years,region,employment_status,industry,hours_worked_per_week,monthly_income,job_search_active,survey_source
+2438,Joseph Asare,female,43,3,Volta,Informal,serv,32,4350.0,no,HS
+2375,Yaw Mensah,F,28,20,central,Informal,Public Sector,22,1450.0,no,HIES
+2255,Akosua Boateng,Male,18,12,Volta,emp,serv,56,7300.0,YES,HIES
+2664,Abena Asare,female,39,20,Northern,Employed,Services,29,5000.0,Yes,HIES
+3062,Kofi Addo,Female,110,6,Upper West,Informal,Services,25,?,no,hies
+2829,Kofi Amankwah,F,63,3,upper west,unemp,Manufacturing,39,,YES,hs
+2042,Selina Nkrumah,Female,36,4,Greater Accra,Informal,Construction,21,6200.0,Yes,HIES
+2816,Emmanuel Mensah,Female,27,12,western,Self-employed,Construction,16,1400.0,Yes,HIES
+2930,Isaac Brown,M,47,5,western,Not in Labour Force,Construction,70,2450.0,No,hs
+3212,Fatima Ofori,Male,18,19,volta,Informal,Agriculture,31,2100.0,no,HS
+2538,Adwoa Addo,F,49,20,Central,emp,Public Sector,61,1750.0,no,LFS
+2551,Irene Sarpong,Male,26,20,Upper West,Employed,Public Sector,46,,Yes,HS
+2751,Michael Brown,Male,52,17,ashanti,emp,Services,45,1500.0,YES,hs
+2667,Adwoa Addo,Male,65,18,upper west,Informal,Services,62,2000.0,YES,hies
+2519,Kojo Mensah,Female,37,13,northern,Self-employed,Construction,40,5700.0,YES,lfs
+2679,Grace Nkrumah,Male,39,10,Upper West,Employed,agric,3,6500.0,No,hies
+2706,Michael Nkrumah,female,32,17,eastern,Employed,Manufacturing,20,,no,HIES
+3028,Joseph Addo,M,36,14,Upper East,emp,agric,9,6750.0,YES,hs
+3163,Abena Agyeman,male,31,1,greater accra,emp,agric,8,5750.0,Yes,HS
+2356,Samuel Brown,male,33,3,greater accra,Self-employed,Construction,32,6500.0,YES,hs
+2949,Emmanuel Mensah,Female,46,10,central,unemp,Construction,48,7250.0,no,lfs
+3231,Michael Doe,Male,41,3,northern,Self-employed,Agriculture,61,,Yes,HIES
+3152,Adwoa Brown,female,25,2,Ashanti,Unemployed,agric,9,6200.0,no,LFS
+3123,Irene Owusu,Male,61,3,Upper West,Employed,agric,23,7750.0,no,hs
+2378,Akosua Lee,female,20,1,Western,Not in Labour Force,Manufacturing,27,3600.0,No,hies
+3493,Michael Owusu,Female,62,4,western,Unemployed,Services,69,6750.0,no,hs
+3475,Yaw Boateng,M,twenty-five,13,Upper East,Employed,Public Sector,forty,6000.0,No,LFS
+2432,Kojo Mensah,female,56,5,Greater Accra,Unemployed,serv,37,550.0,YES,HIES
+2496,Abena Mensah,male,31,1,greater accra,Employed,Public Sector,17,3000.0,YES,hies
+2223,Grace Asare,F,16,10,central,Unemployed,Trade,58,5900.0,No,HIES
+2426,Yaw Asare,female,31,8,central,Employed,Services,57,,No,HS
+3313,Michael Asare,male,16,12,Volta,Self-employed,Public Sector,1,6000.0,No,hies
+2469,Emmanuel Amankwah,male,16,5,upper east,Unemployed,Public Sector,4,1950.0,No,lfs
+2051,Selina Agyeman,male,45,18,upper west,unemp,agric,15,2428.0,No,LFS
+2224,Kojo Amankwah,Male,63,2,greater accra,Unemployed,Manufacturing,35,5450.0,No,hies
+2509,Kwame Mensah,Male,51,13,greater accra,Not in Labour Force,Construction,5,1800.0,No,hies
+3159,Grace Amankwah,M,50,12,Central,unemp,Services,19,7950.0,No,LFS
+2969,Akosua Doe,male,41,16,Upper West,Unemployed,serv,20,2900.0,Yes,hs
+2810,Akosua Sarpong,M,23,11,greater accra,Not in Labour Force,Construction,45,4850.0,Yes,hs
+3285,Irene Agyeman,M,32,0,Ashanti,Not in Labour Force,Services,9,3250.0,No,HIES
+2334,Kwame Ofori,M,40,4,northern,unemp,Construction,18,,no,HIES
+3187,Efua Doe,F,49,3,volta,Employed,Services,7,7350.0,Yes,HS
+3042,Michael Ofori,Female,19,5,greater accra,Employed,Agriculture,61,,Yes,LFS
+2728,Ama Agyeman,Female,33,15,western,Self-employed,Agriculture,28,500.0,no,hies
+3114,Kofi Sarpong,M,21,3,central,emp,serv,44,2300.0,No,hs
+3183,Michael Mensah,F,53,5,northern,emp,Services,18,2550.0,no,hs
+3361,Efua Brown,Female,33,14,upper east,Not in Labour Force,serv,forty,1500.0,Yes,HS
+3404,Fatima Ofori,M,25,6,Greater Accra,Not in Labour Force,agric,2,6800.0,no,LFS
+2550,Michael Addo,female,twenty-five,1,Ashanti,Not in Labour Force,Agriculture,forty,3000.0,no,HS
+3164,Irene Ofori,F,44,18,Ashanti,emp,Manufacturing,46,5650.0,YES,hs
+3144,Adwoa Nkrumah,M,52,17,Western,emp,Trade,4,1100.0,YES,hs
+2377,Kofi Owusu,male,59,11,Ashanti,Employed,Public Sector,47,7700.0,YES,hs
+3138,Fatima Sarpong,M,49,0,Upper East,unemp,Public Sector,54,7000.0,Yes,LFS
+2058,Abena Lee,M,24,12,central,Not in Labour Force,Trade,32,3000.0,YES,lfs
+3378,Rashid Nkrumah,female,21,14,ashanti,emp,Services,1,750.0,No,LFS
+2179,Kofi Amankwah,male,21,19,eastern,unemp,agric,38,,No,HS
+2032,Adwoa Amankwah,female,56,3,upper east,emp,Construction,29,4650.0,YES,hies
+2363,Kwame Boateng,Female,33,2,Northern,Not in Labour Force,serv,51,7150.0,Yes,lfs
+2277,Rashid Lee,F,17,17,Upper East,emp,Services,48,2600.0,YES,HS
+3385,Fatima Agyeman,F,46,20,eastern,unemp,agric,25,1326.0,YES,hs
+2610,Abena Lee,male,16,18,greater accra,Self-employed,Agriculture,5,3800.0,No,hies
+3471,Ama Ofori,female,61,3,Upper East,unemp,Construction,54,3100.0,no,lfs
+2358,Isaac Agyeman,F,44,10,ashanti,Self-employed,serv,20,5100.0,YES,lfs
+2304,Daniel Doe,F,23,12,Upper East,Informal,Manufacturing,29,1000.0,YES,hies
+2894,Akosua Agyeman,F,53,13,Central,Self-employed,Services,0,6200.0,No,lfs
+2133,Kojo Sarpong,F,44,17,volta,emp,Trade,24,3400.0,Yes,hies
+2234,Kojo Lee,Female,20,11,Volta,Not in Labour Force,Trade,40,3300.0,YES,hs
+3315,Emmanuel Sarpong,male,41,4,Ashanti,Informal,Services,33,3950.0,Yes,HIES
+2870,Kofi Brown,F,17,13,ashanti,emp,Agriculture,47,500.0,YES,lfs
+3325,Grace Tetteh,Female,41,4,Upper East,Informal,Trade,57,500.0,YES,hies
+2284,Grace Mensah,Female,60,10,volta,Self-employed,Public Sector,47,2650.0,Yes,lfs
+2254,Kwame Mensah,F,58,12,western,Unemployed,Manufacturing,forty,4150.0,Yes,hs
+2103,Abena Tetteh,male,41,16,Northern,unemp,Public Sector,62,6900.0,YES,HS
+2376,Adwoa Brown,F,30,7,upper west,unemp,Agriculture,34,686.0,YES,HIES
+2406,Emmanuel Asare,Male,53,16,northern,Self-employed,agric,51,600.0,No,hs
+2170,Michael Sarpong,female,33,15,Upper East,Not in Labour Force,agric,14,5600.0,YES,hs
+2381,Adwoa Tetteh,F,63,1,Volta,Informal,Manufacturing,56,2600.0,Yes,hies
+2090,Selina Ofori,Female,44,7,Ashanti,Employed,Services,41,2650.0,no,HIES
+3202,Kwame Ofori,Male,21,5,upper east,Informal,serv,30,3800.0,no,hies
+2059,Michael Asare,F,57,8,ashanti,Not in Labour Force,agric,50,3100.0,no,lfs
+2909,Adwoa Owusu,female,63,19,central,Not in Labour Force,agric,28,5050.0,Yes,lfs
+2343,Isaac Asare,Male,46,5,Northern,Employed,Agriculture,38,,YES,hs
+2088,Yaw Boateng,Male,31,8,northern,unemp,Services,30,2100.0,YES,HS
+2806,Adwoa Mensah,M,17,19,Eastern,Self-employed,Construction,66,4250.0,YES,hies
+2579,Efua Agyeman,Male,20,14,northern,Unemployed,serv,54,6100.0,No,hs
+2443,Abena Asare,Female,45,3,Eastern,Not in Labour Force,Trade,54,6850.0,No,hies
+3481,Kwame Ofori,Female,57,12,greater accra,Not in Labour Force,Public Sector,5,4450.0,Yes,hies
+2828,Adwoa Tetteh,F,53,15,ashanti,Not in Labour Force,Manufacturing,forty,5950.0,Yes,HS
+2326,Adwoa Addo,female,47,5,ashanti,Unemployed,Public Sector,66,?,no,HIES
+3141,Abena Nkrumah,M,22,8,upper west,Not in Labour Force,Manufacturing,33,2700.0,Yes,HIES
+3006,Efua Boateng,F,20,4,Greater Accra,unemp,Agriculture,42,2700.0,no,hies
+2100,Ama Addo,M,35,1,upper west,Unemployed,Manufacturing,59,2600.0,No,HS
+3490,Abena Brown,F,60,6,Central,Employed,Construction,68,4700.0,YES,hies
+2514,Fatima Mensah,male,32,12,Volta,Self-employed,Manufacturing,58,3850.0,No,HS
+2262,Irene Lee,male,36,16,Upper West,unemp,Agriculture,69,4700.0,Yes,lfs
+2528,Emmanuel Amankwah,female,56,4,Volta,Employed,agric,15,,No,HIES
+3411,Samuel Boateng,female,twenty-five,15,Volta,unemp,Construction,34,3150.0,Yes,HS
+2659,Akosua Doe,F,25,6,upper west,Self-employed,serv,8,1150.0,no,lfs
+2995,Daniel Tetteh,female,28,18,Ashanti,Self-employed,Agriculture,44,7800.0,Yes,hies
+2673,Rashid Brown,M,42,13,Volta,Unemployed,Agriculture,49,2100.0,Yes,lfs
+2073,Irene Mensah,M,33,3,northern,unemp,Trade,61,2100.0,YES,hies
+2189,Kojo Lee,female,56,4,upper west,Not in Labour Force,Construction,20,4550.0,YES,HS
+2198,Kojo Doe,female,twenty-five,0,Eastern,Not in Labour Force,Construction,7,4950.0,Yes,hies
+2488,Kwame Asare,Female,58,20,Upper West,Self-employed,agric,28,500.0,No,hs
+2557,Kofi Boateng,M,65,2,Greater Accra,emp,serv,11,700.0,Yes,hs
+2310,Adwoa Tetteh,male,39,14,Eastern,emp,agric,56,5650.0,Yes,hies
+2290,Daniel Owusu,Female,24,5,upper west,Unemployed,Agriculture,59,5650.0,No,hs
+2787,Irene Brown,Male,65,14,greater accra,emp,serv,1,3250.0,No,lfs
+3102,Rashid Tetteh,F,16,19,Volta,unemp,Trade,7,5100.0,Yes,hies
+2846,Rashid Tetteh,male,49,11,ashanti,emp,Trade,21,3400.0,Yes,lfs
+2601,Selina Addo,female,35,12,Western,unemp,Agriculture,44,4750.0,no,hies
+2720,Adwoa Nkrumah,female,48,5,Upper West,Employed,Agriculture,63,2150.0,No,LFS
+2187,Fatima Mensah,female,52,18,eastern,Unemployed,agric,2,1150.0,no,lfs
+2231,Daniel Nkrumah,Male,22,10,Ashanti,Unemployed,Construction,37,3800.0,Yes,LFS
+3124,Akosua Agyeman,F,58,2,Eastern,Self-employed,Construction,11,1800.0,Yes,LFS
+2159,Efua Asare,male,43,11,northern,unemp,Construction,17,2385.0,Yes,hies
+3269,Ama Sarpong,M,46,14,ashanti,Employed,Public Sector,60,1750.0,no,LFS
+2140,Yaw Tetteh,Female,48,10,central,Self-employed,serv,55,7450.0,Yes,HS
+2926,Efua Sarpong,Female,35,16,Upper East,Self-employed,Construction,27,2650.0,no,HS
+3058,Adwoa Ofori,Female,22,14,Ashanti,Employed,Manufacturing,3,,No,HIES
+2148,Kwame Agyeman,F,34,2,Greater Accra,Employed,Trade,38,5300.0,Yes,HIES
+2739,Isaac Tetteh,male,33,9,Eastern,Employed,Manufacturing,69,6750.0,Yes,HIES
+3225,Rashid Amankwah,M,34,4,ashanti,Self-employed,Construction,13,5950.0,No,LFS
+2575,Efua Nkrumah,female,18,10,Northern,Unemployed,Services,38,1425.0,YES,lfs
+3366,Joseph Brown,M,50,5,Greater Accra,Not in Labour Force,Construction,38,5450.0,no,lfs
+2811,Yaw Ofori,female,19,14,Northern,emp,agric,27,1100.0,no,hies
+2035,Kwame Nkrumah,M,58,1,Western,Not in Labour Force,Public Sector,58,4550.0,no,lfs
+3020,Michael Amankwah,Female,28,10,Greater Accra,Unemployed,Construction,24,1137.0,YES,lfs
+2656,Efua Asare,Female,37,3,Ashanti,unemp,serv,20,350.0,no,hies
+3477,Adwoa Asare,female,21,2,western,unemp,agric,65,3800.0,YES,lfs
+2560,Samuel Boateng,female,15,10,Upper West,Not in Labour Force,agric,25,4750.0,No,hs
+2860,Efua Asare,male,23,0,central,Informal,Agriculture,40,6800.0,YES,hies
+3434,Emmanuel Doe,Male,28,14,Upper West,Self-employed,Agriculture,68,5000.0,No,HIES
+3145,Kofi Owusu,Male,32,16,volta,Unemployed,agric,35,1609.0,Yes,LFS
+2558,Kojo Addo,male,53,0,Western,Employed,Services,31,7450.0,YES,HS
+3302,Daniel Owusu,Male,30,3,ashanti,Unemployed,serv,38,363.0,no,hies
+3140,Akosua Doe,Male,39,9,ashanti,Unemployed,serv,7,1450.0,No,HIES
+3105,Grace Agyeman,F,46,4,volta,Self-employed,Services,2,1250.0,No,hs
+2988,Irene Mensah,male,62,6,Upper East,Unemployed,Agriculture,6,5700.0,Yes,LFS
+2474,Ama Doe,Male,32,3,volta,emp,Public Sector,6,2950.0,no,lfs
+3092,Selina Tetteh,male,56,17,central,Informal,Manufacturing,9,5450.0,No,LFS
+2577,Ama Brown,F,56,10,Upper West,Self-employed,Agriculture,55,6050.0,No,lfs
+2733,Daniel Sarpong,F,61,1,central,Self-employed,agric,12,5250.0,YES,lfs
+2448,Abena Agyeman,Female,43,6,Central,emp,Manufacturing,32,7700.0,No,HS
+2923,Efua Amankwah,Female,40,15,Ashanti,Informal,Trade,32,3850.0,YES,HS
+2922,Joseph Brown,M,34,0,greater accra,Informal,agric,27,6200.0,No,HIES
+2114,Selina Tetteh,F,20,6,Volta,Self-employed,serv,18,750.0,no,lfs
+2066,Rashid Mensah,female,37,16,Western,emp,Construction,4,950.0,No,lfs
+3088,Daniel Mensah,F,41,20,eastern,emp,Services,70,6700.0,No,lfs
+3426,Joseph Doe,female,34,1,Greater Accra,unemp,Agriculture,33,,YES,HIES
+3292,Grace Boateng,Male,62,9,central,unemp,Services,4,7400.0,No,hs
+3333,Michael Brown,F,35,6,Western,Employed,Services,28,4500.0,no,hs
+2163,Akosua Ofori,Male,twenty-five,20,volta,emp,agric,37,1250.0,No,hs
+2773,Irene Agyeman,F,64,2,volta,Unemployed,Public Sector,forty,1450.0,Yes,hies
+2014,Selina Amankwah,male,65,21,Greater Accra,Self-employed,Trade,14,3900.0,no,HS
+2867,Ama Brown,Female,41,0,western,Employed,Public Sector,59,7350.0,YES,HS
+3213,Grace Ofori,F,40,13,Ashanti,emp,Services,21,1900.0,No,hies
+3209,Grace Lee,male,40,3,Volta,Self-employed,Agriculture,64,2400.0,YES,HIES
+2517,Efua Doe,male,49,12,Ashanti,Informal,Public Sector,33,1950.0,Yes,lfs
+2154,Yaw Doe,female,43,19,central,Informal,Services,28,3550.0,no,HIES
+2027,Abena Tetteh,Female,60,7,Upper East,Employed,serv,55,4950.0,No,hs
+3281,Selina Brown,female,25,1,northern,Informal,Trade,56,7800.0,no,hies
+3126,Fatima Tetteh,M,23,12,volta,Employed,Services,26,4600.0,YES,hies
+2089,Joseph Addo,Male,20,0,Volta,Employed,Manufacturing,41,2100.0,YES,hs
+2261,Irene Doe,M,42,21,eastern,unemp,Services,32,1510.0,YES,lfs
+2676,Irene Boateng,F,43,5,volta,Unemployed,Trade,8,7950.0,no,hs
+3245,Daniel Mensah,female,16,19,Volta,Informal,Public Sector,19,6500.0,Yes,HS
+2918,Efua Boateng,Male,21,3,central,emp,agric,11,4700.0,YES,hs
+3004,Grace Lee,Male,15,16,Greater Accra,Employed,Public Sector,66,3300.0,YES,hs
+2685,Grace Lee,M,63,13,Upper West,Not in Labour Force,Services,39,5350.0,Yes,hs
+3043,Fatima Lee,F,54,2,Northern,Unemployed,Public Sector,5,850.0,YES,hs
+2134,Grace Owusu,F,54,20,eastern,Self-employed,serv,53,600.0,YES,hies
+2266,Fatima Tetteh,Female,35,11,Greater Accra,Unemployed,Services,5,6450.0,Yes,hies
+2011,Adwoa Brown,F,21,4,upper east,Unemployed,serv,11,2700.0,Yes,lfs
+2663,Michael Amankwah,male,45,7,Volta,unemp,Construction,60,5100.0,No,hies
+2145,Fatima Owusu,female,19,11,Upper West,Unemployed,Construction,17,5100.0,no,lfs
+2605,Kojo Lee,female,48,8,upper west,Self-employed,Agriculture,15,500.0,no,lfs
+3332,Efua Amankwah,female,26,15,Western,emp,Manufacturing,54,5200.0,YES,HS
+3198,Selina Agyeman,Female,35,19,upper east,Unemployed,Manufacturing,69,5500.0,Yes,lfs
+2878,Yaw Lee,Male,19,7,Northern,emp,Public Sector,55,4100.0,No,HS
+3019,Kofi Boateng,M,49,21,western,Employed,Trade,69,5550.0,YES,lfs
+2963,Kofi Lee,male,47,18,northern,Not in Labour Force,Agriculture,6,4350.0,Yes,lfs
+2294,Ama Boateng,Male,38,20,Northern,Unemployed,Trade,69,,no,lfs
+2920,Daniel Ofori,F,40,1,central,emp,Trade,6,4900.0,Yes,lfs
+2006,Emmanuel Boateng,female,56,19,Central,Not in Labour Force,agric,47,150.0,Yes,hs
+2281,Kwame Ofori,Male,57,16,Northern,Unemployed,Construction,forty,450.0,Yes,HS
+2854,Michael Doe,male,64,19,central,Not in Labour Force,Services,63,1900.0,Yes,lfs
+2327,Selina Boateng,female,45,2,Western,Self-employed,Services,59,7450.0,No,hs
+2543,Efua Lee,female,42,20,Eastern,Informal,Construction,40,5350.0,Yes,LFS
+2781,Rashid Nkrumah,female,30,1,Volta,Employed,Agriculture,68,4300.0,no,lfs
+2661,Abena Doe,female,59,19,Central,Employed,Manufacturing,41,1100.0,Yes,HIES
+2872,Grace Addo,F,23,0,eastern,emp,Agriculture,forty,5300.0,Yes,HIES
+2731,Fatima Tetteh,Male,54,18,Northern,Not in Labour Force,Manufacturing,57,4000.0,No,HIES
+2635,Rashid Lee,M,55,10,Western,Unemployed,Services,66,5700.0,No,lfs
+3341,Emmanuel Doe,Male,34,6,greater accra,emp,Public Sector,33,1450.0,Yes,lfs
+2981,Kojo Tetteh,Female,58,10,Northern,unemp,serv,51,5000.0,No,hs
+2946,Grace Brown,M,32,6,Northern,Employed,Public Sector,3,3850.0,no,LFS
+3275,Selina Addo,Female,53,10,northern,Not in Labour Force,Agriculture,28,2100.0,No,lfs
+2631,Irene Amankwah,female,20,4,upper west,Employed,Public Sector,17,3600.0,Yes,LFS
+2337,Akosua Tetteh,male,37,0,Upper West,Unemployed,Services,36,5200.0,no,hs
+2762,Selina Asare,F,20,10,Eastern,Self-employed,Agriculture,5,2600.0,YES,HS
+2316,Yaw Ofori,F,26,11,Northern,Informal,Public Sector,59,950.0,No,HIES
+2359,Fatima Agyeman,M,32,9,ashanti,Employed,serv,4,1800.0,No,hies
+2414,Isaac Tetteh,Female,35,19,western,Not in Labour Force,Construction,48,2100.0,Yes,HIES
+2493,Kwame Owusu,female,40,12,upper west,Unemployed,Services,22,2800.0,no,HS
+2111,Daniel Sarpong,male,40,15,central,Not in Labour Force,Trade,26,250.0,Yes,hies
+2727,Daniel Asare,Male,54,12,northern,Not in Labour Force,Public Sector,49,700.0,Yes,lfs
+2861,Adwoa Nkrumah,female,36,13,Eastern,Employed,agric,65,8000.0,YES,hs
+3070,Fatima Asare,female,50,16,Greater Accra,unemp,Construction,13,4250.0,no,HIES
+2127,Michael Boateng,female,twenty-five,7,Western,unemp,Agriculture,54,1500.0,no,LFS
+3137,Joseph Owusu,Female,17,2,Western,Not in Labour Force,agric,52,7750.0,No,HS
+2705,Kofi Sarpong,Female,59,14,Greater Accra,emp,Services,67,4250.0,no,hs
+2164,Abena Boateng,male,26,12,greater accra,emp,Manufacturing,7,3650.0,Yes,LFS
+2274,Rashid Owusu,Female,56,9,northern,Informal,Manufacturing,51,,No,hs
+2317,Emmanuel Boateng,Male,36,20,central,Unemployed,Services,36,4350.0,Yes,hies
+2259,Samuel Nkrumah,Female,42,10,Eastern,Not in Labour Force,agric,26,?,No,HS
+2536,Ama Mensah,Female,65,16,Western,emp,Agriculture,60,4350.0,no,LFS
+3364,Grace Doe,F,45,21,Western,emp,Construction,51,6050.0,no,HIES
+2137,Selina Owusu,Male,63,17,upper east,Employed,Public Sector,15,1600.0,YES,HS
+2318,Kojo Sarpong,female,60,20,ashanti,emp,agric,45,1700.0,no,hies
+2048,Rashid Brown,F,17,3,Upper East,Unemployed,Trade,36,6150.0,YES,LFS
+3002,Samuel Owusu,F,26,0,upper east,Self-employed,agric,58,5600.0,no,lfs
+3387,Joseph Asare,M,28,17,Central,unemp,Public Sector,66,3850.0,YES,lfs
+2071,Joseph Brown,male,110,0,volta,Self-employed,serv,14,6550.0,YES,HS
+3181,Selina Ofori,male,29,2,Upper East,emp,Trade,24,2600.0,YES,lfs
+2657,Kwame Nkrumah,female,35,13,eastern,unemp,Services,19,1760.0,YES,hies
+3192,Abena Addo,Male,42,20,eastern,Informal,Services,63,2650.0,Yes,LFS
+2766,Emmanuel Sarpong,M,twenty-five,5,Ashanti,Informal,serv,28,4700.0,YES,HIES
+2881,Akosua Doe,female,110,8,Northern,Unemployed,Agriculture,3,2650.0,no,hies
+2287,Irene Tetteh,Female,44,9,ashanti,Unemployed,Public Sector,45,1700.0,no,HS
+2760,Ama Asare,F,30,18,northern,Employed,Public Sector,29,3200.0,YES,LFS
+2395,Kofi Addo,M,38,21,Upper East,Employed,Manufacturing,13,950.0,YES,LFS
+2480,Abena Mensah,F,37,15,northern,unemp,Agriculture,47,700.0,Yes,hies
+2076,Isaac Owusu,Female,35,16,ashanti,Employed,agric,44,4900.0,Yes,HIES
+3446,Efua Addo,F,21,3,upper west,unemp,Manufacturing,10,,no,hs
+2257,Yaw Lee,Female,21,13,Western,Unemployed,Services,67,1100.0,Yes,HIES
+3101,Yaw Boateng,F,17,19,eastern,Informal,Agriculture,46,?,YES,lfs
+3461,Emmanuel Amankwah,male,39,11,volta,Informal,Agriculture,10,7950.0,no,HS
+2093,Emmanuel Agyeman,male,41,5,western,Employed,Construction,46,6700.0,Yes,hs
+2451,Selina Lee,female,37,16,western,unemp,Manufacturing,4,1850.0,no,HS
+3208,Ama Lee,F,51,3,Northern,emp,Agriculture,23,7250.0,No,hies
+2637,Kojo Doe,M,53,2,central,Self-employed,Agriculture,35,3050.0,No,LFS
+2072,Emmanuel Ofori,male,21,20,ashanti,Employed,Manufacturing,41,2850.0,No,hs
+3456,Fatima Boateng,male,52,2,Upper West,Not in Labour Force,Agriculture,25,950.0,YES,HIES
+3127,Joseph Sarpong,Female,63,20,Upper West,Employed,Manufacturing,30,7450.0,No,LFS
+3072,Efua Lee,F,35,7,upper east,Not in Labour Force,Services,6,850.0,No,hs
+3294,Samuel Boateng,F,36,7,eastern,Self-employed,Manufacturing,forty,3800.0,No,hs
+3076,Kwame Addo,F,54,12,Eastern,emp,Agriculture,66,5250.0,YES,lfs
+2736,Akosua Nkrumah,Male,43,14,Northern,Informal,Services,29,550.0,No,HIES
+3350,Michael Lee,Female,59,14,volta,Unemployed,agric,44,1675.0,no,hs
+2906,Adwoa Brown,F,45,6,northern,Not in Labour Force,Agriculture,69,,No,LFS
+2957,Daniel Asare,male,63,0,Upper West,Unemployed,Construction,17,4000.0,No,hs
+3409,Grace Tetteh,Female,35,6,northern,Employed,serv,6,1850.0,no,lfs
+2937,Emmanuel Agyeman,F,37,2,greater accra,unemp,Public Sector,18,7750.0,no,hies
+2205,Emmanuel Lee,F,64,18,western,Employed,Agriculture,23,6050.0,Yes,hs
+2841,Adwoa Mensah,F,51,21,western,emp,Trade,21,6500.0,Yes,HIES
+2651,Selina Nkrumah,Male,52,2,Upper West,Unemployed,Public Sector,57,?,No,HS
+2497,Efua Ofori,Male,twenty-five,12,Upper West,Unemployed,Construction,21,1579.0,YES,hies
+3068,Michael Doe,male,40,1,Volta,Informal,Agriculture,20,3950.0,no,lfs
+2729,Ama Ofori,Male,19,12,Central,Employed,serv,30,2700.0,no,HS
+2041,Efua Owusu,M,41,20,Volta,Unemployed,Trade,39,4150.0,YES,HS
+2012,Kojo Addo,F,50,17,Northern,Not in Labour Force,Construction,24,?,Yes,LFS
+2064,Grace Owusu,F,32,9,greater accra,Unemployed,Construction,34,5600.0,no,hs
+2699,Kofi Lee,M,34,15,Ashanti,Unemployed,serv,42,700.0,Yes,HS
+3479,Selina Asare,male,30,0,Eastern,Informal,Manufacturing,67,5050.0,Yes,lfs
+2402,Irene Asare,female,21,3,Eastern,Self-employed,Trade,6,2900.0,no,hies
+2522,Kojo Tetteh,Male,30,14,western,emp,Manufacturing,33,5500.0,Yes,LFS
+2367,Irene Brown,F,44,12,greater accra,emp,Manufacturing,15,5650.0,no,lfs
+2589,Grace Sarpong,Male,39,6,western,emp,serv,69,4250.0,no,LFS
+2567,Kwame Owusu,M,twenty-five,4,Northern,emp,Construction,56,6950.0,No,LFS
+2468,Grace Owusu,female,23,13,central,Self-employed,serv,62,2800.0,YES,HS
+2386,Akosua Boateng,F,52,11,western,Employed,Public Sector,49,3050.0,Yes,HIES
+2498,Kwame Tetteh,Female,20,6,Northern,Employed,Agriculture,58,1500.0,YES,lfs
+2571,Abena Nkrumah,F,43,2,Ashanti,Informal,Trade,63,3100.0,Yes,lfs
+2249,Irene Brown,Male,31,15,northern,Informal,Construction,20,750.0,no,LFS
+2618,Joseph Ofori,female,49,12,central,unemp,Trade,20,6400.0,Yes,lfs
+2974,Joseph Mensah,M,15,11,Eastern,emp,Services,62,7200.0,Yes,HS
+3221,Kofi Amankwah,female,63,11,Northern,unemp,Manufacturing,46,7950.0,YES,hies
+2892,Kofi Amankwah,F,39,10,Greater Accra,Informal,agric,8,6300.0,No,HS
+3450,Efua Doe,Female,26,0,Eastern,unemp,Trade,33,2400.0,Yes,hies
+2920,Daniel Ofori,F,40,1,central,emp,Trade,6,4900.0,Yes,lfs
+2354,Kwame Boateng,F,36,6,upper east,emp,Public Sector,1,6900.0,No,HS
+2068,Akosua Mensah,M,28,19,upper west,unemp,Agriculture,68,1250.0,YES,HS
+3009,Adwoa Ofori,Male,50,4,greater accra,Employed,Agriculture,17,2900.0,no,hies
+3049,Grace Asare,Male,45,18,upper east,Informal,Services,21,4700.0,Yes,hies
+2990,Kofi Owusu,Female,57,19,Central,emp,Construction,42,5950.0,No,LFS
+2430,Fatima Addo,Female,47,21,Volta,unemp,Services,65,6500.0,YES,LFS
+3116,Emmanuel Asare,female,21,4,western,Employed,Construction,19,3400.0,No,HS
+2443,Abena Asare,Female,45,3,Eastern,Not in Labour Force,Trade,54,6850.0,No,hies
+3149,Ama Tetteh,male,35,18,Eastern,Self-employed,Trade,48,1550.0,No,hs
+2210,Adwoa Addo,male,20,11,Eastern,Self-employed,serv,61,1350.0,YES,HS
+3497,Isaac Lee,F,38,1,Volta,unemp,Agriculture,46,7750.0,Yes,hies
+3189,Michael Nkrumah,F,41,12,central,emp,Manufacturing,16,7650.0,No,HS
+2069,Michael Boateng,male,39,2,Northern,Informal,Agriculture,56,?,no,LFS
+2791,Joseph Asare,F,19,1,upper west,Unemployed,Agriculture,43,612.0,no,HIES
+2077,Kwame Mensah,male,33,19,Upper West,unemp,serv,37,3250.0,no,HIES
+3276,Emmanuel Tetteh,F,45,7,Northern,emp,agric,42,5900.0,YES,HIES
+2860,Efua Asare,male,23,0,central,Informal,Agriculture,40,6800.0,YES,hies
+2795,Kojo Owusu,male,20,21,Upper West,emp,agric,65,7050.0,No,HS
+3427,Samuel Agyeman,Female,54,16,upper west,Self-employed,Construction,forty,2800.0,no,hs
+2759,Fatima Nkrumah,Female,33,20,Eastern,Self-employed,Construction,28,3850.0,YES,hs
+2548,Adwoa Nkrumah,female,46,17,Upper East,Employed,agric,10,3850.0,Yes,LFS
+2407,Efua Sarpong,M,63,4,central,Employed,Trade,47,2300.0,Yes,LFS
+3326,Kofi Brown,Female,46,0,Ashanti,Unemployed,Agriculture,30,3200.0,Yes,LFS
+2758,Irene Agyeman,F,23,2,Upper West,Unemployed,agric,14,850.0,no,HS
+3363,Fatima Lee,M,28,12,eastern,Not in Labour Force,Public Sector,38,7950.0,Yes,hs
+2619,Grace Boateng,male,52,17,Greater Accra,Employed,serv,15,5050.0,YES,HS
+2875,Yaw Asare,Male,40,4,upper east,Self-employed,Public Sector,31,5750.0,no,lfs
+2572,Samuel Brown,Female,37,15,Western,Not in Labour Force,Public Sector,12,7500.0,YES,lfs
+2487,Kofi Brown,F,23,11,central,Informal,Agriculture,64,3200.0,YES,lfs
+2891,Akosua Doe,Male,38,9,northern,Informal,Services,10,,No,hs
+2099,Emmanuel Addo,M,28,20,volta,Informal,Public Sector,34,7100.0,No,lfs
+3432,Kwame Owusu,M,62,10,Ashanti,Not in Labour Force,Manufacturing,forty,1650.0,no,HIES
+3282,Abena Sarpong,Male,30,13,Upper East,Not in Labour Force,agric,45,1500.0,Yes,LFS
+3230,Kwame Agyeman,female,18,15,Eastern,Employed,serv,58,?,Yes,HS
+2056,Abena Mensah,male,21,18,northern,Unemployed,Agriculture,24,1400.0,No,LFS
+3406,Grace Addo,F,47,13,Ashanti,Not in Labour Force,agric,69,?,Yes,HIES
+2612,Samuel Mensah,female,16,11,Greater Accra,emp,Trade,49,2900.0,Yes,hs
+2228,Grace Boateng,female,52,13,Central,Employed,Trade,57,3050.0,no,HIES
+2176,Michael Agyeman,M,29,16,Upper East,emp,serv,43,5000.0,YES,hies
+2030,Kofi Boateng,female,44,8,Upper West,Employed,Manufacturing,forty,2650.0,YES,hs
+3228,Joseph Tetteh,male,41,3,Northern,Informal,Services,69,2150.0,No,hies
+3169,Emmanuel Agyeman,Female,16,5,upper west,Not in Labour Force,Agriculture,5,5700.0,No,HS
+2510,Kojo Asare,male,41,17,central,unemp,Agriculture,30,2476.0,no,LFS
+2139,Grace Tetteh,M,53,21,volta,Informal,agric,47,450.0,Yes,HS
+2788,Rashid Agyeman,F,36,15,Western,Informal,Services,forty,3950.0,No,hies
+3311,Yaw Tetteh,Female,43,13,Ashanti,Employed,Construction,9,1750.0,YES,HS
+3043,Fatima Lee,F,54,2,Northern,Unemployed,Public Sector,5,850.0,YES,hs
+2982,Joseph Tetteh,male,52,17,greater accra,emp,Trade,30,7000.0,YES,HS
+2919,Akosua Tetteh,F,26,11,Upper West,Employed,Trade,17,5050.0,YES,hies
+2724,Abena Nkrumah,male,61,12,Ashanti,unemp,Public Sector,67,3200.0,No,hies
+3410,Selina Amankwah,F,19,8,eastern,unemp,Services,30,6650.0,No,LFS
+2192,Daniel Ofori,Female,60,14,northern,Self-employed,Services,40,3600.0,Yes,hs
+3188,Samuel Agyeman,female,37,20,upper west,Employed,Public Sector,54,4550.0,Yes,hs
+2742,Michael Owusu,female,49,17,Greater Accra,Employed,Trade,25,2650.0,No,hies
+2694,Akosua Owusu,F,15,15,ashanti,Not in Labour Force,Agriculture,62,7800.0,No,lfs
+2850,Kojo Owusu,male,28,15,volta,unemp,serv,56,2650.0,YES,lfs
+3261,Rashid Tetteh,Male,25,9,ashanti,emp,Manufacturing,31,1300.0,Yes,lfs
+2463,Akosua Nkrumah,F,64,16,Greater Accra,Informal,Public Sector,62,2950.0,No,LFS
+2893,Joseph Boateng,male,34,0,northern,unemp,Public Sector,forty,4000.0,No,HS
+3353,Samuel Agyeman,male,19,20,western,Informal,Manufacturing,17,4000.0,No,HIES
+2016,Selina Nkrumah,Male,54,3,Western,Unemployed,Public Sector,25,560.0,YES,HS
+3424,Adwoa Addo,M,33,14,Greater Accra,Employed,agric,43,4450.0,No,lfs
+2976,Adwoa Boateng,Male,37,13,Volta,unemp,Trade,11,,No,hies
+3173,Irene Boateng,Female,26,6,Upper West,unemp,Services,27,1248.0,No,hs
+2876,Abena Doe,Male,24,15,Upper East,unemp,Services,forty,1850.0,Yes,hs
+3237,Emmanuel Doe,M,29,21,Western,Employed,Manufacturing,19,3550.0,Yes,hs
+3180,Grace Asare,Male,40,2,upper west,Informal,Trade,42,7100.0,No,HS
+3205,Isaac Doe,Female,34,4,Upper West,Employed,Construction,60,6600.0,Yes,HS
+3250,Adwoa Lee,F,41,21,volta,Unemployed,Public Sector,18,2050.0,Yes,HS
+2158,Ama Ofori,female,62,6,greater accra,Not in Labour Force,serv,forty,1850.0,YES,LFS
+2599,Abena Sarpong,female,17,9,upper west,Self-employed,Manufacturing,56,4550.0,No,HS
+2666,Akosua Ofori,Male,22,2,Volta,Informal,Public Sector,36,4300.0,no,HS
+2121,Efua Addo,male,41,21,Greater Accra,Self-employed,Services,14,800.0,No,hs
+2888,Yaw Brown,Female,61,13,volta,Self-employed,Manufacturing,37,5200.0,No,lfs
+2991,Kojo Asare,M,20,13,northern,unemp,agric,26,1550.0,Yes,hs
+3251,Isaac Boateng,F,37,16,Eastern,Not in Labour Force,agric,43,1700.0,YES,hies
+3417,Ama Asare,female,61,21,Upper West,Employed,Manufacturing,17,4000.0,No,lfs
+2439,Rashid Amankwah,female,16,6,Eastern,Unemployed,Public Sector,36,4850.0,Yes,HS
+2410,Joseph Sarpong,M,20,11,upper west,unemp,Construction,35,1913.0,No,hs
+2226,Kofi Owusu,male,28,5,Central,Informal,agric,30,2050.0,no,hs
+2323,Selina Addo,F,21,16,upper east,Unemployed,agric,13,,No,lfs
+3423,Isaac Brown,M,53,18,Volta,unemp,Manufacturing,1,1750.0,no,HIES
+2754,Abena Tetteh,Female,28,19,Western,Unemployed,agric,47,2500.0,no,lfs
+3142,Daniel Boateng,Male,twenty-five,4,greater accra,Informal,Trade,49,7600.0,no,lfs
+3453,Fatima Boateng,female,16,5,eastern,Not in Labour Force,Manufacturing,59,7900.0,no,HS
+2945,Emmanuel Mensah,F,39,7,Volta,Self-employed,Trade,1,6600.0,YES,lfs
+3133,Isaac Addo,M,42,14,western,Self-employed,Agriculture,29,4200.0,YES,hs
+2173,Grace Sarpong,Male,53,20,Eastern,unemp,Services,16,6300.0,No,hies
+2305,Kwame Agyeman,Female,17,7,volta,Employed,Trade,13,4550.0,no,hies
+2768,Joseph Tetteh,male,39,15,eastern,Informal,Trade,35,7500.0,no,lfs
+2805,Joseph Mensah,male,110,21,northern,Unemployed,Services,55,6500.0,no,hs
+3099,Abena Boateng,M,56,17,Volta,Not in Labour Force,serv,31,?,YES,hs
+2248,Selina Addo,M,49,21,Central,Unemployed,Manufacturing,16,2950.0,YES,LFS
+3399,Abena Brown,Female,46,14,upper west,Unemployed,Construction,42,7800.0,Yes,LFS
+3473,Fatima Boateng,F,25,17,Northern,Employed,Agriculture,16,6750.0,Yes,lfs
+2650,Efua Nkrumah,M,110,12,Volta,Unemployed,Manufacturing,49,5950.0,YES,hies
+2961,Ama Doe,Male,41,1,Ashanti,Informal,Public Sector,17,,No,HIES
+2227,Kojo Doe,male,27,9,Central,emp,Construction,30,5450.0,No,lfs
+2156,Irene Sarpong,male,52,12,upper west,Informal,Agriculture,9,,no,HS
+2232,Kojo Brown,Male,34,16,Northern,Informal,Construction,52,4050.0,no,HIES
+2789,Joseph Brown,F,22,11,Greater Accra,Informal,Agriculture,4,1350.0,No,lfs
+3392,Daniel Brown,male,56,1,upper west,unemp,Construction,45,5900.0,no,HIES
+2723,Kojo Ofori,female,19,2,northern,Unemployed,Services,26,661.0,No,hies
+3253,Yaw Brown,M,36,16,Central,Unemployed,agric,14,1400.0,No,lfs
+2405,Abena Ofori,male,39,4,upper west,Unemployed,Manufacturing,18,6050.0,No,HIES
+3008,Isaac Ofori,Male,23,13,Central,unemp,Trade,20,5500.0,YES,hies
+3298,Fatima Sarpong,M,32,13,western,Unemployed,agric,22,900.0,no,lfs
+2576,Adwoa Ofori,Male,twenty-five,9,volta,Self-employed,Construction,48,2450.0,no,lfs
+2428,Kojo Tetteh,Male,twenty-five,21,Upper West,Not in Labour Force,serv,66,6700.0,no,hs
+2289,Michael Mensah,M,23,2,ashanti,Employed,Construction,12,,no,LFS
+2597,Michael Ofori,Female,42,16,northern,unemp,serv,forty,7250.0,Yes,HIES
+2985,Emmanuel Asare,F,31,14,upper west,Self-employed,Services,30,5950.0,Yes,HIES
+3148,Irene Boateng,M,23,10,Greater Accra,Unemployed,Agriculture,12,3200.0,YES,HIES
+2020,Joseph Doe,F,23,8,Greater Accra,Self-employed,Trade,51,1300.0,Yes,hies
+2392,Ama Sarpong,Female,29,12,upper east,emp,Construction,4,800.0,Yes,LFS
+3368,Akosua Agyeman,male,22,20,Greater Accra,emp,Public Sector,30,250.0,YES,HIES
+2333,Irene Amankwah,M,31,4,upper west,Employed,agric,14,1600.0,No,HS
+2944,Efua Brown,Male,61,3,volta,unemp,agric,30,450.0,Yes,HS
+2045,Efua Agyeman,Male,34,16,eastern,Employed,serv,53,4700.0,no,lfs
+3219,Daniel Asare,female,34,0,Western,Informal,Trade,45,2550.0,YES,HIES
+3466,Samuel Amankwah,female,34,5,upper west,Not in Labour Force,Agriculture,6,,YES,HS
+2695,Michael Owusu,M,64,5,western,Employed,Public Sector,39,7250.0,Yes,lfs
+2355,Rashid Doe,male,46,9,upper west,unemp,serv,7,,no,hs
+2783,Fatima Nkrumah,F,53,1,Eastern,Employed,Agriculture,51,6750.0,no,hies
+3389,Joseph Lee,F,46,17,Eastern,unemp,Trade,29,6200.0,No,HIES
+2436,Emmanuel Tetteh,male,25,5,eastern,Employed,Services,10,7200.0,no,hies
+2373,Grace Addo,F,46,15,eastern,unemp,Agriculture,45,900.0,no,LFS
+2799,Kojo Amankwah,F,32,14,Eastern,Unemployed,Public Sector,14,1832.0,no,lfs
+2880,Kwame Asare,female,33,7,Eastern,Informal,Services,49,?,YES,HS
+3154,Irene Mensah,female,58,13,greater accra,emp,Construction,32,3750.0,Yes,HIES
+2240,Akosua Doe,Female,41,10,upper west,emp,Manufacturing,16,1250.0,Yes,hies
+2737,Joseph Ofori,M,28,18,ashanti,Informal,Construction,forty,5650.0,YES,hies
+3011,Kofi Doe,Male,61,6,Western,Employed,Manufacturing,18,4100.0,no,HIES
+2034,Kofi Amankwah,Male,23,16,Upper West,unemp,Trade,37,?,No,HIES
+3065,Emmanuel Ofori,female,15,2,Eastern,Not in Labour Force,Public Sector,44,1200.0,No,HIES
+3285,Irene Agyeman,M,32,0,Ashanti,Not in Labour Force,Services,9,3250.0,No,HIES
+2293,Adwoa Ofori,M,51,21,Eastern,Self-employed,Agriculture,8,5400.0,No,lfs
+3344,Samuel Lee,female,38,10,Central,Self-employed,agric,5,6050.0,no,lfs
+2125,Efua Mensah,male,55,7,Eastern,Unemployed,Trade,50,5550.0,YES,HS
+2291,Rashid Tetteh,F,54,0,western,Informal,Trade,36,200.0,No,LFS
+2346,Adwoa Agyeman,female,42,13,Ashanti,Informal,Trade,20,7300.0,Yes,HIES
+3091,Kojo Sarpong,Male,51,6,volta,Informal,serv,39,3850.0,no,hies
+3358,Kwame Boateng,female,20,20,Volta,Self-employed,Services,36,4550.0,Yes,HS
+3165,Joseph Ofori,male,43,16,Western,Not in Labour Force,Agriculture,24,450.0,no,hs
+3178,Abena Nkrumah,male,53,12,western,emp,Public Sector,25,4700.0,No,lfs
+2165,Selina Asare,M,30,2,Western,Not in Labour Force,Trade,54,2000.0,no,LFS
+2662,Fatima Amankwah,Male,27,21,ashanti,Not in Labour Force,Manufacturing,50,6750.0,no,hs
+2412,Efua Boateng,Female,49,1,northern,Self-employed,Services,47,,YES,hs
+2400,Adwoa Lee,Male,31,10,Eastern,Unemployed,agric,25,,no,LFS
+3021,Kwame Asare,male,44,19,greater accra,Unemployed,Services,7,5300.0,No,HS
+2780,Adwoa Agyeman,M,44,19,Central,Employed,serv,41,2650.0,YES,HS
+2434,Kofi Addo,male,48,8,northern,Employed,Agriculture,15,1700.0,Yes,hs
+2021,Daniel Doe,F,63,16,northern,emp,Trade,56,1300.0,YES,hies
+2704,Kojo Doe,F,55,14,western,Unemployed,Agriculture,24,4250.0,Yes,HIES
+3179,Rashid Doe,M,32,19,Volta,Unemployed,Construction,22,200.0,YES,HS
+3454,Grace Boateng,Male,22,3,Upper West,unemp,Agriculture,55,6850.0,no,HIES
+2409,Kojo Ofori,M,32,9,eastern,Unemployed,serv,30,250.0,Yes,HS
+2357,Samuel Ofori,male,34,18,central,Employed,Construction,8,1150.0,YES,lfs
+2994,Rashid Amankwah,male,twenty-five,14,eastern,unemp,Manufacturing,47,150.0,YES,LFS
+2050,Daniel Asare,male,110,4,Volta,Not in Labour Force,Manufacturing,48,2800.0,Yes,lfs
+3365,Daniel Brown,female,31,0,Central,unemp,Trade,49,2550.0,Yes,hs
+3330,Isaac Doe,female,64,2,Upper East,emp,agric,43,800.0,No,hs
+2616,Joseph Brown,male,27,0,Upper West,Unemployed,serv,65,5350.0,no,HIES
+2983,Kojo Tetteh,Male,25,4,ashanti,unemp,Manufacturing,2,?,YES,LFS
+2641,Yaw Ofori,Male,52,5,Western,Unemployed,agric,67,7700.0,Yes,HIES
+2849,Emmanuel Asare,Male,52,8,Eastern,Self-employed,Services,35,4450.0,Yes,hies
+2535,Efua Nkrumah,Female,58,13,upper east,Self-employed,Public Sector,7,2150.0,Yes,hs
+2067,Yaw Doe,female,36,12,Ashanti,Unemployed,Manufacturing,68,7900.0,YES,LFS
+2151,Kofi Boateng,Female,48,19,Greater Accra,Employed,serv,6,6450.0,Yes,HIES
+3320,Michael Sarpong,male,34,1,Upper East,unemp,Public Sector,forty,5950.0,No,hs
+2820,Isaac Owusu,female,61,12,Northern,Employed,agric,31,5850.0,Yes,HS
+2830,Yaw Nkrumah,female,59,12,central,Employed,Services,54,4900.0,no,hs
+2792,Emmanuel Brown,Female,52,9,Greater Accra,unemp,Construction,41,3500.0,no,lfs
+2997,Emmanuel Tetteh,male,63,21,Central,Unemployed,Agriculture,36,,Yes,hies
+3134,Akosua Addo,Male,45,12,central,Unemployed,Trade,38,4300.0,YES,hs
+2832,Rashid Lee,male,56,4,greater accra,Not in Labour Force,Agriculture,40,4600.0,Yes,HS
+3110,Grace Owusu,Female,33,16,Western,Unemployed,serv,13,1716.0,no,hs
+2838,Fatima Mensah,male,21,17,eastern,Unemployed,Manufacturing,1,,YES,HS
+2331,Selina Asare,male,49,2,upper east,emp,Public Sector,10,4600.0,No,lfs
+2992,Kojo Ofori,female,48,18,Greater Accra,emp,Trade,2,2700.0,YES,hs
+3038,Kojo Sarpong,female,46,16,greater accra,Employed,Construction,60,4800.0,YES,lfs
+2036,Irene Ofori,male,55,15,Volta,emp,Agriculture,34,1200.0,YES,hs
+2831,Isaac Addo,M,46,4,Central,Unemployed,serv,57,2100.0,no,HIES
+2446,Kojo Lee,M,34,17,ashanti,Not in Labour Force,serv,57,1400.0,no,hs
+2350,Fatima Agyeman,male,48,8,eastern,Employed,Agriculture,43,5050.0,YES,hs
+2732,Daniel Ofori,F,61,1,Upper West,Informal,Services,25,3900.0,no,LFS
+2342,Selina Lee,Male,41,8,greater accra,emp,Public Sector,46,6300.0,no,lfs
+2578,Kojo Ofori,M,28,20,central,unemp,Manufacturing,28,7250.0,YES,lfs
+3220,Fatima Mensah,F,54,0,ashanti,Unemployed,Trade,forty,2200.0,No,LFS
+2502,Daniel Nkrumah,female,37,0,Upper East,unemp,Manufacturing,31,1179.0,No,hs
+2977,Irene Agyeman,female,55,21,western,Not in Labour Force,Manufacturing,1,6950.0,No,hs
+3040,Selina Doe,M,26,20,upper east,Informal,Agriculture,forty,6400.0,YES,HS
+2638,Grace Brown,female,twenty-five,8,Volta,Unemployed,agric,66,3800.0,Yes,HS
+2713,Ama Lee,female,34,3,western,Unemployed,Manufacturing,18,2900.0,YES,hies
+3096,Abena Sarpong,M,51,3,western,Not in Labour Force,Manufacturing,15,,No,HIES
+2239,Efua Amankwah,female,17,18,Eastern,Employed,Manufacturing,7,200.0,no,hies
+2609,Selina Addo,Female,30,4,Ashanti,emp,Public Sector,3,7500.0,no,LFS
+2847,Yaw Nkrumah,male,28,2,Eastern,Informal,Construction,13,5750.0,Yes,lfs
+3297,Daniel Amankwah,F,24,20,upper east,emp,Services,13,5400.0,YES,hies
+2238,Daniel Ofori,female,65,15,central,Self-employed,agric,9,5700.0,no,lfs
+3177,Kwame Mensah,female,41,5,Eastern,Employed,Public Sector,11,3400.0,Yes,LFS
+2965,Kwame Ofori,Male,45,17,Upper West,Self-employed,Manufacturing,65,3700.0,Yes,hies
+3082,Selina Brown,M,15,8,Greater Accra,Informal,Agriculture,62,3700.0,Yes,lfs
+2039,Efua Amankwah,male,51,3,western,Unemployed,Trade,52,3450.0,YES,LFS
+2105,Selina Owusu,Female,25,18,western,Not in Labour Force,Public Sector,62,4000.0,Yes,HS
+3061,Daniel Addo,Female,35,4,Greater Accra,emp,Agriculture,10,5450.0,No,HS
+2229,Kwame Brown,M,31,0,Ashanti,Not in Labour Force,Construction,9,7750.0,Yes,hs
+2740,Kofi Asare,Male,65,0,ashanti,Self-employed,Construction,42,4300.0,Yes,HS
+2503,Fatima Amankwah,M,53,18,greater accra,Not in Labour Force,Trade,30,6100.0,YES,LFS
+3017,Kojo Ofori,male,64,17,Greater Accra,unemp,Public Sector,14,5150.0,No,HIES
+3336,Abena Addo,M,57,6,eastern,Employed,agric,38,650.0,No,LFS
+2437,Emmanuel Nkrumah,Female,62,20,Central,Not in Labour Force,Public Sector,69,250.0,YES,lfs
+2678,Selina Ofori,M,28,18,Ashanti,Employed,Trade,58,3000.0,Yes,hies
+2271,Isaac Sarpong,female,34,4,Greater Accra,Employed,Manufacturing,2,5900.0,Yes,HIES
+2421,Kojo Mensah,M,twenty-five,1,Upper East,Unemployed,Trade,39,7300.0,no,lfs
+3024,Abena Lee,male,49,15,Central,Informal,Construction,53,5450.0,No,hies
+2527,Emmanuel Ofori,male,19,6,Upper East,Employed,Agriculture,14,2350.0,YES,hies
+2869,Isaac Doe,male,31,7,upper west,Informal,Public Sector,1,5950.0,no,hies
+2675,Selina Ofori,M,63,14,Northern,Unemployed,Construction,24,5000.0,No,HIES
+2842,Grace Asare,Male,37,0,ashanti,unemp,Agriculture,62,6000.0,Yes,hies
+3296,Michael Agyeman,female,56,21,Eastern,Unemployed,Services,63,6050.0,Yes,HS
+3257,Efua Doe,M,16,4,Western,Employed,Public Sector,70,1750.0,Yes,LFS
+2545,Joseph Tetteh,Male,50,17,Upper East,Employed,Agriculture,37,6700.0,No,lfs
+2594,Kwame Owusu,male,twenty-five,12,Eastern,Self-employed,serv,forty,6750.0,YES,LFS
+3362,Kojo Doe,F,15,3,Northern,unemp,Services,58,5050.0,Yes,hs
+2697,Kofi Lee,M,39,5,northern,emp,Trade,56,,no,LFS
+2646,Selina Sarpong,male,58,0,Northern,unemp,agric,10,1122.0,Yes,hies
+2686,Kojo Lee,M,19,3,Northern,emp,Trade,35,4700.0,YES,HIES
+2128,Irene Agyeman,M,27,5,Upper East,emp,Agriculture,9,1150.0,No,lfs
+2771,Joseph Doe,female,57,6,upper east,Not in Labour Force,Services,forty,,YES,LFS
+2003,Akosua Mensah,Male,29,10,greater accra,Unemployed,Manufacturing,58,5150.0,Yes,HS
+2490,Emmanuel Tetteh,Female,56,2,Eastern,Employed,Public Sector,27,3800.0,Yes,hs
+2280,Rashid Mensah,female,59,6,Ashanti,Unemployed,Agriculture,13,754.0,Yes,lfs
+2207,Yaw Lee,male,27,3,central,unemp,Manufacturing,22,6600.0,no,HS
+2621,Irene Agyeman,female,40,15,Eastern,Informal,agric,7,5650.0,No,HS
+2632,Kwame Boateng,male,38,4,Northern,Unemployed,serv,16,2700.0,Yes,hies
+3218,Akosua Owusu,female,24,20,Upper East,Not in Labour Force,Construction,66,2900.0,YES,HS
+2425,Daniel Ofori,Male,110,6,upper east,Self-employed,agric,69,5150.0,No,hs
+2940,Adwoa Lee,Male,35,6,upper east,emp,Services,51,7550.0,YES,hies
+3415,Abena Asare,M,53,11,northern,Employed,Trade,24,4050.0,No,HS
+3122,Kofi Amankwah,M,17,10,northern,unemp,Agriculture,10,7000.0,no,lfs
+2320,Ama Doe,F,65,2,Upper East,Informal,serv,60,4200.0,YES,lfs
+2676,Irene Boateng,F,43,5,volta,Unemployed,Trade,8,7950.0,no,hs
+2162,Yaw Lee,Female,44,5,Upper West,Not in Labour Force,serv,64,7850.0,Yes,HS
+2525,Selina Amankwah,female,38,1,eastern,Unemployed,Services,44,2150.0,Yes,LFS
+2513,Kofi Mensah,Male,42,20,ashanti,Informal,Manufacturing,40,7850.0,no,LFS
+2484,Emmanuel Asare,Male,57,1,Western,Employed,Trade,66,3850.0,no,hs
+2665,Irene Boateng,M,45,7,Northern,Employed,Manufacturing,9,4400.0,No,lfs
+3405,Ama Doe,F,30,19,western,Employed,agric,61,6450.0,Yes,hies
+3093,Daniel Doe,F,twenty-five,2,Eastern,Not in Labour Force,serv,20,2300.0,YES,hs
+3295,Rashid Nkrumah,Female,59,18,Eastern,emp,Public Sector,3,300.0,No,HS
+2477,Grace Ofori,Female,55,0,Northern,Not in Labour Force,Agriculture,41,7950.0,No,HS
+2585,Adwoa Addo,Female,48,15,northern,Not in Labour Force,Trade,66,2500.0,No,lfs
+2834,Fatima Mensah,male,twenty-five,10,Central,unemp,Construction,2,3050.0,Yes,LFS
+2456,Yaw Sarpong,Male,52,14,Western,Employed,Services,6,1250.0,no,LFS
+2022,Akosua Ofori,M,61,12,central,Not in Labour Force,agric,2,5800.0,YES,lfs
+2817,Efua Boateng,Male,27,9,central,emp,Construction,65,2050.0,No,HIES
+2835,Kofi Sarpong,Female,48,2,western,unemp,agric,41,300.0,YES,hies
+2167,Akosua Lee,M,15,4,Western,Unemployed,Services,24,1250.0,Yes,hs
+2116,Efua Addo,Female,41,14,central,Self-employed,Agriculture,62,2950.0,no,HS
+2962,Irene Brown,M,37,8,eastern,Employed,Trade,66,4750.0,YES,hies
+2863,Ama Nkrumah,Female,110,18,volta,Self-employed,serv,41,5150.0,no,hs
+3012,Ama Brown,Male,51,6,Central,Self-employed,Manufacturing,26,5750.0,no,lfs
+2719,Abena Amankwah,male,twenty-five,1,greater accra,unemp,Construction,43,,YES,HIES
+2899,Isaac Addo,F,twenty-five,17,eastern,Informal,Public Sector,67,1200.0,no,hies
+3323,Irene Nkrumah,Female,18,16,western,Self-employed,serv,7,2550.0,Yes,lfs
+2301,Efua Brown,female,22,17,Eastern,Not in Labour Force,Services,26,7000.0,No,HIES
+2100,Ama Addo,M,35,1,upper west,Unemployed,Manufacturing,59,2600.0,No,HS
+2827,Yaw Amankwah,Female,36,1,Northern,emp,Services,65,1950.0,No,lfs
+2431,Fatima Boateng,female,21,7,Upper East,unemp,Construction,51,2750.0,YES,HIES
+2129,Ama Brown,M,43,1,Northern,emp,Construction,41,5400.0,YES,lfs
+3234,Samuel Brown,F,33,17,central,emp,Agriculture,25,1100.0,no,hs
+2153,Adwoa Brown,male,17,20,Central,Self-employed,Trade,44,3450.0,No,lfs
+2252,Fatima Boateng,Male,65,5,Central,Unemployed,Public Sector,33,300.0,YES,lfs
+3158,Grace Owusu,F,65,7,Eastern,Unemployed,Trade,69,400.0,Yes,HIES
+2728,Ama Agyeman,Female,33,15,western,Self-employed,Agriculture,28,500.0,no,hies
+2935,Yaw Amankwah,F,34,4,Western,Not in Labour Force,agric,40,3500.0,YES,hs
+3402,Samuel Amankwah,female,44,21,Eastern,emp,Trade,50,7450.0,no,HS
+2896,Kojo Tetteh,M,57,3,upper west,Not in Labour Force,Construction,13,,Yes,HIES
+2369,Fatima Asare,Female,37,16,Greater Accra,Self-employed,Construction,19,2500.0,no,hs
+2136,Kojo Boateng,Male,26,1,Upper East,Self-employed,Trade,53,5150.0,no,hies
+2653,Efua Addo,F,25,15,Volta,Informal,Trade,46,500.0,Yes,HIES
+2370,Abena Owusu,Female,32,21,Volta,Unemployed,Public Sector,20,1464.0,YES,lfs
+2155,Daniel Owusu,Male,15,3,central,emp,agric,59,600.0,Yes,hs
+2987,Selina Mensah,Male,26,1,Central,Employed,Services,forty,4300.0,no,hs
+3458,Samuel Doe,F,64,0,eastern,unemp,Agriculture,30,6500.0,No,LFS
+2306,Samuel Lee,M,16,14,greater accra,Self-employed,Construction,forty,?,YES,HIES
+2613,Kofi Owusu,female,16,11,central,unemp,Manufacturing,9,5350.0,No,hs
+3075,Efua Tetteh,female,16,17,Upper West,Not in Labour Force,Construction,forty,4000.0,YES,hies
+2420,Grace Brown,male,16,11,ashanti,Employed,Public Sector,55,1500.0,No,lfs
+3222,Akosua Owusu,male,21,17,northern,Employed,Manufacturing,62,1100.0,No,HS
+3132,Isaac Amankwah,M,34,21,upper west,Informal,serv,32,5650.0,Yes,lfs
+2247,Michael Sarpong,F,43,2,Eastern,Unemployed,Trade,18,1242.0,no,HIES
+2709,Abena Lee,F,29,8,Eastern,Employed,Services,5,950.0,no,HIES
+2314,Joseph Boateng,M,52,8,northern,emp,Agriculture,5,1900.0,no,HIES
+3135,Grace Asare,Female,60,8,greater accra,Not in Labour Force,Services,8,5250.0,Yes,LFS
+3371,Joseph Nkrumah,Male,30,8,upper east,Self-employed,Public Sector,70,2050.0,YES,LFS
+2668,Irene Asare,male,63,4,Ashanti,Not in Labour Force,Trade,33,6450.0,Yes,HS
+2972,Adwoa Asare,Male,58,6,Upper West,Not in Labour Force,Manufacturing,60,5100.0,No,LFS
+3240,Abena Ofori,Female,54,12,ashanti,Informal,Trade,29,3350.0,No,HS
+2677,Kwame Brown,M,34,1,central,Self-employed,Manufacturing,42,2250.0,Yes,HIES
+2966,Isaac Agyeman,female,39,10,Volta,Informal,Construction,32,,no,HS
+3284,Adwoa Asare,Female,52,20,Central,Employed,Trade,36,350.0,YES,lfs
+2142,Selina Addo,female,35,7,Upper East,emp,Manufacturing,6,5950.0,no,hs
+3095,Kojo Amankwah,female,42,5,central,Employed,agric,34,2300.0,YES,HIES
+2879,Yaw Doe,F,30,18,greater accra,Self-employed,Public Sector,15,,No,hies
+2744,Selina Owusu,female,28,17,Greater Accra,Self-employed,Services,48,5900.0,Yes,HS
+3374,Kojo Nkrumah,F,17,7,Western,Unemployed,Construction,forty,3700.0,no,HS
+2113,Rashid Nkrumah,M,twenty-five,10,Northern,Unemployed,Manufacturing,19,6400.0,no,LFS
+3397,Efua Mensah,F,25,5,central,Not in Labour Force,Services,4,1550.0,no,HS
+3457,Isaac Asare,M,23,14,central,Self-employed,serv,29,3450.0,No,LFS
+2546,Kojo Owusu,F,60,12,Ashanti,Not in Labour Force,agric,9,2200.0,YES,LFS
+3174,Ama Amankwah,female,30,16,upper east,Self-employed,Agriculture,54,4250.0,No,hies
+3314,Michael Asare,female,38,15,northern,emp,Services,15,1200.0,No,hies
+2856,Fatima Amankwah,Male,23,9,volta,Employed,agric,54,400.0,No,HS
+3034,Daniel Boateng,Female,47,13,Upper West,Self-employed,Trade,67,4450.0,No,HS
+3373,Akosua Addo,F,18,19,Northern,Informal,Construction,7,1550.0,Yes,lfs
+2060,Akosua Amankwah,Female,52,11,Central,unemp,Public Sector,48,6400.0,No,lfs
+2335,Efua Ofori,M,27,21,upper east,Self-employed,serv,27,1600.0,Yes,lfs
+2329,Selina Mensah,Female,58,21,eastern,unemp,Public Sector,1,7900.0,Yes,LFS
+2691,Emmanuel Addo,male,65,8,upper east,emp,agric,51,1600.0,Yes,hs
+2817,Efua Boateng,Male,27,9,central,emp,Construction,65,2050.0,No,HIES
+3241,Akosua Owusu,F,48,6,Volta,Self-employed,Manufacturing,9,350.0,Yes,HIES
+3235,Michael Amankwah,M,54,3,Upper East,Informal,agric,26,5400.0,YES,LFS
+2745,Ama Boateng,Male,57,20,Central,emp,Agriculture,49,7950.0,no,LFS
+2353,Kwame Brown,M,35,10,upper east,unemp,Construction,27,2100.0,Yes,LFS
+2222,Joseph Asare,male,42,7,Western,Self-employed,Services,31,1450.0,Yes,LFS
+2119,Grace Asare,female,25,11,western,Employed,Agriculture,24,5650.0,YES,lfs
+2868,Daniel Asare,female,37,5,Western,emp,Agriculture,1,4900.0,YES,hies
+2625,Abena Amankwah,F,58,0,Ashanti,Not in Labour Force,Agriculture,29,650.0,YES,LFS
+3119,Selina Agyeman,male,46,4,northern,Employed,Trade,42,200.0,no,HS
+2005,Joseph Nkrumah,M,41,16,ashanti,Unemployed,Manufacturing,20,6400.0,no,HS
+2171,Abena Lee,Female,25,20,Upper East,Self-employed,serv,56,7050.0,No,HIES
+3195,Kwame Sarpong,Female,36,1,Upper East,Informal,Public Sector,32,3550.0,YES,LFS
+2825,Akosua Nkrumah,F,21,9,upper west,unemp,Services,45,2750.0,No,lfs
+3342,Fatima Sarpong,M,42,17,Northern,Informal,Public Sector,64,3700.0,YES,LFS
+2046,Kojo Sarpong,Male,29,13,central,Employed,Manufacturing,70,,YES,hs
+3445,Abena Ofori,F,42,2,upper east,emp,Services,10,1900.0,Yes,hies
+2718,Ama Brown,female,28,18,eastern,Not in Labour Force,Public Sector,36,3350.0,no,HIES
+2350,Fatima Agyeman,male,48,8,eastern,Employed,Agriculture,43,5050.0,YES,hs
+2472,Rashid Asare,male,29,0,Upper West,Informal,agric,35,4450.0,No,lfs
+2253,Irene Amankwah,male,53,13,greater accra,Not in Labour Force,Agriculture,39,7200.0,Yes,lfs
+2009,Abena Doe,male,twenty-five,4,greater accra,Self-employed,Manufacturing,4,3600.0,YES,HIES
+3217,Emmanuel Agyeman,Male,31,0,northern,Not in Labour Force,serv,39,3950.0,No,hies
+2684,Kofi Sarpong,Male,30,18,Central,Informal,Trade,44,5450.0,YES,HS
+2816,Emmanuel Mensah,Female,27,12,western,Self-employed,Construction,16,1400.0,Yes,HIES
+2219,Joseph Sarpong,male,54,12,volta,unemp,Public Sector,34,3450.0,No,lfs
+2246,Yaw Brown,F,35,17,upper east,Not in Labour Force,Services,forty,6850.0,no,hies
+2996,Selina Addo,female,39,5,Volta,emp,agric,47,8000.0,YES,HS
+2794,Adwoa Agyeman,Male,51,7,volta,Not in Labour Force,Agriculture,30,150.0,no,hs
+2245,Fatima Sarpong,M,38,6,Northern,emp,agric,44,7400.0,no,LFS
+2645,Isaac Brown,female,24,2,Volta,Informal,agric,70,7550.0,YES,LFS
+2212,Kojo Brown,Male,24,19,central,Unemployed,serv,36,4700.0,YES,LFS
+3128,Grace Ofori,Female,53,18,Ashanti,Informal,Trade,32,7350.0,YES,lfs
+2302,Kojo Addo,female,31,11,Eastern,unemp,Public Sector,25,1044.0,no,lfs
+2512,Samuel Brown,F,47,8,Central,Unemployed,Manufacturing,40,2900.0,No,HS
+3312,Fatima Doe,F,51,14,volta,Not in Labour Force,Trade,24,1600.0,no,HIES
+2975,Irene Brown,male,36,7,central,Unemployed,Manufacturing,37,6750.0,Yes,LFS
+2300,Irene Brown,male,58,18,Western,Informal,Public Sector,8,3300.0,Yes,HIES
+3458,Samuel Doe,F,64,0,eastern,unemp,Agriculture,30,6500.0,No,LFS
+2225,Isaac Amankwah,female,34,13,Central,unemp,Trade,6,3250.0,Yes,HIES
+2147,Ama Nkrumah,M,54,19,eastern,Self-employed,Construction,43,5400.0,no,HS
+2539,Adwoa Mensah,Male,65,3,Northern,emp,Manufacturing,19,2450.0,Yes,hs
+3287,Samuel Mensah,M,15,19,greater accra,Informal,Construction,65,1650.0,YES,LFS
+3224,Abena Ofori,Female,58,3,northern,Not in Labour Force,Public Sector,5,3450.0,Yes,hies
+2617,Efua Agyeman,male,twenty-five,2,Upper East,unemp,Agriculture,11,7300.0,no,HIES
+2276,Samuel Ofori,Male,19,14,Upper East,Not in Labour Force,Agriculture,52,3800.0,No,HIES
+3172,Efua Lee,F,58,12,ashanti,Employed,Construction,15,3600.0,no,HS
+3129,Yaw Ofori,male,37,9,Eastern,Unemployed,Services,50,800.0,No,hies
+2313,Emmanuel Asare,M,46,2,Western,Not in Labour Force,Manufacturing,65,1700.0,no,hs
+2051,Selina Agyeman,male,45,18,upper west,unemp,agric,15,2428.0,No,LFS
+3448,Joseph Doe,M,58,19,central,unemp,Manufacturing,29,1624.0,No,LFS
+2286,Grace Boateng,Male,42,5,volta,emp,Manufacturing,52,5050.0,No,hies
+2908,Ama Brown,female,64,9,Central,emp,Services,36,250.0,No,LFS
+2660,Emmanuel Mensah,female,51,8,upper west,Unemployed,Agriculture,6,,Yes,HIES
+2738,Joseph Doe,Female,59,18,eastern,Employed,Services,5,850.0,YES,hs
+2778,Ama Owusu,Female,59,16,Upper East,Informal,Public Sector,13,3900.0,no,hies
+2726,Emmanuel Boateng,M,18,20,western,Unemployed,Trade,32,5800.0,Yes,lfs
+3262,Daniel Sarpong,female,27,7,upper west,Not in Labour Force,serv,17,2700.0,no,HS
+2403,Abena Lee,male,110,17,Greater Accra,Self-employed,Construction,64,1200.0,No,hs
+2442,Selina Brown,male,20,11,Ashanti,Unemployed,serv,37,3700.0,No,LFS
+2933,Yaw Agyeman,Female,17,18,Central,unemp,Public Sector,63,,No,lfs
+2180,Yaw Nkrumah,Male,50,10,eastern,unemp,agric,30,6750.0,YES,lfs
+3328,Daniel Doe,Male,38,2,ashanti,Not in Labour Force,Trade,11,3600.0,no,hs
+3031,Kwame Doe,Male,36,15,western,emp,Manufacturing,28,6750.0,no,lfs
+2800,Yaw Nkrumah,female,42,0,Upper West,Employed,agric,6,4800.0,No,lfs
+2047,Daniel Addo,M,110,1,upper west,Employed,agric,34,1500.0,YES,LFS
+3007,Emmanuel Addo,male,58,16,Eastern,Employed,Construction,59,7200.0,no,LFS
+3118,Michael Boateng,Male,63,9,Upper West,emp,Construction,50,4350.0,no,HIES
+2458,Kojo Lee,male,17,2,Northern,Informal,Services,47,4350.0,YES,hs
+3244,Efua Amankwah,M,64,7,Northern,Employed,Public Sector,40,3150.0,no,LFS
+2418,Efua Owusu,M,21,12,western,Informal,Manufacturing,50,5600.0,YES,hs
+3474,Kwame Nkrumah,Male,53,21,Western,Not in Labour Force,Trade,21,3950.0,no,LFS
+2441,Kwame Nkrumah,male,62,5,upper east,Employed,serv,0,1500.0,Yes,LFS
+2216,Efua Doe,female,46,17,western,Self-employed,Agriculture,21,5050.0,no,hies
+3465,Joseph Owusu,female,17,8,Western,emp,serv,11,250.0,YES,hies
+3349,Yaw Boateng,Male,19,11,eastern,Informal,Public Sector,43,1000.0,No,HS
+2959,Daniel Asare,female,47,3,greater accra,unemp,Services,14,8000.0,no,hies
+3301,Irene Brown,F,29,17,Eastern,Not in Labour Force,Public Sector,forty,6350.0,YES,hs
+2018,Isaac Doe,Female,57,1,central,Employed,Agriculture,64,2450.0,no,hs
+2026,Adwoa Brown,female,23,6,Ashanti,Employed,Public Sector,13,4800.0,no,HS
+2371,Fatima Tetteh,female,55,8,Upper East,emp,Services,64,5000.0,No,hs
+3056,Michael Ofori,F,49,21,volta,Not in Labour Force,Agriculture,63,3150.0,YES,hies
+2380,Grace Asare,Female,60,21,western,Employed,Manufacturing,65,7800.0,No,hies
+3339,Yaw Tetteh,F,61,21,eastern,Unemployed,Construction,4,6250.0,no,HS
+2643,Grace Agyeman,Male,59,2,Greater Accra,Not in Labour Force,Services,26,4700.0,no,hies
+3167,Grace Nkrumah,female,21,13,Central,Self-employed,Public Sector,6,6850.0,Yes,LFS
+3355,Ama Asare,Female,31,2,northern,Self-employed,Manufacturing,26,5600.0,Yes,hs
+3318,Yaw Doe,F,64,11,Central,Employed,serv,55,8000.0,YES,hies
+2348,Kofi Brown,F,54,18,Western,Unemployed,serv,8,,YES,lfs
+3266,Efua Nkrumah,Male,63,8,Ashanti,emp,Services,10,3200.0,no,hies
+3468,Kofi Doe,male,59,13,Northern,unemp,Manufacturing,11,1300.0,No,hs
+3394,Yaw Sarpong,Male,110,9,western,unemp,Trade,20,1635.0,YES,HIES
+3191,Emmanuel Addo,M,54,1,upper west,Self-employed,Trade,14,4850.0,YES,HS
+2466,Efua Ofori,female,19,10,Central,unemp,agric,61,2050.0,YES,HS
+3472,Yaw Doe,Female,45,0,Central,unemp,Public Sector,7,5150.0,Yes,HIES
+2460,Daniel Brown,Male,25,5,Eastern,Not in Labour Force,serv,67,1100.0,No,lfs
+3263,Daniel Mensah,F,22,9,northern,Informal,Manufacturing,36,3650.0,Yes,hs
+2602,Samuel Boateng,male,22,15,upper east,Not in Labour Force,Services,54,1650.0,Yes,HS
+3022,Fatima Agyeman,Female,twenty-five,20,western,Informal,serv,7,3650.0,YES,HS
+2907,Irene Brown,female,40,18,ashanti,Unemployed,agric,25,6450.0,Yes,HS
+2708,Isaac Brown,M,64,12,central,emp,Agriculture,18,7100.0,Yes,hs
+2886,Yaw Addo,female,41,7,Greater Accra,Unemployed,Public Sector,14,,no,HS
+2462,Adwoa Sarpong,F,59,0,Northern,unemp,serv,65,4500.0,No,lfs
+2031,Samuel Ofori,Female,37,14,Upper East,unemp,Public Sector,34,2200.0,no,HS
+3484,Isaac Owusu,male,27,2,Eastern,Unemployed,Construction,37,1805.0,No,lfs
+3379,Efua Asare,female,51,12,western,Informal,Manufacturing,29,4650.0,No,lfs
+3194,Ama Tetteh,F,49,17,Ashanti,unemp,serv,22,5400.0,no,hs
+3067,Fatima Owusu,F,22,9,volta,Employed,agric,25,3500.0,no,HS
+3107,Michael Asare,female,65,21,northern,Self-employed,Services,55,7850.0,YES,lfs
+2670,Efua Addo,M,24,10,Western,Unemployed,Construction,9,,YES,LFS
+2070,Grace Amankwah,F,46,5,central,emp,Agriculture,51,7500.0,no,HS
+3442,Samuel Brown,M,36,11,Upper West,unemp,Agriculture,49,2750.0,Yes,HS
+3470,Selina Owusu,male,52,19,greater accra,Not in Labour Force,Construction,18,1150.0,no,LFS
+2958,Irene Ofori,M,28,4,upper east,Informal,Construction,59,5400.0,YES,lfs
+2237,Isaac Addo,F,45,13,Greater Accra,Informal,agric,49,7600.0,no,HIES
+3256,Kofi Doe,M,50,4,Eastern,Informal,agric,21,7950.0,Yes,HS
+2890,Kwame Agyeman,female,52,8,Upper West,Informal,serv,62,2950.0,no,HIES
+2583,Akosua Mensah,female,31,8,Ashanti,Self-employed,Construction,18,,no,HIES
+3420,Michael Doe,F,40,10,eastern,Self-employed,serv,35,,No,HIES
+2874,Efua Asare,F,62,8,Upper East,Unemployed,Construction,53,3150.0,YES,LFS
+3087,Yaw Lee,Female,57,0,greater accra,unemp,Services,31,6100.0,No,hies
+2332,Emmanuel Doe,F,60,6,ashanti,Employed,serv,28,?,YES,LFS
+2483,Daniel Addo,Male,50,21,Central,Unemployed,Manufacturing,67,6100.0,Yes,HS
+2980,Michael Owusu,male,32,20,Upper West,Employed,Manufacturing,49,7650.0,no,LFS
+3227,Fatima Nkrumah,female,36,19,volta,Informal,Agriculture,47,6800.0,YES,hies
+2693,Ama Doe,M,58,3,Eastern,Self-employed,Trade,41,5500.0,Yes,LFS
+2984,Samuel Brown,female,23,1,central,unemp,serv,16,200.0,YES,hs
+3086,Daniel Nkrumah,Male,51,2,eastern,Not in Labour Force,Construction,6,7450.0,no,hs
+3268,Akosua Brown,M,49,7,Upper West,Employed,agric,20,4650.0,YES,hs
+3077,Daniel Lee,F,35,2,Upper East,unemp,agric,19,3050.0,YES,lfs
+3033,Akosua Owusu,male,35,14,Ashanti,Informal,Trade,27,3800.0,no,lfs
+2516,Kojo Brown,Male,48,16,greater accra,Informal,Manufacturing,25,3550.0,No,LFS
+3451,Kwame Sarpong,Female,49,8,greater accra,Employed,Trade,62,5500.0,no,LFS
+3273,Kojo Addo,male,64,16,Upper West,Informal,serv,37,3500.0,no,hs
+2190,Rashid Lee,Male,26,19,upper east,unemp,Services,51,2700.0,no,lfs
+2203,Efua Lee,Male,60,12,upper west,Employed,serv,41,4250.0,no,hies
+3438,Rashid Asare,F,60,13,northern,Employed,Trade,6,,no,HIES
+3267,Fatima Ofori,female,30,9,Upper East,Informal,Public Sector,64,800.0,Yes,HS
+2568,Daniel Brown,female,twenty-five,18,Upper East,Employed,Manufacturing,forty,?,Yes,lfs
+2708,Isaac Brown,M,64,12,central,emp,Agriculture,18,7100.0,Yes,hs
+2075,Akosua Amankwah,male,40,7,eastern,unemp,Manufacturing,44,3100.0,YES,LFS
+3278,Akosua Ofori,M,25,9,volta,emp,Agriculture,33,1950.0,YES,LFS
+2043,Akosua Tetteh,female,59,8,western,emp,Agriculture,47,2450.0,YES,hs
+2964,Adwoa Lee,female,46,11,Ashanti,Unemployed,Trade,70,4550.0,no,HS
+2910,Adwoa Ofori,Male,22,18,Ashanti,Self-employed,Construction,10,2050.0,No,lfs
+2683,Abena Boateng,Female,33,0,ashanti,Informal,Public Sector,48,5850.0,no,hs
+2324,Adwoa Nkrumah,F,36,7,volta,emp,serv,23,2800.0,YES,hs
+2399,Kwame Asare,Female,26,19,upper east,Employed,Manufacturing,31,3650.0,no,hs
+2368,Adwoa Doe,female,28,8,greater accra,unemp,Trade,32,2700.0,Yes,HS
+3308,Adwoa Addo,F,twenty-five,4,Volta,Not in Labour Force,Agriculture,54,,No,LFS
+2853,Rashid Mensah,Male,21,5,Eastern,Informal,Trade,47,7100.0,No,HIES
+3335,Efua Asare,male,35,4,central,Informal,Services,4,5950.0,no,HS
+2106,Selina Ofori,female,47,7,upper west,Self-employed,Public Sector,59,7300.0,Yes,HIES
+2833,Isaac Lee,F,33,17,Volta,emp,Services,35,4600.0,YES,lfs
+2967,Emmanuel Addo,Female,64,6,volta,Informal,Manufacturing,2,5400.0,no,HIES
+2540,Grace Asare,female,18,9,western,emp,Trade,forty,6200.0,Yes,lfs
+2288,Rashid Brown,Male,56,10,western,unemp,Services,39,970.0,No,HS
+2950,Grace Ofori,F,30,6,Northern,Unemployed,Construction,26,7300.0,No,hies
+2748,Yaw Asare,Male,39,17,volta,Self-employed,Construction,69,950.0,No,LFS
+3272,Akosua Ofori,male,60,8,Volta,emp,Agriculture,61,3550.0,Yes,lfs
+3444,Kojo Lee,female,64,14,Eastern,unemp,Public Sector,39,830.0,no,LFS
+2606,Kojo Lee,Male,32,11,Western,emp,agric,24,1400.0,YES,lfs
+3152,Adwoa Brown,female,25,2,Ashanti,Unemployed,agric,9,6200.0,no,LFS
+2230,Daniel Mensah,Female,65,14,upper east,unemp,Manufacturing,19,1501.0,No,HIES
+2569,Adwoa Nkrumah,female,47,3,northern,emp,Agriculture,11,6950.0,No,hies
+2322,Fatima Ofori,Male,20,15,Upper West,Employed,Agriculture,64,3950.0,No,HS
+2391,Abena Amankwah,M,42,10,ashanti,Unemployed,Trade,18,6500.0,no,hs
+2574,Samuel Doe,male,42,3,central,Employed,Manufacturing,12,1750.0,no,lfs
+2091,Rashid Tetteh,Female,21,16,Upper West,Employed,serv,40,6000.0,YES,LFS
+3176,Rashid Boateng,F,17,0,northern,Unemployed,Construction,22,4450.0,YES,LFS
+2559,Kwame Doe,male,15,18,upper west,Informal,Manufacturing,39,7200.0,Yes,HIES
+2078,Kwame Doe,male,29,7,Eastern,Informal,Construction,29,5050.0,no,HIES
+2364,Efua Boateng,male,63,7,Northern,Informal,agric,53,5950.0,Yes,hs
+2084,Yaw Owusu,female,63,7,western,emp,Construction,20,550.0,YES,hs
+2126,Kofi Doe,Male,58,14,Northern,Informal,Public Sector,25,850.0,YES,HIES
+2725,Kofi Mensah,Male,33,9,Central,Unemployed,Manufacturing,19,5450.0,YES,hies
+2630,Adwoa Nkrumah,M,57,21,Upper East,Unemployed,Public Sector,5,7800.0,No,HIES
+2080,Joseph Brown,F,34,9,Upper West,Informal,Manufacturing,55,3250.0,YES,HS
+3000,Grace Asare,Male,55,15,Volta,Informal,Trade,14,2650.0,YES,HS
+2873,Daniel Lee,male,62,0,greater accra,Self-employed,serv,21,6300.0,YES,HS
+3430,Adwoa Asare,female,33,17,greater accra,Employed,agric,54,4650.0,YES,hs
+2365,Kwame Nkrumah,male,60,11,upper east,Self-employed,Construction,38,3000.0,no,hies
+2086,Grace Agyeman,male,51,2,volta,emp,Services,12,7700.0,YES,HS
+2526,Emmanuel Tetteh,M,48,8,Ashanti,Self-employed,Public Sector,38,4900.0,No,HIES
+2307,Akosua Addo,female,25,7,Northern,Unemployed,agric,47,5050.0,Yes,HS
+2464,Selina Doe,female,42,3,Eastern,unemp,serv,forty,3850.0,no,lfs
+3447,Irene Addo,F,21,21,volta,Self-employed,Public Sector,11,7000.0,No,lfs
+2215,Efua Owusu,male,38,17,Upper West,unemp,Public Sector,16,4750.0,no,hs
+3223,Irene Amankwah,M,38,6,Western,emp,Agriculture,forty,5150.0,Yes,LFS
+3464,Adwoa Sarpong,Female,32,1,Eastern,Self-employed,serv,38,7200.0,Yes,LFS
+2671,Rashid Addo,F,20,0,Central,Unemployed,Public Sector,16,250.0,No,HIES
+2282,Samuel Asare,F,54,5,Ashanti,Unemployed,Public Sector,47,950.0,Yes,HS
+2898,Selina Ofori,Female,58,3,Upper East,Self-employed,Manufacturing,60,4800.0,no,lfs
+2419,Emmanuel Boateng,F,25,8,Greater Accra,Employed,Agriculture,25,2700.0,Yes,HS
+3184,Daniel Boateng,female,50,13,ashanti,emp,Services,21,3550.0,no,HS
+2954,Kofi Nkrumah,F,23,13,Eastern,Employed,Services,14,2250.0,YES,LFS
+3080,Irene Nkrumah,Male,49,13,ashanti,Informal,Construction,53,,Yes,lfs
+3488,Akosua Sarpong,male,58,8,central,Unemployed,Services,11,3600.0,YES,hs
+3210,Kofi Addo,Female,twenty-five,2,western,emp,Public Sector,7,1950.0,Yes,hies
+2815,Isaac Addo,M,60,6,Northern,Not in Labour Force,agric,53,4500.0,Yes,hs
+2859,Irene Agyeman,Male,110,12,greater accra,Unemployed,Services,44,1750.0,No,HIES
+2019,Efua Lee,Female,27,13,greater accra,unemp,agric,0,1200.0,Yes,HIES
+3317,Adwoa Doe,M,43,0,Upper East,emp,Trade,44,800.0,no,HIES
+2311,Rashid Sarpong,Male,24,18,Western,Informal,Services,21,2650.0,No,lfs
+2655,Joseph Nkrumah,female,32,20,greater accra,emp,Services,27,3700.0,No,hies
+2524,Abena Ofori,male,55,13,Northern,Employed,Construction,66,4850.0,Yes,hies
+2931,Kwame Amankwah,F,39,17,Ashanti,unemp,Trade,38,7800.0,no,HIES
+2582,Adwoa Addo,male,54,12,ashanti,unemp,agric,40,?,Yes,LFS
+2989,Yaw Asare,female,19,3,Ashanti,Employed,Agriculture,43,6300.0,Yes,lfs
+2813,Samuel Ofori,Female,32,17,upper west,emp,Trade,16,7450.0,Yes,HIES
+3036,Samuel Sarpong,male,26,17,Western,Informal,Manufacturing,28,1150.0,Yes,lfs
+3015,Ama Asare,female,23,15,western,Self-employed,Public Sector,15,7850.0,Yes,HS
+3370,Emmanuel Doe,female,53,5,eastern,emp,serv,10,1350.0,No,HS
+2775,Irene Agyeman,Female,50,1,upper west,Informal,Services,67,4850.0,Yes,HS
+3239,Grace Brown,F,45,5,Volta,Self-employed,Public Sector,41,3450.0,no,LFS
+3001,Irene Ofori,Female,21,12,volta,Self-employed,Construction,33,5350.0,no,lfs
+3305,Kojo Brown,Female,61,14,Upper West,Employed,Construction,27,5100.0,No,HIES
+3161,Selina Owusu,Female,58,4,western,emp,agric,22,6050.0,No,lfs
+2037,Yaw Agyeman,M,34,5,Ashanti,Not in Labour Force,Trade,25,3700.0,YES,hies
+2581,Emmanuel Lee,male,50,18,eastern,Self-employed,serv,56,500.0,No,lfs
+2776,Michael Nkrumah,M,38,10,Greater Accra,Not in Labour Force,agric,19,5000.0,No,hs
+2756,Yaw Sarpong,M,16,5,Western,Not in Labour Force,serv,30,6000.0,No,HIES
+2889,Fatima Nkrumah,Female,54,8,Central,Self-employed,serv,10,6700.0,Yes,hs
+2263,Irene Nkrumah,M,21,13,Upper West,unemp,Manufacturing,55,4800.0,YES,lfs
+2803,Joseph Sarpong,Female,53,20,Eastern,Informal,serv,54,6850.0,No,HIES
+2074,Selina Brown,female,39,0,Central,Informal,Agriculture,16,7250.0,no,HS
+2767,Adwoa Agyeman,Male,35,9,Volta,Informal,Agriculture,68,7300.0,No,hs
+2903,Yaw Tetteh,M,24,6,upper east,emp,Public Sector,45,650.0,no,hies
+3246,Samuel Agyeman,Male,61,19,upper west,unemp,Manufacturing,42,700.0,No,lfs
+2837,Abena Addo,female,58,7,Upper East,Unemployed,agric,20,3000.0,YES,hs
+3288,Grace Owusu,F,54,3,volta,Unemployed,Construction,64,1350.0,Yes,lfs
+2680,Selina Amankwah,male,31,5,Ashanti,Informal,Agriculture,35,7450.0,YES,hs
+2741,Isaac Ofori,M,31,16,upper east,Unemployed,Public Sector,10,1500.0,no,hies
+2752,Adwoa Brown,female,50,15,Eastern,Employed,Services,3,5400.0,No,lfs
+2341,Rashid Nkrumah,Male,35,10,Upper East,emp,Manufacturing,68,6050.0,YES,LFS
+2063,Rashid Brown,female,27,8,Ashanti,unemp,Manufacturing,23,7600.0,YES,HS
+2586,Kwame Doe,female,43,7,Northern,emp,Services,64,6300.0,YES,hs
+3407,Fatima Boateng,female,50,12,ashanti,Self-employed,Construction,33,4200.0,Yes,hs
+3182,Fatima Agyeman,M,58,16,Upper East,Unemployed,Manufacturing,6,4100.0,Yes,HS
+3337,Michael Brown,male,51,6,central,Employed,agric,56,7150.0,Yes,hies
+2079,Akosua Ofori,female,62,11,Greater Accra,Not in Labour Force,Public Sector,18,3550.0,YES,hies
+3059,Efua Owusu,F,50,15,central,Self-employed,Construction,23,5350.0,no,hies
+2905,Yaw Addo,male,21,15,eastern,emp,Manufacturing,65,5400.0,Yes,hs
+2485,Isaac Mensah,female,twenty-five,14,Western,Not in Labour Force,Services,65,2300.0,YES,HIES
+3073,Yaw Doe,Male,59,5,central,emp,agric,5,?,YES,LFS
+2194,Samuel Agyeman,Male,58,9,western,Employed,Manufacturing,47,7000.0,YES,HIES
+2717,Kojo Mensah,male,45,21,upper east,Informal,Agriculture,61,4950.0,No,lfs
+3041,Abena Agyeman,F,56,7,volta,unemp,Public Sector,54,5050.0,Yes,LFS
+2518,Rashid Amankwah,female,26,2,western,Self-employed,Agriculture,34,800.0,Yes,hies
+2897,Selina Tetteh,Female,56,0,ashanti,Informal,Construction,3,3750.0,No,hs
+2864,Efua Ofori,male,41,2,Greater Accra,unemp,Public Sector,47,5550.0,YES,hies
+2702,Kwame Mensah,M,56,17,greater accra,emp,Services,27,400.0,No,hs
+2396,Abena Agyeman,Female,36,4,upper east,Informal,serv,43,650.0,no,HS
+2453,Kojo Amankwah,Female,54,0,volta,Unemployed,Manufacturing,50,1950.0,no,hs
+3346,Michael Addo,M,35,21,Volta,Not in Labour Force,Trade,8,2250.0,no,LFS
+3463,Fatima Boateng,F,25,12,Ashanti,Self-employed,Construction,70,8000.0,no,HS
+2547,Yaw Amankwah,female,38,14,eastern,Employed,Trade,42,7350.0,Yes,lfs
+2722,Samuel Brown,F,15,10,upper west,Self-employed,Construction,51,7050.0,No,LFS
+3050,Ama Boateng,Female,24,11,Upper East,Not in Labour Force,agric,forty,1750.0,No,hs
+2308,Kofi Doe,female,47,3,Greater Accra,unemp,Construction,16,2053.0,No,hies
+3487,Grace Mensah,female,18,1,eastern,emp,agric,40,5550.0,no,hs
+3254,Michael Ofori,M,44,14,eastern,Employed,Public Sector,54,1300.0,YES,lfs
+2195,Kofi Doe,M,47,17,Western,Informal,Construction,forty,6200.0,no,hs
+3443,Samuel Boateng,female,41,8,Western,emp,Public Sector,3,3650.0,Yes,lfs
+2338,Samuel Boateng,F,twenty-five,0,central,Self-employed,serv,10,950.0,Yes,lfs
+2181,Rashid Addo,Male,42,21,central,unemp,serv,34,6450.0,No,lfs
+3310,Adwoa Amankwah,female,twenty-five,10,Volta,Unemployed,Manufacturing,19,1400.0,YES,HIES
+3307,Joseph Mensah,M,65,12,upper west,Self-employed,Public Sector,42,350.0,no,LFS
+3196,Kojo Sarpong,Male,38,9,northern,Informal,Public Sector,44,6500.0,no,hies
+3299,Kwame Tetteh,Male,34,9,upper west,Not in Labour Force,Agriculture,70,3000.0,Yes,hies
+3060,Yaw Nkrumah,female,24,21,eastern,Informal,Manufacturing,68,3050.0,Yes,HS
+3214,Selina Owusu,Male,62,3,Eastern,emp,Public Sector,53,650.0,No,LFS
+2278,Yaw Boateng,Male,35,12,upper west,Unemployed,Manufacturing,47,4900.0,No,LFS
+2858,Irene Sarpong,M,30,16,Western,unemp,serv,25,,YES,HS
+3168,Daniel Boateng,female,33,18,greater accra,Unemployed,serv,45,4300.0,No,HIES
+2840,Selina Brown,Male,61,20,ashanti,Informal,Manufacturing,7,7600.0,No,HIES
+2015,Kojo Asare,Male,22,13,Upper West,Employed,agric,66,4350.0,YES,LFS
+3388,Kwame Mensah,F,64,7,Eastern,emp,serv,10,,no,lfs
+2716,Akosua Tetteh,Female,17,3,Greater Accra,Not in Labour Force,Public Sector,4,4250.0,YES,HS
+3108,Ama Agyeman,Female,49,18,Western,Not in Labour Force,Trade,69,6450.0,no,hies
+2250,Kojo Doe,male,60,8,Greater Accra,Not in Labour Force,Construction,69,6350.0,YES,HIES
+2415,Grace Owusu,M,26,21,upper east,Employed,Agriculture,9,6100.0,YES,LFS
+2784,Selina Asare,Male,54,7,Eastern,Informal,Agriculture,65,?,no,LFS
+3271,Kojo Doe,female,45,4,Upper East,Unemployed,serv,12,6700.0,YES,HS
+2555,Emmanuel Ofori,F,38,20,Volta,Unemployed,agric,34,7100.0,Yes,HS
+2305,Kwame Agyeman,Female,17,7,volta,Employed,Trade,13,4550.0,no,hies
+2968,Irene Tetteh,F,56,10,Greater Accra,unemp,Manufacturing,31,1768.0,YES,hies
+2258,Joseph Boateng,male,43,3,greater accra,Not in Labour Force,Agriculture,62,5250.0,Yes,LFS
+2017,Efua Doe,F,35,14,Volta,Unemployed,serv,66,1350.0,No,hies
+2696,Daniel Nkrumah,female,32,7,Upper West,Self-employed,serv,18,?,YES,hies
+2956,Ama Agyeman,M,36,1,Eastern,emp,Trade,forty,2850.0,YES,LFS
+2812,Akosua Brown,F,49,7,Eastern,emp,Manufacturing,58,1350.0,no,HIES
+2507,Selina Lee,M,50,5,Eastern,Unemployed,Trade,20,842.0,Yes,HIES
+2689,Joseph Addo,M,35,18,Western,Unemployed,Construction,61,6750.0,YES,HS
+3367,Ama Mensah,female,110,19,ashanti,Informal,Agriculture,46,4800.0,Yes,hies
+2917,Emmanuel Ofori,male,48,2,Volta,Unemployed,Trade,8,5400.0,No,HIES
+2633,Efua Doe,M,31,16,volta,Unemployed,agric,66,6050.0,YES,HIES
+3125,Daniel Tetteh,male,16,16,eastern,Unemployed,serv,25,600.0,YES,hs
+2107,Grace Amankwah,Female,39,11,western,Informal,Services,47,6900.0,no,HS
+2626,Fatima Brown,female,64,15,Ashanti,Self-employed,serv,59,6800.0,No,HS
+3291,Grace Sarpong,M,23,0,northern,Unemployed,agric,29,5050.0,YES,LFS
+2938,Kwame Doe,F,40,15,Central,emp,Construction,62,4850.0,no,HIES
+2393,Selina Brown,Female,31,1,Greater Accra,unemp,Construction,20,150.0,No,lfs
+3401,Isaac Amankwah,M,17,4,Western,Unemployed,Manufacturing,14,4350.0,no,hs
+2132,Selina Addo,male,30,18,Volta,Unemployed,Agriculture,33,6300.0,no,LFS
+3078,Akosua Addo,female,15,20,ashanti,Not in Labour Force,Agriculture,30,7750.0,Yes,lfs
+3327,Ama Agyeman,female,twenty-five,21,northern,Self-employed,agric,68,1200.0,YES,lfs
+2160,Kwame Ofori,F,42,0,ashanti,emp,Trade,60,1450.0,Yes,hs
+2138,Emmanuel Tetteh,male,32,9,greater accra,Informal,Construction,5,3350.0,YES,hs
+3359,Emmanuel Nkrumah,female,44,21,greater accra,unemp,serv,23,1761.0,YES,lfs
+2169,Joseph Doe,female,62,18,Upper West,unemp,Trade,68,6100.0,YES,LFS
+3111,Abena Brown,male,44,16,greater accra,emp,Manufacturing,58,5250.0,no,lfs
+2924,Efua Addo,Male,23,15,Northern,Employed,Manufacturing,1,1600.0,No,hies
+3097,Fatima Sarpong,male,44,8,Central,Unemployed,Trade,53,500.0,No,HIES
+2851,Akosua Doe,Male,42,8,Ashanti,unemp,Agriculture,forty,1150.0,no,hies
+3369,Michael Owusu,Female,46,0,ashanti,unemp,agric,33,7150.0,YES,hies
+3109,Grace Boateng,male,56,3,Western,Self-employed,agric,26,4550.0,Yes,hs
+3357,Michael Tetteh,female,51,0,western,unemp,Construction,28,3250.0,YES,lfs
+3255,Kwame Brown,M,46,20,Central,Self-employed,Manufacturing,14,1800.0,Yes,HIES
+3201,Efua Brown,male,48,21,upper east,Employed,Public Sector,34,6550.0,Yes,HS
+2295,Michael Boateng,Female,17,10,western,emp,Agriculture,46,3800.0,YES,hs
+2221,Daniel Ofori,Female,25,10,eastern,Not in Labour Force,Construction,4,6350.0,No,LFS
+2478,Emmanuel Tetteh,Male,50,3,central,Unemployed,Trade,63,5750.0,No,hies
+3348,Samuel Addo,male,45,19,Greater Accra,Employed,Public Sector,52,650.0,Yes,hs
+3486,Abena Mensah,Male,34,15,Northern,Informal,Services,14,3800.0,Yes,HIES
+3204,Irene Asare,Female,29,7,eastern,Informal,serv,31,1000.0,no,hs
+2801,Joseph Owusu,female,23,19,western,Informal,Construction,70,?,YES,hs
+2672,Emmanuel Nkrumah,F,47,10,central,Self-employed,Public Sector,21,400.0,No,lfs
+2182,Ama Doe,Male,49,18,Upper West,Employed,agric,16,3400.0,No,HS
+3300,Yaw Tetteh,Male,42,15,greater accra,Employed,Public Sector,46,700.0,no,HS
+2473,Kojo Nkrumah,Female,22,10,Central,emp,agric,45,5250.0,No,hies
+2642,Rashid Asare,Female,twenty-five,21,northern,unemp,Manufacturing,43,2650.0,no,HIES
+2999,Fatima Asare,female,52,15,ashanti,emp,Services,36,7300.0,YES,LFS
+2494,Daniel Lee,F,22,18,Eastern,Unemployed,Construction,5,200.0,Yes,lfs
+2054,Fatima Asare,female,48,18,Eastern,Self-employed,Construction,24,,YES,lfs
+2283,Grace Ofori,Male,twenty-five,15,Upper East,Not in Labour Force,Public Sector,35,2350.0,no,lfs
+2523,Samuel Boateng,Male,30,18,ashanti,Unemployed,Trade,64,?,YES,lfs
+2598,Irene Amankwah,Female,43,17,Eastern,emp,Public Sector,23,6650.0,no,HS
+2429,Kofi Brown,Male,24,13,Western,Self-employed,serv,61,2500.0,Yes,LFS
+3115,Selina Ofori,F,41,18,ashanti,unemp,Public Sector,5,1950.0,no,HS
+2417,Kojo Lee,female,45,0,central,Informal,serv,34,4900.0,no,hies
+3498,Daniel Boateng,male,64,9,greater accra,Employed,Manufacturing,40,4450.0,Yes,hs
+2382,Daniel Amankwah,F,60,5,northern,Not in Labour Force,Services,49,3550.0,Yes,lfs
+2521,Abena Doe,Male,16,17,Ashanti,unemp,Public Sector,38,2077.0,Yes,LFS
+3483,Michael Lee,male,20,3,greater accra,Self-employed,Services,43,2300.0,No,hies
+2296,Kojo Nkrumah,F,25,1,volta,Not in Labour Force,Trade,15,5250.0,YES,hs
+2596,Kofi Ofori,F,45,18,Eastern,Informal,Public Sector,1,6350.0,No,HIES
+3390,Yaw Addo,M,39,20,upper east,Not in Labour Force,agric,58,6600.0,YES,HS
+2102,Rashid Boateng,female,60,10,Eastern,Not in Labour Force,agric,41,7150.0,Yes,LFS
+3185,Akosua Amankwah,Female,53,2,Greater Accra,Unemployed,serv,17,2350.0,No,hs
+2804,Rashid Agyeman,F,18,8,Upper East,Informal,agric,9,1600.0,No,LFS
+2584,Efua Addo,F,23,8,upper east,unemp,agric,66,7500.0,Yes,HS
+2205,Emmanuel Lee,F,64,18,western,Employed,Agriculture,23,6050.0,Yes,hs
+3467,Irene Doe,Female,39,9,Volta,Unemployed,Public Sector,29,438.0,No,LFS
+2482,Ama Tetteh,Male,41,16,Western,Informal,agric,60,2100.0,no,lfs
+2325,Abena Agyeman,F,19,2,upper west,Informal,Manufacturing,23,,YES,hies
+2279,Daniel Brown,M,46,14,Upper East,unemp,serv,24,,Yes,LFS
+2168,Selina Doe,M,29,9,ashanti,Self-employed,Trade,45,2300.0,Yes,HIES
+3352,Akosua Agyeman,F,18,14,Volta,unemp,serv,62,6400.0,Yes,LFS
+2652,Isaac Nkrumah,Male,18,5,upper east,Self-employed,agric,48,?,No,HS
+2777,Irene Nkrumah,female,44,4,ashanti,Unemployed,Trade,forty,5450.0,No,hies
+2953,Grace Sarpong,male,23,18,Eastern,Informal,serv,31,7300.0,No,lfs
+2185,Kofi Asare,Female,25,10,upper east,Unemployed,serv,forty,2500.0,YES,HS
+2735,Ama Doe,F,48,3,northern,Employed,Services,64,5650.0,No,LFS
+3290,Irene Ofori,Male,33,4,volta,Unemployed,Agriculture,12,6800.0,No,hies
+2504,Samuel Mensah,M,31,10,Upper East,unemp,Construction,23,2600.0,YES,lfs
+2998,Rashid Sarpong,female,25,6,northern,Informal,Trade,61,7950.0,Yes,hs
+2094,Yaw Owusu,F,15,19,Northern,unemp,Construction,66,7750.0,Yes,HIES
+2609,Selina Addo,Female,30,4,Ashanti,emp,Public Sector,3,7500.0,no,LFS
+2682,Adwoa Sarpong,F,21,6,upper west,emp,Construction,7,7100.0,No,HIES
+2220,Efua Mensah,Female,21,11,ashanti,Unemployed,Manufacturing,17,700.0,No,HIES
+3439,Michael Asare,male,55,0,Central,Employed,Agriculture,57,6000.0,YES,hs
+3422,Irene Agyeman,female,58,14,greater accra,Unemployed,agric,forty,,no,HIES
+2131,Irene Mensah,M,23,6,upper west,unemp,Manufacturing,42,3800.0,no,hs
+3190,Fatima Owusu,F,48,2,upper west,Unemployed,Services,42,5700.0,No,hs
+2693,Ama Doe,M,58,3,Eastern,Self-employed,Trade,41,5500.0,Yes,LFS
+3345,Selina Lee,female,24,4,Upper East,emp,Manufacturing,55,,No,LFS
+2115,Michael Nkrumah,female,25,21,volta,Not in Labour Force,serv,36,2000.0,No,lfs
+2823,Kwame Owusu,male,46,13,Upper East,Unemployed,Agriculture,54,650.0,no,HS
+2887,Yaw Nkrumah,Female,38,16,Eastern,unemp,Manufacturing,48,7700.0,no,HIES
+3500,Michael Boateng,F,28,18,volta,Not in Labour Force,Construction,19,6550.0,No,HIES
+2081,Michael Brown,Female,38,20,upper east,Employed,Public Sector,66,4350.0,no,HIES
+2932,Akosua Boateng,Female,56,20,Western,Employed,Agriculture,28,4000.0,No,hs
+3160,Selina Asare,male,49,0,Eastern,Employed,Construction,60,6050.0,YES,HIES
+2927,Yaw Agyeman,Male,21,21,Western,Employed,Manufacturing,14,5700.0,No,hies
+2055,Abena Brown,M,65,10,Upper East,emp,serv,57,2750.0,Yes,hies
+3171,Kofi Agyeman,Male,19,7,Central,Not in Labour Force,Agriculture,61,7900.0,No,lfs
+2450,Kwame Asare,Male,35,12,Greater Accra,Not in Labour Force,Trade,60,5850.0,Yes,hies
+2595,Joseph Amankwah,male,twenty-five,17,upper east,Employed,agric,67,1050.0,YES,hies
+3280,Daniel Boateng,male,47,10,central,Self-employed,serv,66,3050.0,YES,hs
+2902,Abena Addo,female,36,10,central,Employed,Construction,forty,,YES,HS
+2839,Michael Doe,male,62,1,Upper West,emp,Construction,14,2150.0,no,HS
+2790,Grace Ofori,M,15,7,Ashanti,Not in Labour Force,serv,forty,3150.0,No,lfs
+3388,Kwame Mensah,F,64,7,Eastern,emp,serv,10,,no,lfs
+2447,Isaac Doe,Female,44,10,western,Informal,Agriculture,67,4450.0,Yes,LFS
+2124,Grace Doe,F,41,12,Greater Accra,Unemployed,agric,45,2550.0,no,hs
+2112,Michael Asare,F,58,15,volta,Unemployed,Trade,26,6200.0,YES,hies
+2214,Fatima Sarpong,F,52,5,upper west,emp,Services,57,2600.0,YES,HS
+3421,Joseph Brown,Female,47,7,Ashanti,Self-employed,Agriculture,forty,5050.0,Yes,lfs
+2065,Michael Addo,Male,25,18,Ashanti,unemp,Trade,17,7100.0,YES,HS
+2040,Kojo Ofori,Female,19,21,Central,Informal,serv,8,,Yes,HIES
+3459,Irene Addo,Female,23,15,Ashanti,Unemployed,Services,26,4850.0,no,HS
+2209,Samuel Brown,Female,37,16,volta,emp,Agriculture,36,6750.0,no,HS
+2424,Rashid Boateng,M,40,12,volta,Unemployed,Construction,18,7050.0,YES,hs
+2912,Kofi Asare,F,17,13,central,unemp,Construction,59,4550.0,no,lfs
+2772,Kojo Agyeman,Male,27,8,northern,Self-employed,serv,48,3600.0,YES,LFS
+2929,Fatima Ofori,female,38,12,western,Employed,Services,15,5300.0,no,HS
+3193,Samuel Asare,male,15,3,western,Informal,serv,53,4100.0,YES,lfs
+3316,Fatima Addo,Female,16,14,Greater Accra,unemp,Construction,2,500.0,YES,HIES
+2193,Samuel Nkrumah,Male,64,6,Upper West,Not in Labour Force,Trade,13,,No,lfs
+3117,Daniel Lee,female,50,3,Northern,unemp,Public Sector,33,2200.0,YES,HIES
+2475,Ama Asare,female,17,7,northern,Employed,Services,34,1050.0,No,hies
+2204,Selina Addo,Male,62,8,Upper East,Employed,serv,55,7250.0,YES,hies
+2025,Akosua Boateng,Male,64,2,Central,Self-employed,Manufacturing,43,7000.0,No,LFS
+2008,Isaac Owusu,M,52,2,Upper West,unemp,agric,12,1619.0,No,lfs
+2644,Adwoa Doe,Male,24,21,central,Unemployed,Agriculture,20,1170.0,Yes,hs
+2061,Joseph Boateng,male,twenty-five,20,northern,Unemployed,Construction,35,5200.0,no,lfs
+3274,Samuel Lee,Male,28,5,greater accra,emp,Agriculture,1,7300.0,No,LFS
+2476,Adwoa Doe,F,61,9,upper east,Self-employed,Trade,37,3600.0,No,hs
+3131,Selina Tetteh,female,55,21,Upper East,Not in Labour Force,Trade,48,4650.0,No,hies
+3270,Selina Mensah,male,49,2,Upper East,Unemployed,Agriculture,67,650.0,No,hs
+3469,Isaac Sarpong,F,65,6,ashanti,Self-employed,Services,4,3000.0,Yes,hies
+3053,Akosua Sarpong,Female,57,2,Ashanti,Unemployed,Construction,57,2950.0,Yes,lfs
+2118,Yaw Nkrumah,male,16,8,Eastern,Informal,serv,33,3500.0,YES,LFS
+2452,Samuel Boateng,F,52,5,volta,Unemployed,Agriculture,63,5000.0,No,LFS
+2807,Kojo Amankwah,male,61,0,Eastern,Informal,Public Sector,forty,3550.0,No,HS
+3279,Adwoa Nkrumah,male,61,21,Greater Accra,Informal,Trade,19,4450.0,YES,hs
+3100,Kojo Mensah,Male,43,10,Eastern,emp,Trade,25,,no,lfs
+3037,Emmanuel Ofori,Male,16,13,upper east,Self-employed,Agriculture,26,7750.0,No,hs
+2213,Daniel Doe,Male,38,20,northern,Self-employed,agric,25,300.0,Yes,HS
+2385,Ama Mensah,Male,46,17,northern,unemp,agric,21,4900.0,No,hies
+2109,Adwoa Ofori,Female,34,10,Upper West,unemp,Agriculture,48,1250.0,no,LFS
+3440,Fatima Brown,female,50,20,Upper East,Self-employed,Public Sector,34,6350.0,No,LFS
+2542,Rashid Brown,male,21,3,eastern,unemp,Agriculture,34,1805.0,Yes,hies
+2360,Akosua Mensah,M,38,3,Eastern,Unemployed,Manufacturing,40,6650.0,Yes,lfs
+2177,Emmanuel Tetteh,M,32,9,Western,Employed,Construction,65,4400.0,Yes,HS
+2352,Efua Mensah,male,23,5,central,Not in Labour Force,agric,52,650.0,YES,LFS
+3090,Joseph Boateng,female,20,3,Northern,Self-employed,agric,69,7200.0,no,LFS
+2761,Kojo Boateng,F,63,14,central,Informal,serv,69,3350.0,Yes,LFS
+2491,Joseph Brown,M,48,9,Northern,Informal,Public Sector,49,3300.0,No,HS
+2267,Efua Asare,F,22,8,volta,emp,Services,68,3400.0,YES,HS
+2321,Grace Agyeman,Female,30,10,Ashanti,Not in Labour Force,agric,67,1650.0,no,LFS
+2593,Rashid Amankwah,Male,61,11,Central,Unemployed,serv,31,1371.0,Yes,hies
+2624,Efua Ofori,M,24,21,Ashanti,Not in Labour Force,agric,42,2450.0,YES,HIES
+2855,Adwoa Amankwah,Female,33,13,upper west,Not in Labour Force,Agriculture,68,500.0,Yes,lfs
+2082,Samuel Tetteh,female,41,2,eastern,Self-employed,Manufacturing,41,650.0,Yes,HIES
+2269,Grace Nkrumah,female,59,17,Upper East,unemp,agric,25,7200.0,No,HIES
+3260,Daniel Mensah,M,33,12,western,Unemployed,Construction,14,7050.0,No,lfs
+2268,Irene Ofori,female,15,16,ashanti,Informal,Manufacturing,38,4550.0,Yes,LFS
+2098,Selina Amankwah,M,62,17,Greater Accra,Not in Labour Force,serv,69,900.0,Yes,lfs
+2143,Kofi Doe,male,38,20,Upper East,Unemployed,Agriculture,54,7800.0,YES,LFS
+2943,Kwame Tetteh,Male,32,20,Western,Not in Labour Force,Construction,25,350.0,Yes,hs
+2531,Emmanuel Addo,Male,twenty-five,18,Central,Unemployed,serv,44,2050.0,YES,hies
+2379,Kojo Agyeman,F,45,10,northern,Not in Labour Force,serv,28,7450.0,No,hies
+2062,Joseph Amankwah,Female,26,13,central,emp,serv,12,7300.0,Yes,hies
+2582,Adwoa Addo,male,54,12,ashanti,unemp,agric,40,?,Yes,LFS
+2782,Akosua Nkrumah,M,46,14,Northern,emp,Public Sector,14,3650.0,No,HIES
+3113,Grace Nkrumah,male,29,20,Volta,emp,Trade,52,2900.0,No,HIES
+2862,Grace Brown,Female,42,15,Eastern,unemp,Trade,0,6150.0,YES,HS
+3452,Grace Lee,M,31,13,eastern,Not in Labour Force,Manufacturing,8,,No,hies
+2023,Samuel Owusu,female,18,1,Central,Unemployed,agric,23,3850.0,YES,lfs
+2629,Efua Tetteh,M,44,19,Ashanti,Employed,Agriculture,51,4350.0,No,hs
+3216,Ama Brown,male,27,1,northern,unemp,Agriculture,70,4600.0,YES,hies
+2774,Adwoa Asare,F,54,4,ashanti,Self-employed,Services,4,6350.0,YES,LFS
+2384,Samuel Lee,male,44,11,ashanti,Informal,Manufacturing,56,1000.0,No,lfs
+2349,Yaw Ofori,Female,59,10,Ashanti,unemp,serv,7,3350.0,Yes,HIES
+3146,Michael Ofori,Female,36,13,volta,Not in Labour Force,Trade,30,400.0,No,HS
+2351,Samuel Brown,male,26,7,northern,Employed,Trade,30,5650.0,No,HS
+2658,Selina Asare,F,twenty-five,15,Northern,unemp,Manufacturing,28,527.0,YES,HS
+2435,Selina Doe,Female,50,11,Upper East,Not in Labour Force,agric,55,4400.0,no,HS
+2688,Isaac Nkrumah,female,27,5,central,Unemployed,agric,37,1443.0,No,HS
+2217,Daniel Tetteh,male,46,20,Central,Unemployed,Public Sector,41,1340.0,no,HIES
+2769,Adwoa Mensah,M,twenty-five,17,Greater Accra,Not in Labour Force,Public Sector,29,6300.0,YES,lfs
+2388,Kwame Addo,male,55,4,upper west,unemp,Trade,28,7950.0,No,HIES
+2178,Efua Agyeman,Female,38,11,Upper West,Employed,agric,68,6400.0,YES,hies
+3199,Daniel Sarpong,Female,51,2,Eastern,Unemployed,Services,39,5650.0,No,HS
+2715,Rashid Doe,male,53,18,eastern,Unemployed,Public Sector,42,6100.0,YES,hies
+2459,Grace Ofori,Male,39,10,Eastern,unemp,agric,32,2450.0,no,hies
+2865,Yaw Owusu,female,34,19,western,emp,Public Sector,35,3350.0,no,hies
+3425,Fatima Mensah,female,37,21,central,Employed,Services,15,6950.0,YES,hs
+2004,Kojo Amankwah,male,44,2,central,unemp,Manufacturing,40,7750.0,no,hs
+2264,Fatima Asare,M,32,11,Upper West,Not in Labour Force,Public Sector,65,1300.0,no,LFS
+2433,Grace Amankwah,female,38,1,central,Unemployed,serv,39,6050.0,YES,LFS
+2492,Abena Mensah,Male,56,14,greater accra,Self-employed,Manufacturing,69,5500.0,No,HIES
+2505,Selina Owusu,female,25,9,volta,Unemployed,Construction,23,2250.0,YES,LFS
+2971,Kwame Tetteh,male,60,0,upper west,Not in Labour Force,serv,53,1650.0,No,HS
+2647,Yaw Tetteh,Female,48,20,Central,Informal,Manufacturing,20,7850.0,Yes,HIES
+2764,Grace Nkrumah,male,61,15,ashanti,Self-employed,Agriculture,68,1500.0,no,LFS
+2398,Ama Doe,male,47,2,Greater Accra,Informal,Manufacturing,3,1200.0,No,hies
+3016,Efua Nkrumah,male,64,8,Volta,unemp,Agriculture,41,1600.0,No,lfs
+3354,Fatima Amankwah,M,twenty-five,16,eastern,Employed,serv,37,7950.0,no,lfs
+2445,Akosua Tetteh,Female,53,3,upper east,Unemployed,Services,57,5100.0,no,hies
+2537,Abena Lee,male,58,13,greater accra,Employed,Agriculture,13,2950.0,Yes,HIES
+2753,Grace Nkrumah,F,16,12,western,Self-employed,Services,43,3000.0,no,lfs
+2201,Kwame Owusu,Male,63,11,northern,Employed,Construction,55,4700.0,YES,HS
+2202,Daniel Boateng,F,31,13,ashanti,emp,Services,66,6600.0,Yes,lfs
+3375,Akosua Sarpong,male,62,4,Western,Self-employed,Agriculture,69,4600.0,Yes,lfs
+3039,Joseph Brown,M,19,14,Volta,Not in Labour Force,Trade,42,7100.0,no,HIES
+2564,Kwame Nkrumah,female,55,6,greater accra,emp,Construction,43,250.0,no,hs
+2883,Adwoa Ofori,F,59,5,upper west,emp,Agriculture,34,2000.0,no,HS
+2769,Adwoa Mensah,M,twenty-five,17,Greater Accra,Not in Labour Force,Public Sector,29,6300.0,YES,lfs
+2700,Samuel Addo,male,28,14,Greater Accra,Unemployed,agric,forty,,Yes,LFS
+2508,Abena Sarpong,female,36,16,Upper West,Informal,agric,67,7900.0,YES,HIES
+3238,Ama Boateng,male,22,18,Eastern,Employed,Agriculture,forty,3450.0,No,lfs
+2472,Rashid Asare,male,29,0,Upper West,Informal,agric,35,4450.0,No,lfs
+2033,Ama Ofori,Female,56,9,Central,unemp,Services,51,6250.0,Yes,HIES
+2272,Adwoa Mensah,male,51,12,Northern,Informal,Agriculture,5,5150.0,Yes,HS
+2408,Grace Asare,M,53,18,eastern,unemp,Manufacturing,forty,6100.0,no,hs
+2904,Yaw Owusu,Female,19,8,western,Self-employed,Trade,51,,no,lfs
+2821,Adwoa Tetteh,female,44,20,eastern,Self-employed,Construction,7,2950.0,No,hies
+2471,Emmanuel Ofori,Male,twenty-five,3,ashanti,Not in Labour Force,agric,67,5950.0,No,LFS
+3026,Joseph Agyeman,Male,40,16,Eastern,unemp,agric,16,900.0,Yes,hies
+2911,Abena Brown,Male,23,8,Upper East,Self-employed,Manufacturing,5,1500.0,No,HS
+3429,Samuel Lee,male,51,21,Western,unemp,Construction,forty,1119.0,No,HIES
+2383,Efua Owusu,Female,18,19,Volta,Unemployed,serv,23,1700.0,No,HIES
+2275,Fatima Nkrumah,F,44,16,Upper West,Self-employed,Construction,43,6050.0,No,LFS
+3018,Kojo Boateng,male,twenty-five,16,volta,Unemployed,Services,6,6750.0,YES,LFS
+2007,Rashid Owusu,female,110,16,Upper East,Employed,Services,8,?,No,hies
+2901,Grace Mensah,Male,33,1,volta,Not in Labour Force,Construction,15,7700.0,No,lfs
+3029,Daniel Amankwah,Female,51,10,Northern,Employed,Trade,47,2500.0,No,lfs
+3482,Efua Brown,male,34,15,Western,Unemployed,serv,24,7450.0,YES,lfs
+2211,Samuel Ofori,male,46,17,Western,Self-employed,Public Sector,11,5600.0,No,HS
+2123,Efua Addo,M,43,13,Ashanti,Employed,Manufacturing,9,4800.0,No,HS
+3386,Irene Brown,Male,37,0,Upper East,emp,Trade,50,2450.0,YES,lfs
+2826,Abena Doe,Male,34,6,Central,Unemployed,serv,24,5300.0,No,hs
+2002,Fatima Nkrumah,M,60,1,Upper East,Not in Labour Force,Agriculture,45,150.0,no,hies
+2814,Kofi Tetteh,M,31,7,volta,Employed,Public Sector,6,2650.0,No,hs
+3170,Fatima Owusu,F,18,18,upper west,Not in Labour Force,Agriculture,2,6650.0,no,LFS
+3120,Efua Boateng,female,60,1,eastern,Self-employed,Construction,51,1100.0,Yes,hies
+3089,Isaac Agyeman,Male,43,1,greater accra,emp,serv,38,4700.0,YES,hs
+2941,Selina Boateng,female,19,17,greater accra,Self-employed,agric,55,3900.0,Yes,LFS
+2312,Emmanuel Doe,F,twenty-five,4,upper west,Not in Labour Force,Services,17,6250.0,Yes,HIES
+2235,Isaac Doe,Male,54,2,central,unemp,Manufacturing,56,5900.0,YES,HIES
+2101,Irene Asare,M,22,10,Upper West,Not in Labour Force,Trade,21,5500.0,no,hs
+2319,Samuel Tetteh,Female,31,12,greater accra,unemp,Public Sector,42,4450.0,YES,hies
+2339,Akosua Lee,male,16,13,upper west,Unemployed,Public Sector,64,6100.0,Yes,hs
+2404,Michael Addo,Female,27,12,eastern,unemp,Services,18,500.0,No,LFS
+2390,Irene Asare,M,16,3,ashanti,Self-employed,serv,7,4900.0,no,HIES
+2104,Samuel Brown,Female,27,18,Greater Accra,emp,Trade,5,5500.0,No,HS
+2197,Emmanuel Sarpong,F,53,4,Central,emp,Public Sector,41,6250.0,YES,lfs
+3200,Irene Agyeman,female,25,5,upper east,Not in Labour Force,Public Sector,2,7100.0,Yes,HIES
+2591,Selina Amankwah,female,32,3,Greater Accra,emp,serv,36,1150.0,No,LFS
+2942,Kofi Nkrumah,female,34,9,Eastern,Self-employed,Trade,70,,YES,lfs
+2622,Selina Amankwah,female,41,9,Central,Self-employed,Agriculture,50,7850.0,YES,LFS
+2135,Fatima Lee,Female,55,14,Upper West,emp,Trade,15,2400.0,no,HS
+3489,Akosua Addo,Female,55,3,Eastern,Unemployed,Public Sector,23,3700.0,Yes,HIES
+2701,Grace Amankwah,male,39,8,western,Employed,Construction,69,4650.0,No,HS
+2411,Yaw Mensah,male,45,11,eastern,Self-employed,Trade,5,5950.0,Yes,hies
+2299,Kofi Agyeman,female,25,21,volta,Informal,serv,24,2250.0,YES,HS
+3249,Kojo Brown,male,45,19,greater accra,Unemployed,Manufacturing,56,4950.0,no,hs
+2669,Kofi Ofori,F,32,4,northern,Unemployed,agric,60,1300.0,No,hies
+2465,Kwame Agyeman,Female,16,17,Western,unemp,Manufacturing,4,1600.0,Yes,HS
+2600,Irene Agyeman,Male,31,0,Upper East,emp,Services,9,600.0,no,LFS
+2552,Fatima Nkrumah,Female,64,12,Upper West,Employed,serv,65,600.0,Yes,hs
+3153,Rashid Boateng,Female,15,8,northern,Self-employed,Construction,3,7550.0,No,HS
+2161,Kojo Doe,Female,36,14,Northern,emp,Construction,58,4700.0,Yes,lfs
+2636,Akosua Owusu,M,62,12,Eastern,Employed,Construction,35,2800.0,Yes,HIES
+3476,Irene Addo,M,54,11,Eastern,Informal,Services,67,200.0,No,HIES
+2457,Kojo Tetteh,M,41,16,Northern,Self-employed,agric,16,3350.0,Yes,HS
+3492,Ama Lee,Male,29,1,Greater Accra,Unemployed,Agriculture,12,5500.0,Yes,lfs
+2615,Rashid Sarpong,Male,24,14,Upper West,Unemployed,agric,24,1150.0,No,HIES
+3130,Emmanuel Asare,Male,44,14,Greater Accra,Unemployed,Construction,17,600.0,No,HS
+3324,Michael Asare,F,29,5,Upper West,Employed,Trade,43,450.0,No,LFS
+3494,Ama Agyeman,male,29,13,central,Employed,serv,39,5250.0,Yes,HIES
+2236,Ama Doe,Female,31,17,Upper West,Unemployed,Agriculture,5,1850.0,Yes,HIES
+3383,Kwame Brown,F,42,19,Northern,emp,agric,0,5800.0,no,HIES
+2086,Grace Agyeman,male,51,2,volta,emp,Services,12,7700.0,YES,HS
+2366,Efua Mensah,F,56,3,volta,Employed,agric,23,1100.0,Yes,lfs
+3437,Michael Lee,Male,65,10,greater accra,Unemployed,Public Sector,56,6850.0,No,lfs
+2233,Efua Boateng,M,50,21,volta,Unemployed,Trade,24,4850.0,no,hs
+3010,Joseph Brown,male,49,20,greater accra,Self-employed,Services,45,300.0,YES,lfs
+2372,Irene Boateng,F,25,16,greater accra,Employed,Services,30,6800.0,Yes,HS
+2017,Efua Doe,F,35,14,Volta,Unemployed,serv,66,1350.0,No,hies
+2852,Kwame Tetteh,M,26,14,upper west,Unemployed,agric,17,5350.0,YES,HS
+3071,Ama Asare,Male,23,11,central,Not in Labour Force,Agriculture,64,1950.0,no,HS
+3203,Ama Sarpong,female,30,7,central,Employed,Public Sector,58,2950.0,No,LFS
+2573,Kwame Doe,Female,45,3,Upper West,Employed,Services,35,1450.0,Yes,HIES
+2345,Akosua Mensah,Female,16,8,Upper East,Employed,Services,0,1350.0,YES,HS
+2130,Fatima Agyeman,female,31,11,eastern,Unemployed,Construction,47,4700.0,no,lfs
+2270,Kojo Nkrumah,male,52,1,Northern,emp,Manufacturing,15,6650.0,No,LFS
+2614,Irene Nkrumah,Male,59,13,Volta,Employed,Services,forty,6200.0,No,HIES
+3408,Isaac Boateng,F,26,13,Central,Employed,Services,35,150.0,YES,HIES
+2095,Kofi Agyeman,female,21,12,Eastern,Informal,Trade,19,7250.0,no,HIES
+3264,Fatima Ofori,F,54,1,western,emp,Agriculture,44,800.0,YES,HS
+3210,Kofi Addo,Female,twenty-five,2,western,emp,Public Sector,7,1950.0,Yes,hies
+2628,Kwame Tetteh,female,19,9,Eastern,Employed,Public Sector,39,2300.0,Yes,hies
+2196,Irene Agyeman,male,30,13,upper west,Informal,Trade,41,2400.0,No,HS
+3322,Abena Boateng,M,33,12,northern,unemp,Agriculture,18,2500.0,Yes,HS
+2243,Akosua Tetteh,female,52,12,Northern,unemp,agric,64,6900.0,Yes,HIES
+2882,Fatima Addo,male,60,20,central,Informal,Trade,47,5900.0,YES,HIES
+3104,Selina Tetteh,Male,15,6,Western,Not in Labour Force,Services,34,4950.0,No,hies
+2680,Selina Amankwah,male,31,5,Ashanti,Informal,Agriculture,35,7450.0,YES,hs
+2044,Isaac Tetteh,Male,twenty-five,5,northern,Self-employed,Agriculture,21,3650.0,Yes,lfs
+2802,Adwoa Doe,F,17,17,upper east,Informal,Agriculture,forty,,no,HS
+3045,Fatima Doe,F,41,13,Greater Accra,unemp,Trade,49,7550.0,No,lfs
+2206,Joseph Mensah,male,twenty-five,4,Upper East,emp,Public Sector,15,7700.0,YES,hies
+3303,Abena Ofori,Male,36,3,Central,Informal,Agriculture,66,7900.0,YES,lfs
+2793,Fatima Owusu,female,45,5,ashanti,Unemployed,Services,60,150.0,YES,lfs
+2362,Isaac Asare,Female,24,2,ashanti,unemp,agric,55,4250.0,no,lfs
+2092,Kwame Agyeman,male,15,7,Western,Unemployed,Trade,16,950.0,YES,HIES
+3175,Yaw Boateng,F,twenty-five,19,central,Self-employed,serv,11,7050.0,YES,hs
+3232,Joseph Amankwah,Female,23,18,Western,Unemployed,Construction,50,6950.0,Yes,hies
+2083,Yaw Addo,F,57,10,Eastern,Informal,agric,41,200.0,no,hs
+3112,Emmanuel Ofori,Male,61,10,Northern,Employed,Construction,47,6900.0,YES,hs
+3286,Efua Addo,Male,64,6,upper east,Informal,Services,23,450.0,No,hs
+3166,Yaw Addo,M,16,21,northern,Self-employed,Manufacturing,33,1200.0,YES,lfs
+3329,Yaw Owusu,M,39,15,central,emp,Manufacturing,56,3850.0,Yes,hs
+2340,Grace Owusu,Male,twenty-five,13,Northern,Employed,Public Sector,50,5150.0,no,HS
+3236,Fatima Agyeman,M,24,16,central,emp,agric,30,4450.0,Yes,LFS
+3064,Kwame Ofori,female,52,1,volta,Informal,agric,2,400.0,Yes,hs
+2734,Isaac Lee,female,35,12,upper east,Not in Labour Force,Agriculture,29,1250.0,YES,LFS
+2097,Ama Tetteh,male,36,18,upper west,Employed,Services,40,1300.0,No,hs
+2085,Adwoa Agyeman,Female,23,7,northern,Not in Labour Force,agric,24,,No,LFS
+2818,Fatima Mensah,M,42,17,upper west,Informal,Trade,53,5200.0,No,LFS
+2757,Kwame Ofori,M,39,8,upper west,Not in Labour Force,Services,31,6650.0,YES,HS
+2703,Irene Ofori,female,40,2,Greater Accra,unemp,Services,32,2100.0,YES,LFS
+2763,Selina Doe,male,41,8,Central,Self-employed,Manufacturing,22,2850.0,no,hies
+3480,Fatima Sarpong,female,18,19,upper east,Informal,Agriculture,62,2000.0,no,hs
+2315,Abena Lee,Female,65,6,upper west,Unemployed,Public Sector,44,1124.0,Yes,lfs
+2885,Michael Asare,male,64,13,upper east,Unemployed,Agriculture,10,4650.0,no,HS
+2779,Kwame Doe,M,23,14,Northern,Unemployed,Manufacturing,3,2300.0,Yes,hs
+2711,Isaac Agyeman,male,64,4,Central,Unemployed,Public Sector,51,3250.0,No,hies
+2620,Efua Doe,female,27,4,Central,unemp,serv,33,250.0,YES,LFS
+3014,Joseph Boateng,female,40,2,Volta,emp,Agriculture,34,1650.0,YES,HS
+2634,Abena Addo,M,30,7,greater accra,Employed,Trade,22,,no,hies
+2556,Irene Ofori,male,29,15,Western,Employed,Agriculture,5,4200.0,YES,lfs
+3197,Samuel Asare,F,20,19,Eastern,unemp,Agriculture,20,1518.0,No,lfs
+2198,Kojo Doe,female,twenty-five,0,Eastern,Not in Labour Force,Construction,7,4950.0,Yes,hies
+3433,Daniel Nkrumah,M,29,7,central,Not in Labour Force,Services,28,2350.0,no,HIES
+2852,Kwame Tetteh,M,26,14,upper west,Unemployed,agric,17,5350.0,YES,HS
+3293,Grace Brown,Male,27,11,eastern,unemp,Trade,13,7350.0,Yes,lfs
+3403,Daniel Mensah,male,25,14,Upper East,emp,agric,61,?,YES,HIES
+2979,Fatima Owusu,male,30,7,upper west,Not in Labour Force,Services,18,7950.0,Yes,hies
+2785,Kwame Mensah,Female,57,20,ashanti,Not in Labour Force,Trade,1,3850.0,YES,lfs
+3226,Kofi Boateng,male,60,19,Central,Informal,agric,33,3500.0,Yes,hies
+2141,Selina Doe,female,29,9,Greater Accra,Not in Labour Force,Public Sector,40,7300.0,no,lfs
+2915,Daniel Sarpong,F,59,7,Upper East,emp,Construction,57,1800.0,no,HIES
+2049,Fatima Ofori,Female,twenty-five,0,upper west,unemp,Public Sector,15,,no,hs
+3052,Kofi Brown,Male,24,20,upper west,Self-employed,agric,58,6350.0,No,HIES
+2951,Michael Ofori,M,49,18,Volta,Not in Labour Force,Agriculture,40,6200.0,No,hies
+3121,Adwoa Tetteh,F,26,7,Volta,unemp,agric,53,1050.0,no,HIES
+2770,Yaw Tetteh,F,33,17,Greater Accra,Self-employed,Services,10,,no,HS
+2242,Fatima Brown,male,55,15,central,Employed,Manufacturing,50,,Yes,HS
+2029,Fatima Asare,male,45,18,central,Informal,Agriculture,42,2350.0,Yes,LFS
+3431,Grace Mensah,M,26,15,western,Self-employed,serv,69,5950.0,YES,LFS
+3455,Kwame Ofori,male,25,11,Northern,Unemployed,agric,39,2350.0,Yes,hies
+3085,Efua Brown,Female,59,21,western,unemp,Services,47,2150.0,no,HIES
+2013,Adwoa Owusu,Female,32,0,Upper West,unemp,agric,42,2000.0,Yes,hies
+3414,Kofi Asare,M,39,5,Greater Accra,Not in Labour Force,Construction,62,7700.0,YES,HIES
+3046,Joseph Tetteh,M,56,0,western,unemp,Construction,67,5950.0,No,HS
+3094,Fatima Addo,F,49,2,eastern,Unemployed,Services,45,7800.0,no,lfs
+2986,Kojo Tetteh,F,twenty-five,5,eastern,emp,Construction,4,1950.0,YES,lfs
+2174,Akosua Agyeman,F,39,20,Volta,unemp,Trade,forty,,No,lfs
+3063,Ama Owusu,F,28,10,Eastern,Unemployed,Services,59,5200.0,Yes,hs
+3351,Samuel Boateng,male,twenty-five,17,Central,Unemployed,serv,70,5400.0,No,hs
+2470,Daniel Owusu,female,39,21,Western,Self-employed,serv,49,3650.0,No,hies
+2273,Rashid Amankwah,M,39,1,upper east,emp,Services,55,1150.0,YES,hs
+2900,Irene Mensah,M,20,20,central,Not in Labour Force,Manufacturing,18,7350.0,No,LFS
+2674,Emmanuel Lee,female,26,10,ashanti,Unemployed,serv,36,800.0,YES,HIES
+3331,Kofi Sarpong,F,15,20,central,Not in Labour Force,Services,20,3850.0,no,HIES
+2070,Grace Amankwah,F,46,5,central,emp,Agriculture,51,7500.0,no,HS
+3048,Adwoa Agyeman,M,17,21,Greater Accra,Informal,Public Sector,59,350.0,Yes,LFS
+2857,Kojo Nkrumah,Female,28,10,eastern,Unemployed,serv,62,7350.0,No,lfs
+3391,Efua Owusu,Female,37,12,Volta,Unemployed,serv,43,3250.0,no,HS
+2330,Adwoa Owusu,male,17,3,Northern,Employed,Construction,0,1800.0,No,HS
+2607,Samuel Lee,Female,23,21,ashanti,Not in Labour Force,agric,3,1200.0,No,hs
+2387,Akosua Boateng,Male,40,19,Northern,Employed,Construction,56,4500.0,Yes,HIES
+2562,Fatima Brown,male,29,18,greater accra,emp,Agriculture,10,1150.0,No,hs
+2303,Rashid Mensah,M,35,7,Western,Self-employed,Manufacturing,47,2750.0,YES,HS
+3413,Fatima Owusu,male,41,19,Ashanti,Employed,Manufacturing,60,6500.0,No,HIES
+3376,Akosua Addo,female,24,5,Greater Accra,unemp,agric,forty,5800.0,YES,LFS
+3380,Selina Owusu,Female,56,8,northern,unemp,Trade,34,7050.0,no,HIES
+3155,Abena Nkrumah,male,41,1,eastern,Employed,Construction,6,7250.0,No,LFS
+2347,Kojo Mensah,F,26,11,greater accra,emp,serv,44,1300.0,Yes,HIES
+3211,Ama Owusu,male,26,15,ashanti,Informal,Services,34,5850.0,no,lfs
+2356,Samuel Brown,male,33,3,greater accra,Self-employed,Construction,32,6500.0,YES,hs
+2698,Grace Lee,Female,21,10,Central,emp,Services,25,750.0,YES,HIES
+2848,Abena Owusu,male,56,19,eastern,Informal,Trade,6,3300.0,YES,hies
+2623,Grace Addo,female,38,4,Eastern,unemp,Services,69,1450.0,Yes,LFS
+3162,Adwoa Agyeman,Male,42,1,volta,Employed,Agriculture,32,,YES,hies
+2529,Kwame Ofori,male,50,14,Eastern,Informal,Services,25,4800.0,Yes,HIES
+2797,Isaac Brown,Female,25,15,ashanti,emp,Agriculture,46,1500.0,No,lfs
+2218,Kofi Lee,Male,53,10,upper east,Unemployed,Public Sector,7,150.0,no,HS
+2604,Kwame Brown,Female,22,20,upper west,Informal,Manufacturing,42,7950.0,no,hs
+2925,Isaac Boateng,F,twenty-five,10,Northern,Unemployed,agric,60,6750.0,No,LFS
+3023,Kofi Sarpong,F,55,0,central,unemp,Construction,10,1700.0,YES,HS
+2884,Irene Tetteh,female,43,6,central,Self-employed,Public Sector,51,1300.0,Yes,hs
+2454,Irene Amankwah,Male,37,15,ashanti,unemp,Manufacturing,11,387.0,YES,lfs
+2511,Ama Agyeman,female,41,4,western,Self-employed,Manufacturing,41,,no,lfs
+2416,Abena Doe,F,52,2,upper west,emp,Construction,51,7000.0,No,LFS
+3229,Ama Owusu,F,19,1,Northern,Informal,serv,30,4300.0,no,hs
+2808,Adwoa Agyeman,Male,37,20,Western,Not in Labour Force,Agriculture,1,2700.0,No,hs
+2689,Joseph Addo,M,35,18,Western,Unemployed,Construction,61,6750.0,YES,HS
+2836,Joseph Ofori,F,23,21,upper east,Unemployed,Trade,7,2200.0,Yes,LFS
+2530,Michael Boateng,female,36,9,western,Employed,agric,11,1800.0,no,hs
+3372,Rashid Agyeman,Male,31,19,Upper West,emp,Construction,29,5050.0,No,LFS
+2844,Selina Mensah,female,55,10,Northern,Not in Labour Force,agric,21,6400.0,no,lfs
+2328,Abena Boateng,female,60,13,Upper West,unemp,Manufacturing,1,,no,HS
+2533,Akosua Tetteh,Male,23,21,Northern,Unemployed,agric,24,4250.0,No,HIES
+2916,Kojo Boateng,Female,65,13,Volta,Employed,Agriculture,8,3250.0,YES,HS
+2401,Michael Doe,M,33,6,greater accra,Not in Labour Force,serv,48,4450.0,Yes,LFS
+3066,Kojo Amankwah,Female,28,1,central,Employed,agric,forty,5550.0,Yes,lfs
+2939,Efua Mensah,F,22,14,Northern,Unemployed,agric,37,3950.0,No,HS
+3384,Samuel Asare,M,55,0,upper west,Employed,Services,6,1000.0,Yes,LFS
+2649,Isaac Brown,Male,51,20,Ashanti,emp,agric,15,5100.0,Yes,lfs
+2200,Irene Addo,F,53,14,Northern,Not in Labour Force,Construction,12,200.0,Yes,lfs
+3436,Abena Addo,F,57,12,Upper West,Informal,Agriculture,51,4500.0,Yes,LFS
+3428,Ama Brown,M,22,10,Northern,Employed,Trade,61,700.0,No,hies
+3248,Abena Ofori,Female,53,18,Northern,Informal,Manufacturing,60,1550.0,no,hs
+2481,Daniel Amankwah,Female,61,5,northern,Not in Labour Force,serv,67,750.0,YES,LFS
+3309,Rashid Lee,Female,28,7,Northern,emp,Trade,60,1700.0,No,lfs
+2515,Ama Addo,F,40,11,Ashanti,unemp,Manufacturing,32,4100.0,YES,hs
+3381,Kojo Tetteh,Male,23,14,northern,Informal,Public Sector,44,7600.0,no,hs
+3393,Selina Asare,M,65,8,volta,Not in Labour Force,Manufacturing,48,2350.0,Yes,lfs
+2640,Kwame Ofori,Female,51,15,Northern,Employed,Services,34,,no,HIES
+2183,Fatima Mensah,Male,20,2,volta,Employed,Public Sector,69,5150.0,no,HIES
+3207,Abena Ofori,female,30,19,Ashanti,Self-employed,Construction,69,7650.0,Yes,HS
+2934,Abena Boateng,Male,52,7,Central,Not in Labour Force,Public Sector,45,500.0,no,hies
+2895,Adwoa Amankwah,Female,18,16,eastern,emp,Services,forty,7400.0,No,HS
+2186,Samuel Brown,Female,16,20,Volta,Informal,Construction,59,200.0,No,HIES
+2532,Kofi Sarpong,female,57,21,Northern,Not in Labour Force,Services,59,7650.0,No,hies
+3157,Yaw Brown,M,54,14,northern,Employed,agric,60,3400.0,YES,hies
+2690,Joseph Ofori,Female,17,18,eastern,Informal,serv,50,2100.0,YES,hs
+2746,Selina Ofori,female,15,11,western,Employed,Construction,13,6250.0,YES,hies
+2765,Samuel Sarpong,female,40,20,greater accra,Employed,Manufacturing,27,7300.0,Yes,HS
+2846,Rashid Tetteh,male,49,11,ashanti,emp,Trade,21,3400.0,Yes,lfs
+3259,Ama Boateng,female,36,1,upper west,unemp,Public Sector,50,8000.0,Yes,lfs
+2486,Michael Sarpong,Male,19,7,Upper West,Unemployed,Services,28,4400.0,no,lfs
+2297,Irene Mensah,Female,twenty-five,6,Central,emp,Services,53,?,No,HIES
+3044,Irene Sarpong,F,61,16,central,Employed,Construction,forty,1450.0,No,hies
+2374,Fatima Amankwah,Male,47,21,ashanti,emp,agric,68,1950.0,no,hs
+3005,Rashid Ofori,M,50,6,volta,Informal,serv,50,4400.0,no,HS
+2561,Selina Amankwah,Male,16,1,western,emp,serv,33,4450.0,no,LFS
+2608,Selina Mensah,F,38,8,eastern,Employed,Agriculture,43,1100.0,YES,hies
+2603,Kojo Owusu,female,23,0,Upper West,unemp,serv,33,3500.0,YES,hs
+3478,Ama Owusu,M,28,16,Western,emp,Agriculture,41,1500.0,no,HS
+3449,Adwoa Brown,Male,38,18,ashanti,Not in Labour Force,Services,5,4150.0,Yes,hs
+2117,Rashid Amankwah,male,52,7,Central,Employed,Services,57,3800.0,Yes,HS
+2149,Joseph Boateng,M,55,20,upper west,unemp,agric,46,750.0,YES,lfs
+2822,Kojo Nkrumah,female,60,15,Western,Self-employed,serv,28,4250.0,no,hs
+2798,Efua Agyeman,male,37,9,Eastern,Not in Labour Force,Manufacturing,69,1950.0,YES,LFS
+3460,Ama Owusu,Female,44,21,upper west,Self-employed,serv,49,650.0,YES,LFS
+3271,Kojo Doe,female,45,4,Upper East,Unemployed,serv,12,6700.0,YES,HS
+3242,Abena Tetteh,M,24,13,northern,Unemployed,agric,41,4750.0,No,lfs
+3136,Rashid Mensah,M,40,20,eastern,Self-employed,serv,45,,YES,hies
+2714,Adwoa Asare,Female,18,9,northern,Unemployed,serv,47,6650.0,Yes,HS
+3382,Kojo Owusu,female,19,3,Volta,Employed,agric,40,2900.0,No,HS
+2038,Yaw Ofori,F,16,10,Western,Not in Labour Force,serv,23,5800.0,Yes,lfs
+3143,Michael Lee,male,30,10,Upper West,unemp,Construction,11,4300.0,YES,HIES
+3258,Adwoa Mensah,male,26,15,Eastern,Not in Labour Force,Agriculture,52,750.0,no,hies
+2336,Efua Agyeman,male,53,20,western,Self-employed,Trade,13,150.0,No,hs
+2024,Abena Owusu,male,30,14,Central,Informal,agric,64,4950.0,Yes,hies
+3283,Irene Nkrumah,Female,30,18,western,Self-employed,Public Sector,65,6650.0,Yes,HS
+3334,Kofi Ofori,Male,51,7,Western,Informal,agric,1,4350.0,Yes,hs
+2603,Kojo Owusu,female,23,0,Upper West,unemp,serv,33,3500.0,YES,hs
+2845,Fatima Owusu,M,39,14,greater accra,Self-employed,Agriculture,56,1900.0,No,hs
+2877,Fatima Nkrumah,male,61,14,western,unemp,Construction,55,4300.0,No,hies
+2541,Isaac Lee,female,44,1,Ashanti,Informal,Construction,59,2000.0,no,lfs
+3499,Kojo Asare,Male,44,18,Upper West,Self-employed,Manufacturing,25,5800.0,No,HS
+2208,Grace Owusu,Female,18,9,eastern,unemp,Trade,64,6000.0,No,LFS
+2144,Kwame Addo,F,19,15,Upper West,unemp,Services,54,,No,HS
+3106,Isaac Nkrumah,M,63,9,Volta,Unemployed,serv,41,3000.0,No,lfs
+2570,Kofi Brown,F,twenty-five,17,Eastern,Self-employed,Manufacturing,48,2150.0,Yes,hies
+3496,Ama Agyeman,F,50,8,Central,Informal,Public Sector,31,4400.0,Yes,hs
+2122,Irene Asare,Male,110,6,Volta,Not in Labour Force,Construction,28,1150.0,Yes,HIES
+2978,Akosua Addo,F,17,6,northern,Unemployed,agric,64,350.0,Yes,lfs
+2455,Kojo Asare,M,50,3,Western,Employed,Services,52,5750.0,Yes,hies
+2495,Isaac Ofori,male,48,15,Upper West,emp,Trade,12,7550.0,No,HS
+3051,Efua Nkrumah,Female,64,8,northern,Informal,Manufacturing,32,3650.0,Yes,HIES
+2501,Michael Boateng,male,65,8,Greater Accra,Informal,Construction,34,7150.0,Yes,HIES
+2755,Ama Ofori,male,52,4,Eastern,Employed,Manufacturing,29,?,No,LFS
+2993,Michael Ofori,M,15,9,Eastern,Self-employed,agric,31,5950.0,No,HIES
+2397,Abena Brown,F,30,0,Central,Informal,agric,20,1850.0,Yes,LFS
+3435,Irene Tetteh,Male,51,19,Upper West,Employed,Trade,68,4600.0,no,HS
+2590,Ama Agyeman,Female,47,13,central,unemp,Manufacturing,44,7100.0,YES,HIES
+3495,Abena Agyeman,F,39,17,northern,Informal,Public Sector,27,4850.0,No,lfs
+2796,Abena Doe,Male,34,10,Northern,Not in Labour Force,Construction,69,5600.0,YES,HIES
+2648,Abena Tetteh,F,60,3,central,unemp,Services,36,,Yes,HIES
+3343,Samuel Nkrumah,Female,61,20,greater accra,Informal,Services,29,850.0,No,LFS
+3243,Adwoa Agyeman,M,twenty-five,14,eastern,emp,Agriculture,57,6400.0,YES,hies
+3360,Efua Tetteh,female,54,15,Upper West,Unemployed,agric,42,,no,hs
+3321,Emmanuel Owusu,F,56,9,Ashanti,Not in Labour Force,Public Sector,19,900.0,no,HIES
+3013,Ama Mensah,Female,58,17,Eastern,Unemployed,serv,57,1300.0,Yes,HIES
+2973,Rashid Ofori,Female,24,11,Upper West,emp,Trade,33,,Yes,hs
+2948,Adwoa Doe,male,39,11,Ashanti,Unemployed,Public Sector,63,450.0,Yes,HIES
+2913,Yaw Mensah,M,60,18,Central,Unemployed,Public Sector,44,3450.0,No,hies
+2461,Michael Agyeman,Female,22,2,Ashanti,Unemployed,Public Sector,21,947.0,Yes,hs
+2285,Fatima Tetteh,Female,51,17,Volta,Informal,Services,29,7300.0,Yes,HS
+3047,Kofi Ofori,female,twenty-five,19,Central,Not in Labour Force,agric,34,5050.0,YES,hies
+3252,Samuel Agyeman,male,19,14,Central,Informal,Construction,29,3300.0,Yes,HIES
+2721,Ama Mensah,F,38,13,Northern,Not in Labour Force,serv,24,,no,hies
+3027,Samuel Sarpong,M,63,13,Volta,Self-employed,agric,forty,850.0,YES,HIES
+2549,Joseph Sarpong,F,56,16,Upper West,emp,Trade,2,4050.0,YES,hs
+3054,Grace Sarpong,F,49,5,Eastern,Employed,Trade,53,7300.0,YES,LFS
+2499,Samuel Lee,M,26,16,upper east,Employed,Construction,21,150.0,Yes,hs
+2921,Selina Tetteh,F,28,5,Upper West,Employed,serv,48,5500.0,YES,hs
+3418,Efua Ofori,female,twenty-five,15,volta,Self-employed,Services,24,4400.0,no,hs
+3030,Grace Tetteh,F,43,5,eastern,Not in Labour Force,Public Sector,6,5900.0,Yes,LFS
+3306,Michael Doe,male,20,15,Central,Not in Labour Force,Construction,5,5800.0,YES,hies
+3057,Daniel Lee,female,15,16,upper west,unemp,Public Sector,15,6400.0,Yes,LFS
+2422,Kwame Boateng,F,47,4,northern,emp,Construction,35,1400.0,No,lfs
+2157,Grace Tetteh,female,36,14,ashanti,Informal,Manufacturing,11,5150.0,No,LFS
+2565,Kwame Mensah,M,19,16,Eastern,Informal,Trade,60,3600.0,YES,hs
+2520,Kojo Doe,Male,33,12,Upper West,emp,Public Sector,65,5700.0,No,HS
+2871,Rashid Boateng,M,28,14,Ashanti,Self-employed,Trade,48,7650.0,no,LFS
+3491,Kwame Amankwah,M,18,2,Volta,emp,Agriculture,51,5900.0,No,HS
+2611,Selina Asare,M,22,12,upper east,unemp,agric,44,,Yes,HIES
+2587,Selina Asare,Male,50,16,central,Unemployed,Manufacturing,61,7200.0,Yes,hs
+2260,Samuel Owusu,Female,32,4,central,Unemployed,agric,44,4550.0,no,LFS
+2298,Fatima Lee,Male,16,0,Upper West,emp,Public Sector,forty,4800.0,No,HIES
+2554,Kojo Doe,female,60,3,Upper West,emp,Construction,67,7350.0,Yes,HIES
+3035,Ama Doe,male,15,4,northern,unemp,serv,4,6650.0,YES,LFS
+2692,Selina Tetteh,Female,43,7,upper east,Not in Labour Force,Construction,9,2150.0,YES,HS
+3032,Joseph Addo,Male,twenty-five,17,Central,Unemployed,Manufacturing,25,1454.0,Yes,LFS
+3233,Kofi Owusu,M,63,18,eastern,Informal,Trade,53,3000.0,Yes,lfs
+2843,Rashid Addo,male,56,20,Volta,Not in Labour Force,Trade,24,4800.0,no,HIES
+3400,Fatima Mensah,F,30,10,upper east,unemp,Agriculture,41,6850.0,no,hs
+2292,Fatima Amankwah,Male,26,6,greater accra,emp,Public Sector,4,2600.0,YES,HIES
+2928,Kofi Doe,F,20,16,Western,emp,Agriculture,26,4900.0,YES,hs
+3074,Ama Amankwah,Male,57,19,Western,emp,Public Sector,44,7050.0,Yes,LFS
+2687,Yaw Brown,Female,33,12,northern,Unemployed,agric,31,738.0,no,HIES
+2449,Selina Ofori,M,38,17,ashanti,Not in Labour Force,Manufacturing,61,1050.0,Yes,lfs
+2053,Yaw Amankwah,Male,29,8,Volta,Employed,Agriculture,43,1950.0,no,lfs
+2309,Selina Mensah,male,64,3,Upper West,Not in Labour Force,Public Sector,59,7050.0,Yes,HIES
+3340,Abena Boateng,Female,48,21,western,emp,Public Sector,33,6500.0,Yes,LFS
+2489,Emmanuel Asare,male,64,9,volta,Informal,Manufacturing,forty,7800.0,Yes,LFS
+2592,Irene Sarpong,F,44,12,Upper West,Not in Labour Force,Agriculture,48,4500.0,no,hs
+2743,Kojo Ofori,male,36,5,Central,emp,Services,0,4300.0,YES,HS
+2960,Efua Boateng,Female,52,10,Ashanti,Unemployed,Trade,15,1933.0,no,HIES
+3416,Rashid Lee,Male,56,0,ashanti,Employed,Manufacturing,21,6350.0,Yes,hs
+2639,Fatima Asare,F,twenty-five,8,central,Informal,Public Sector,20,3850.0,YES,lfs
+2120,Samuel Mensah,female,32,7,Ashanti,Self-employed,Construction,12,4950.0,No,HS
+3311,Yaw Tetteh,Female,43,13,Ashanti,Employed,Construction,9,1750.0,YES,HS
+3419,Ama Ofori,Male,22,7,eastern,Not in Labour Force,agric,16,3000.0,no,lfs
+2001,Daniel Brown,male,63,16,Northern,emp,Agriculture,40,5050.0,Yes,LFS
+2654,Yaw Boateng,male,58,1,Eastern,unemp,Trade,55,7000.0,no,lfs
+2087,Kofi Mensah,M,46,1,Eastern,Not in Labour Force,Services,56,7350.0,Yes,hs
+2172,Ama Brown,Female,28,17,northern,Unemployed,agric,27,4750.0,No,hs
+2866,Ama Ofori,male,19,8,central,Unemployed,Public Sector,12,750.0,no,hs
+2028,Grace Doe,Female,34,20,Upper West,Not in Labour Force,agric,forty,4450.0,Yes,LFS
+2786,Michael Ofori,female,32,0,greater accra,Informal,Construction,9,3500.0,YES,hs
+2747,Daniel Asare,F,53,7,upper west,Informal,serv,48,,No,hies
+2749,Kojo Doe,M,48,19,Northern,Employed,agric,62,1350.0,YES,HS
+2580,Kojo Brown,Female,41,7,Central,unemp,Construction,24,491.0,Yes,hies
+3277,Kwame Amankwah,M,40,7,upper west,Not in Labour Force,Trade,57,350.0,no,lfs
+2553,Emmanuel Brown,male,34,4,upper west,Unemployed,Services,12,250.0,no,hies
+3462,Rashid Sarpong,female,24,4,Ashanti,Unemployed,Services,66,6550.0,No,hies
+2936,Isaac Ofori,female,25,4,greater accra,Informal,Agriculture,5,6450.0,No,HIES
+3156,Kofi Amankwah,male,twenty-five,9,Upper West,Self-employed,Public Sector,56,6100.0,no,hies
+2627,Michael Lee,Male,65,18,western,Employed,Public Sector,59,7800.0,Yes,hs
+2566,Grace Owusu,F,43,7,Northern,Unemployed,Manufacturing,59,2850.0,YES,hies
+3150,Samuel Owusu,Male,21,8,Upper East,emp,Trade,67,2500.0,Yes,hs
+2010,Akosua Doe,M,59,4,ashanti,Informal,Construction,35,7450.0,Yes,LFS
+3103,Isaac Amankwah,male,64,7,ashanti,unemp,Manufacturing,49,5350.0,no,HIES
+2914,Kojo Addo,male,56,9,Ashanti,Unemployed,Construction,24,1583.0,no,hies
+2809,Irene Addo,Female,29,1,volta,Self-employed,serv,60,7300.0,No,lfs
+2544,Kwame Lee,Female,24,17,western,Employed,serv,42,2450.0,no,hies
+3289,Emmanuel Tetteh,Male,45,17,eastern,Employed,Services,forty,1500.0,no,HS
+2588,Yaw Boateng,Male,16,0,Greater Accra,emp,Manufacturing,25,450.0,No,hies
+3079,Isaac Lee,female,44,0,Western,Informal,Manufacturing,5,2950.0,YES,HS
+2389,Joseph Lee,female,110,15,volta,Informal,Trade,30,,YES,HS
+3377,Yaw Doe,Male,64,5,Eastern,Unemployed,Public Sector,3,7400.0,no,hs
+2251,Daniel Tetteh,F,57,13,ashanti,Employed,serv,24,,no,hs
+2444,Kojo Tetteh,M,49,10,Upper West,Employed,Trade,46,2200.0,no,lfs
+2166,Selina Boateng,female,32,0,northern,Self-employed,serv,41,4150.0,Yes,hies
+2506,Kofi Lee,Male,18,9,central,Unemployed,Agriculture,40,450.0,no,HS
+2265,Joseph Nkrumah,M,61,14,Eastern,Not in Labour Force,Construction,47,5400.0,no,HIES
+2052,Joseph Lee,M,29,8,northern,Informal,Services,7,3750.0,no,hs
+2108,Kofi Tetteh,male,24,13,Greater Accra,Self-employed,Agriculture,5,4350.0,YES,HS
+3084,Irene Tetteh,male,25,8,ashanti,Unemployed,agric,2,1900.0,YES,hs
+2479,Emmanuel Sarpong,M,47,2,Volta,Informal,Services,15,850.0,no,LFS
+3265,Kojo Asare,M,18,11,Greater Accra,emp,Manufacturing,21,?,no,hies
+2500,Daniel Asare,F,63,1,western,emp,Agriculture,9,6050.0,No,hies
+3206,Abena Brown,F,65,20,Greater Accra,Informal,Construction,14,450.0,YES,HS
+3411,Samuel Boateng,female,twenty-five,15,Volta,unemp,Construction,34,3150.0,Yes,HS
+2467,Ama Nkrumah,M,32,18,Ashanti,Informal,serv,6,,Yes,HIES
+2970,Grace Ofori,Male,43,4,upper west,Employed,serv,69,2350.0,no,HIES
+2712,Akosua Boateng,male,43,6,eastern,Employed,Manufacturing,70,4250.0,No,HS
+3003,Kofi Mensah,F,110,16,greater accra,unemp,serv,21,,YES,LFS
+2750,Daniel Mensah,male,21,3,western,unemp,Services,48,6000.0,No,lfs
+2199,Samuel Addo,male,20,15,Greater Accra,unemp,Agriculture,58,,YES,LFS
+3081,Daniel Asare,male,23,16,central,Employed,serv,60,3950.0,YES,hs
+3304,Selina Sarpong,male,53,9,ashanti,Self-employed,Public Sector,17,7750.0,YES,HS
+3356,Abena Amankwah,M,62,18,upper east,Unemployed,Manufacturing,49,,No,HS
+2191,Fatima Lee,Female,53,8,eastern,emp,Agriculture,7,1000.0,Yes,hies
+3215,Grace Asare,Male,33,14,western,emp,serv,8,1200.0,Yes,LFS
+3247,Efua Ofori,male,18,7,Upper East,emp,Trade,4,5250.0,No,LFS
+3139,Fatima Asare,female,32,21,upper west,unemp,serv,29,,No,hies
+2152,Irene Ofori,M,110,7,Volta,Unemployed,Services,20,2016.0,No,hs
+3485,Isaac Tetteh,Female,55,10,Western,Informal,Manufacturing,29,5750.0,No,hs
+2188,Joseph Mensah,Male,110,7,upper west,Employed,Services,18,250.0,No,HS
+3098,Daniel Lee,Male,45,4,eastern,Informal,serv,49,2750.0,Yes,hies
+2730,Kwame Brown,M,61,8,greater accra,Not in Labour Force,serv,70,6850.0,Yes,LFS
+2241,Kofi Lee,Male,45,6,Upper East,Informal,Construction,24,5850.0,No,LFS
+2146,Ama Agyeman,M,38,21,Eastern,Self-employed,Agriculture,20,2250.0,no,LFS
+2563,Michael Sarpong,M,29,13,Upper West,Self-employed,Manufacturing,27,5800.0,Yes,HIES
+2256,Kwame Sarpong,F,48,8,Volta,Employed,Construction,32,2800.0,No,HIES
+2096,Adwoa Owusu,F,43,21,Greater Accra,Self-employed,Public Sector,63,6900.0,YES,hs
+3396,Yaw Mensah,female,15,1,central,Informal,serv,0,200.0,YES,HS
+3395,Samuel Tetteh,male,41,7,northern,Informal,agric,36,?,No,LFS
+2413,Selina Tetteh,Female,30,7,Upper East,Not in Labour Force,agric,31,1150.0,no,HS
+3186,Ama Amankwah,male,26,18,central,emp,Public Sector,53,150.0,no,HIES
+2427,Adwoa Owusu,female,42,9,ashanti,unemp,Agriculture,8,2600.0,Yes,lfs
+2244,Yaw Tetteh,F,36,16,Western,Unemployed,Services,23,6000.0,YES,HS
+2681,Isaac Lee,M,27,13,Central,Not in Labour Force,agric,39,5250.0,No,LFS
+3441,Ama Addo,F,19,20,Volta,emp,Manufacturing,38,7100.0,No,hs
+2344,Irene Boateng,Male,45,11,ashanti,unemp,agric,31,1864.0,No,HS
+2955,Emmanuel Tetteh,female,33,2,Eastern,unemp,Agriculture,28,?,Yes,hs
+3347,Michael Ofori,M,51,7,Central,Informal,Trade,16,1100.0,No,lfs
+3055,Irene Owusu,Male,20,13,Ashanti,unemp,Public Sector,20,7350.0,No,hies
+3398,Abena Owusu,Male,63,20,Ashanti,Not in Labour Force,Services,34,450.0,no,hies
+2294,Ama Boateng,Male,38,20,Northern,Unemployed,Trade,69,,no,lfs
+2707,Irene Ofori,Female,44,11,upper west,Self-employed,Public Sector,36,7300.0,No,HS
+2057,Daniel Sarpong,M,33,17,Ashanti,Not in Labour Force,Manufacturing,2,1700.0,No,lfs
+2217,Daniel Tetteh,male,46,20,Central,Unemployed,Public Sector,41,1340.0,no,HIES
+2423,Emmanuel Ofori,male,65,16,western,Informal,Public Sector,3,4100.0,Yes,hies
+2150,Samuel Doe,F,110,10,western,Unemployed,serv,6,4550.0,YES,hs
+2534,Efua Asare,Female,55,0,Volta,Employed,Construction,63,6050.0,YES,lfs
+2184,Rashid Asare,Female,53,11,ashanti,Informal,serv,34,7050.0,No,hs
+3025,Kofi Owusu,F,34,13,central,Self-employed,agric,68,2950.0,No,hies
+3412,Efua Nkrumah,female,17,5,Ashanti,Not in Labour Force,Trade,45,4300.0,YES,HS
+3151,Efua Doe,F,51,7,Central,emp,agric,28,,YES,HS
+3319,Samuel Agyeman,M,33,11,Volta,unemp,serv,7,5900.0,Yes,lfs
+3069,Yaw Mensah,Female,62,7,Upper East,Informal,Manufacturing,9,8000.0,Yes,hies
+2947,Selina Sarpong,male,43,2,western,Unemployed,Services,14,1950.0,YES,LFS
+3338,Rashid Mensah,male,40,16,volta,Not in Labour Force,Manufacturing,60,7500.0,Yes,hs
+2952,Kofi Owusu,M,51,17,ashanti,Not in Labour Force,agric,16,7900.0,no,hs
+2824,Yaw Doe,male,34,6,Ashanti,Unemployed,Services,37,5000.0,No,lfs
+2110,Fatima Ofori,male,19,7,ashanti,Self-employed,Trade,70,2950.0,no,LFS
+3083,Efua Addo,M,59,9,ashanti,unemp,Services,38,3300.0,Yes,HS
+2394,Emmanuel Sarpong,female,43,0,Upper West,emp,serv,44,3950.0,Yes,HS
+2819,Irene Nkrumah,M,41,11,Ashanti,emp,Public Sector,19,3300.0,Yes,HS
+2457,Kojo Tetteh,M,41,16,Northern,Self-employed,agric,16,3350.0,Yes,HS
+2361,Akosua Mensah,male,58,17,ashanti,unemp,agric,4,6000.0,Yes,LFS
+2710,Isaac Asare,male,62,15,eastern,unemp,Public Sector,69,2350.0,No,hies
+2440,Selina Owusu,female,29,9,volta,Employed,agric,48,4100.0,YES,HS
+2175,Isaac Addo,female,58,3,Upper West,Unemployed,agric,10,,no,LFS
+3147,Michael Brown,F,55,7,upper west,Unemployed,Construction,2,4050.0,No,HS

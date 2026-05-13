@@ -1,0 +1,1536 @@
+student_id,name,gender,age,gpa,study_hours_per_week,programme,region,scholarship,tuition_paid
+2047,Efua Owusu,M,24,1.07,1,MPhil Statistics,Greater Accra,Yes,16750
+1143,Irene Ofori,F,21,1.76,5,MSc Data Science,northern,Yes,10250
+2180,Fatima Lee,Female,17,3.2,25,MBA,greater accra,no,6500
+1499,Akosua Doe,M,31,2.34,33,MBA,Western,Yes,11750
+1558,Kojo Tetteh,male,22,2.36,35,MSc Economics,upper west,No,6000
+1941,Akosua Lee,Female,17,2.38,33,MSc Economics,western,Yes,3250
+1602,Yaw Doe,M,31,1.79,19,MPhil Statistics,greater accra,YES,11250
+2145,Grace Sarpong,Male,21,2.94,34,MBA,upper east,no,14500
+1796,Fatima Mensah,female,27,2.7,23,MBA,Northern,YES,10250
+1231,Adwoa Agyeman,female,30,2.8,ten,MSc Data Science,volta,Yes,15000
+1964,Samuel Brown,Female,120,1.33,10,MSc Economics,Northern,No,?
+1827,Daniel Lee,female,17,3.54,22,MPhil Statistics,northern,no,5750
+1565,Akosua Ofori,female,22,1.26,23,MPhil Statistics,greater accra,YES,12000
+1782,Kojo Sarpong,M,19,3.2,ten,MSc Data Science,Central,YES,2750
+1809,Kofi Boateng,M,18,3.56,0,MSc Economics,Central,YES,15750
+2324,Daniel Brown,male,18,2.41,4,MPhil Statistics,upper east,No,3500
+2190,Adwoa Amankwah,male,19,2.19,35,MPhil Statistics,Eastern,Yes,15750
+1995,Kwame Sarpong,M,19,3.67,20,MBA,upper east,no,13500
+1619,Akosua Addo,Male,30,2.73,33,MPhil Statistics,Central,Yes,7500
+2247,Ama Mensah,Female,21,3.74,23,MSc Data Science, greater accra ,No,15000
+2425,Isaac Lee,M,18,3.69,8,MBA,Western,no,18000
+1419,Kojo Nkrumah,male,19,2.72,9,MPhil Statistics,Western,No,16000
+1480,Yaw Asare,Male,25,4.8,21,MSc Data Science,Central,YES,7500
+1942,Joseph Amankwah,M,30,1.79,24,MBA,greater accra,no,4750
+2062,Irene Lee,M,35,2.42,1,MBA,upper west,Yes,10250
+1954,Akosua Doe,female,31,3.19,6,MSc Economics,Upper East,YES,17750
+1526,Selina Addo,Female,27,1.12,28,MPhil Statistics,upper east,No,16250
+1458,Kwame Asare,Female,17,,2,MBA,upper west,no,7250
+1284,Joseph Owusu,F,32,2.6,13,MSc Data Science,Eastern,no,7000
+1949,Kofi Addo,male,23,1.87,1,MSc Economics,western,no,11000
+1545,Isaac Brown,female,25,2.38,17,MSc Data Science,eastern,No,7500
+1822,Akosua Nkrumah,F,31,2.57,40,MSc Economics,upper east,no,6000
+1232,Fatima Lee,F,22,3.37,35,MPhil Statistics,greater accra,no,3500
+2147,Ama Tetteh,M,22,1.09,ten,MSc Data Science,northern,Yes,?
+1730,Kojo Asare,male,28,3.85,28,MSc Economics,Western,No,6250
+1399,Isaac Amankwah,F,21,3.86,12,MSc Economics,central,No,?
+2234,Daniel Agyeman,F,26,3.55,32,MBA,upper east,no,2250
+2029,Kojo Brown,female,32,3.26,20,MBA,eastern,No,13500
+1446,Yaw Sarpong,Male,20,1.61,8,MSc Data Science,Ashanti,Yes,10500
+2448,Yaw Agyeman,Female,25,2.88,26,MBA,volta,no,7750
+1184,Adwoa Lee,Male,32,2.46,12,MSc Economics,northern,Yes,9250
+2438,Samuel Tetteh,male,21,1.72,13,MSc Data Science,volta,Yes,4750
+1550,Isaac Boateng,female,31,1.55,28,MPhil Statistics,western,no,6250
+1337,Abena Agyeman,M,23,1.82,17,MPhil Statistics,northern,No,14750
+2028,Irene Doe,F,35,1.25,37,MSc Data Science,ashanti,no,12500
+1279,Emmanuel Sarpong,M,29,2.9,37,MBA,Northern,no,4500
+2368,Kwame Ofori,female,19,3.07,31,MPhil Statistics,Eastern,no,17750
+1077,Adwoa Doe,F,27,1.22,16,MPhil Statistics, greater accra ,no,16750
+2316,Joseph Owusu,F,17,1.84,30,MSc Data Science,Upper East,Yes,5500
+2131,Akosua Owusu,M,27,1.62,26,MBA,Eastern,No,17500
+2422,Grace Mensah,M,32,3.3,17,MSc Economics,western,Yes,6250
+2411,Efua Owusu,F,24,1.01,14,MSc Data Science,upper west,Yes,13000
+1144,Samuel Boateng,M,28,4.8,19,MPhil Statistics,Greater Accra,Yes,9500
+1046,Rashid Lee,F,34,1.96,20,MSc Data Science,volta,No,5500
+1015,Selina Owusu,F,27,2.98,15,MSc Data Science,Eastern,Yes,4750
+1950,Selina Agyeman,male,35,3.68,39,MPhil Statistics,Northern,no,10500
+2197,Adwoa Amankwah,Female,29,3.78,40,MSc Economics,Eastern,Yes,14250
+1946,Rashid Nkrumah,female,19,3.35,11,MSc Data Science,northern,No,4500
+2428,Adwoa Mensah,M,21,3.96,24,MPhil Statistics,Western,No,9000
+1599,Efua Agyeman,male,32,1.55,7,MSc Economics,upper east,Yes,10750
+1561,Efua Mensah,F,30,3.27,17,MBA,volta,no,?
+1737,Ama Sarpong,male,29,2.03,2,MBA,Greater Accra,no,18000
+1240,Isaac Tetteh,female,18,1.77,9,MSc Economics,Upper West,Yes,17750
+1771,Adwoa Owusu,M,20,2.28,18,MBA,ashanti,No,11500
+1663,Joseph Owusu,Female,31,3.48,27,MSc Economics, Volta ,No,10250
+2475,Irene Doe,Female,25,2.35,22,MBA,Greater Accra,YES,3250
+2453,Yaw Sarpong,Female,30,2.19,11,MSc Economics,upper west,Yes,11000
+1557,Kojo Tetteh,F,33,2.09,4,MBA, greater accra ,No,7250
+1930,Isaac Doe,female,32,2.22,36,MSc Data Science,Ashanti,Yes,12250
+1766,Irene Ofori,Female,29,4.8,23,MSc Economics,eastern,Yes,2500
+1779,Rashid Nkrumah,male,27,3.72,19,MBA,Western,No,10750
+1309,Kojo Agyeman,Female,31,3.35,22,MBA,ashanti,Yes,10000
+1682,Samuel Lee,M,21,2.43,24,MSc Data Science, central ,Yes,14000
+1506,Emmanuel Mensah,F,24,2.98,21,MSc Economics,Upper West,no,14750
+1601,Adwoa Sarpong,female,27,3.22,23,MPhil Statistics,volta,YES,10000
+1241,Selina Mensah,F,30,1.8,32,MPhil Statistics,central,Yes,5000
+1956,Kofi Ofori,F,18,2.09,31,MSc Data Science,Central,Yes,11250
+1968,Selina Lee,Male,22,2.19,17,MPhil Statistics,western,no,16750
+1898,Adwoa Doe,Female,34,1.35,30,MPhil Statistics,Upper West,YES,15000
+1969,Akosua Asare,Male,twenty-two,3.62,11,MSc Data Science,Upper East,Yes,12750
+2416,Adwoa Doe,F,34,1.6,20,MBA,Upper West,no,14500
+2162,Adwoa Amankwah,F,28,2.8,28,MSc Economics,northern,Yes,16750
+1542,Samuel Tetteh,F,33,2.67,13,MSc Data Science,Ashanti,No,3250
+2157,Yaw Mensah,Male,31,1.06,7,MPhil Statistics,Central,Yes,5000
+1072,Kojo Doe,F,17,1.17,30,MPhil Statistics,Upper East,YES,8250
+2117,Isaac Brown,F,31,2.57,6,MBA,Eastern,no,6000
+2311,Joseph Brown,Male,27,1.07,0,MPhil Statistics,central,no,17500
+2277,Yaw Asare,M,21,3.3,13,MBA,Greater Accra,no,16000
+2252,Yaw Tetteh,female,22,1.16,6,MSc Data Science,volta,no,15750
+2132,Michael Asare,Male,25,2.91,0,MBA,central,YES,6250
+2451,Selina Amankwah,F,29,2.21,24,MSc Economics,Central,no,12250
+1728,Fatima Brown,F,29,3.29,17,MSc Economics,northern,YES,12750
+1266,Adwoa Boateng,Female,20,2.75,24,MBA,Greater Accra,YES,15750
+1725,Kojo Amankwah,female,17,2.82,5,MSc Economics,central,No,9750
+2309,Fatima Ofori,M,28,1.56,31,MBA,Eastern,Yes,11500
+1691,Grace Amankwah,male,18,3.04,5,MPhil Statistics,upper west,No,18000
+1306,Daniel Sarpong,Female,25,3.8,32,MBA,eastern,YES,16000
+1849,Kojo Owusu,F,21,1.87,5,MSc Data Science,volta,Yes,14000
+1070,Daniel Brown,M,27,3.23,8,MBA,central,Yes,?
+1850,Samuel Lee,M,18,2.44,26,MSc Economics,Volta,No,4000
+1247,Joseph Addo,male,29,2.17,20,MPhil Statistics,Central,Yes,14000
+1158,Yaw Brown,female,21,3.35,16,MSc Economics,Upper West,no,9750
+1503,Isaac Asare,Male,22,2.92,2,MSc Data Science,Ashanti,Yes,16000
+2396,Isaac Tetteh,female,twenty-two,1.23,3,MBA,volta,no,3500
+1273,Yaw Agyeman,Male,30,,ten,MSc Economics,Eastern,No,16000
+1533,Yaw Doe,M,29,2.54,16,MSc Economics,Central,Yes,?
+1364,Kojo Sarpong,F,31,1.11,22,MSc Data Science,volta,no,9750
+1357,Adwoa Boateng,Male,19,,29,MSc Data Science,western,No,8500
+2121,Abena Owusu,female,25,2.08,24,MSc Economics,greater accra,Yes,9500
+2142,Irene Brown,M,34,3.87,33,MSc Economics,Upper West,YES,3000
+2242,Grace Doe,M,25,2.51,40,MPhil Statistics,eastern,no,5000
+2159,Kojo Asare,male,23,2.0,21,MSc Data Science,Ashanti,no,2000
+1334,Kojo Brown,Female,twenty-two,3.77,35,MSc Data Science,Upper West,no,4750
+1497,Grace Brown,male,17,1.54,7,MSc Data Science,Upper West,No,7250
+2004,Fatima Owusu,Male,27,1.67,33,MBA,volta,YES,12000
+1676,Daniel Mensah,male,21,3.38,17,MSc Economics,Greater Accra,Yes,13500
+1830,Kwame Lee,F,31,3.09,17,MPhil Statistics,Eastern,No,11250
+2185,Joseph Agyeman,Male,27,1.22,39,MSc Economics,volta,No,13000
+1683,Fatima Sarpong,Female,31,3.99,33,MPhil Statistics,Eastern,No,16750
+1513,Abena Brown,Male,26,3.89,0,MSc Data Science,Northern,No,4500
+1264,Daniel Brown,female,32,3.9,35,MSc Data Science,Eastern,Yes,13000
+1692,Isaac Ofori,female,23,2.12,12,MSc Data Science,Eastern,no,14500
+2140,Kofi Sarpong,M,31,1.81,1,MBA, Eastern ,no,?
+1412,Selina Brown,Female,30,3.32,34,MBA,Volta,no,9250
+2403,Michael Mensah,female,29,3.71,9,MSc Data Science,Central,YES,13000
+1882,Kojo Owusu,M,31,1.02,11,MPhil Statistics,greater accra,YES,5500
+1667,Rashid Brown,M,24,,11,MBA,Upper East,no,14750
+1749,Kojo Brown,male,18,3.73,26,MPhil Statistics, western ,YES,17500
+1205,Selina Ofori,female,25,2.06,35,MSc Economics,Northern,No,4250
+1454,Irene Boateng,Male,34,1.21,11,MPhil Statistics,upper east,YES,10500
+2328,Emmanuel Lee,M,twenty-two,1.96,ten,MSc Data Science,Eastern,no,10750
+1069,Kwame Amankwah,Female,27,,26,MSc Economics,Ashanti,Yes,13750
+1933,Abena Amankwah,F,27,,32,MPhil Statistics,ashanti,YES,17750
+1370,Michael Asare,Male,31,3.54,26,MSc Data Science,Eastern,no,4750
+2387,Isaac Mensah,Male,20,2.45,23,MPhil Statistics,ashanti,Yes,10750
+2427,Kofi Sarpong,Female,17,3.14,40,MPhil Statistics,volta,Yes,16000
+1281,Daniel Ofori,male,27,1.02,26,MPhil Statistics,upper west,YES,16750
+2218,Rashid Lee,Male,20,3.2,27,MSc Data Science,Greater Accra,YES,5000
+1059,Adwoa Mensah,female,35,1.15,14,MSc Data Science, volta ,YES,2500
+2286,Michael Amankwah,M,21,1.29,40,MSc Data Science,Greater Accra,YES,16000
+1138,Akosua Lee,female,31,3.82,37,MPhil Statistics,volta,no,13250
+1887,Daniel Ofori,F,35,2.1,4,MSc Economics,Ashanti,No,15750
+2154,Yaw Brown,female,18,3.64,2,MSc Data Science,ashanti,no,10500
+1764,Rashid Agyeman,Female,19,2.49,35,MPhil Statistics, greater accra ,Yes,15000
+2299,Isaac Owusu,M,31,3.58,1,MSc Data Science,Central,no,15000
+1473,Efua Ofori,F,20,2.8,10,MSc Data Science,volta,No,6750
+2339,Efua Tetteh,male,20,1.98,15,MSc Data Science,Central,YES,10500
+1350,Grace Agyeman,male,25,3.07,33,MBA,ashanti,YES,17250
+2044,Rashid Boateng,F,34,1.56,27,MPhil Statistics,ashanti,YES,16250
+1182,Akosua Mensah,Female,32,3.28,39,MBA,Central,No,3750
+1404,Akosua Addo,F,20,1.34,7,MSc Data Science, Greater Accra ,YES,11000
+1738,Samuel Lee,Male,25,1.93,19,MBA,Eastern,no,17000
+1957,Rashid Lee,M,19,,31,MBA,Greater Accra,YES,3250
+1200,Adwoa Lee,female,23,1.81,16,MSc Economics, Northern ,YES,16500
+1576,Daniel Asare,female,29,,32,MSc Data Science,upper west,No,2000
+2291,Yaw Asare,female,29,2.26,29,MSc Data Science,Upper West,Yes,6500
+2432,Adwoa Owusu,Male,19,2.22,9,MPhil Statistics,western,YES,3000
+2332,Kwame Mensah,female,32,1.43,10,MSc Data Science,central,No,16500
+1477,Efua Asare,female,33,3.52,7,MSc Economics,Volta,Yes,16500
+1312,Samuel Nkrumah,female,28,3.24,0,MBA,Ashanti,Yes,15500
+2052,Michael Agyeman,M,33,1.68,8,MSc Economics,upper east,No,5000
+1102,Isaac Lee,F,33,,32,MSc Economics,Volta,no,12250
+1198,Michael Amankwah,F,24,2.44,32,MPhil Statistics,upper east,YES,7000
+1659,Rashid Agyeman,female,18,3.25,15,MPhil Statistics,western,no,3000
+2045,Efua Nkrumah,male,22,2.87,39,MBA,eastern,No,15750
+1478,Akosua Brown,Male,17,2.83,15,MPhil Statistics,upper west,No,16750
+1848,Daniel Mensah,Female,twenty-two,1.51,9,MPhil Statistics,greater accra,YES,2000
+2259,Abena Nkrumah,F,20,3.59,9,MSc Data Science,upper west,No,16500
+1319,Selina Lee,M,31,3.4,19,MPhil Statistics,Volta,YES,10500
+2265,Abena Ofori,F,24,3.72,20,MSc Economics,western,YES,16000
+1146,Fatima Doe,Female,24,3.81,13,MPhil Statistics,Volta,No,15000
+1693,Rashid Agyeman,Male,26,2.71,19,MPhil Statistics,upper west,No,7750
+1923,Adwoa Asare,female,18,3.5,27,MSc Economics,volta,Yes,2500
+1066,Isaac Tetteh,male,21,1.24,27,MSc Economics,Eastern,no,5750
+2064,Selina Asare,Female,33,2.5,24,MSc Economics, upper west ,No,12250
+1910,Grace Ofori,male,24,3.04,12,MSc Economics,greater accra,Yes,15250
+2500,Selina Addo,female,25,2.21,20,MPhil Statistics,upper east,Yes,?
+1984,Adwoa Tetteh,M,24,1.25,39,MSc Economics,Upper East,no,5500
+1927,Efua Doe,male,27,1.9,6,MSc Data Science, Ashanti ,No,7250
+2499,Isaac Tetteh,Female,17,1.56,27,MPhil Statistics,Upper West,no,10250
+2161,Abena Nkrumah,M,20,3.11,35,MSc Economics,greater accra,Yes,4250
+1465,Yaw Owusu,Male,35,3.9,33,MSc Data Science,Western,Yes,6000
+1288,Michael Tetteh,Female,31,3.43,9,MPhil Statistics,Volta,No,11500
+1774,Isaac Ofori,male,28,1.38,27,MSc Data Science,Central,no,9750
+1702,Emmanuel Lee,F,30,2.93,9,MSc Data Science,Upper West,no,6750
+1797,Michael Lee,Female,35,2.96,14,MBA,Greater Accra,No,2750
+1947,Fatima Ofori,F,32,3.09,35,MPhil Statistics,Greater Accra,No,?
+2352,Selina Addo,M,34,1.34,22,MBA,upper east,YES,8000
+2321,Adwoa Brown,female,21,3.2,2,MPhil Statistics,western,No,5250
+2114,Emmanuel Lee,Female,26,3.74,35,MSc Economics,Western,No,13250
+2302,Fatima Asare,Male,35,2.51,22,MBA,western,YES,3500
+2143,Grace Brown,Male,26,1.81,13,MSc Economics,Northern,YES,8750
+2090,Ama Tetteh,Male,33,3.07,33,MPhil Statistics,Greater Accra,Yes,13500
+2196,Joseph Mensah,Female,34,3.36,23,MSc Economics,ashanti,YES,13000
+1820,Kojo Addo,Male,28,1.44,25,MSc Economics,Upper East,no,16000
+2355,Akosua Brown,female,25,2.89,0,MPhil Statistics,Central,YES,15000
+2039,Samuel Doe,F,35,2.58,20,MPhil Statistics,Northern,No,17000
+1613,Ama Amankwah,Female,21,2.95,26,MSc Data Science,volta,YES,2000
+1162,Kojo Nkrumah,M,20,3.67,5,MBA,eastern,no,8750
+1047,Fatima Boateng,M,23,3.1,2,MBA,Central,YES,16500
+2418,Joseph Owusu,female,33,2.21,2,MBA,upper east,Yes,13500
+1274,Kojo Asare,F,20,2.84,15,MBA,volta,no,7000
+1453,Samuel Sarpong,Female,21,3.02,32,MPhil Statistics, Volta ,YES,16500
+1401,Efua Nkrumah,female,31,3.84,40,MSc Data Science,greater accra,No,16000
+2079,Ama Sarpong,F,25,3.7,35,MSc Data Science,volta,Yes,14250
+1094,Abena Agyeman,F,22,2.78,19,MBA,greater accra,No,6750
+2219,Daniel Ofori,Female,17,2.47,33,MSc Data Science,greater accra,YES,8750
+1437,Emmanuel Mensah,male,23,1.88,16,MBA,northern,no,17500
+2184,Daniel Amankwah,Male,29,3.9,38,MBA,central,No,2500
+2092,Michael Mensah,male,34,1.7,9,MSc Data Science,upper west,No,8500
+2313,Isaac Owusu,F,28,3.43,31,MSc Economics,greater accra,No,2750
+1791,Joseph Brown,F,26,2.61,10,MSc Data Science,Greater Accra,no,3250
+2049,Abena Doe,male,20,2.81,40,MPhil Statistics,central,no,18000
+1889,Kwame Asare,male,18,3.13,4,MSc Data Science, Greater Accra ,no,4500
+2466,Rashid Doe,M,19,2.01,31,MBA,Northern,Yes,9500
+1466,Kofi Sarpong,F,28,3.38,4,MPhil Statistics,volta,no,11000
+1174,Michael Addo,F,22,3.38,16,MSc Data Science,upper east,YES,13750
+2182,Ama Brown,M,32,2.59,13,MSc Data Science,upper east,no,17250
+1915,Ama Lee,Female,17,2.54,17,MBA,Northern,No,16500
+2251,Ama Mensah,Male,30,,18,MBA, Northern ,No,7000
+1665,Kojo Owusu,M,31,,40,MSc Data Science,upper west,No,8250
+1888,Abena Addo,female,25,1.09,35,MPhil Statistics,Eastern,Yes,17250
+1242,Ama Sarpong,Female,18,1.62,2,MPhil Statistics,Central,no,12750
+1355,Yaw Mensah,female,26,1.9,15,MBA,central,No,17500
+2498,Fatima Doe,M,27,4.8,13,MPhil Statistics,eastern,Yes,14750
+1720,Daniel Mensah,Female,21,3.1,10,MBA,western,YES,14250
+1982,Akosua Tetteh,Male,33,2.61,8,MPhil Statistics,Northern,YES,4500
+2091,Rashid Sarpong,F,34,2.7,24,MSc Economics, eastern ,YES,8500
+1945,Grace Addo,Female,28,1.25,26,MBA,upper west,no,2750
+1403,Irene Amankwah,Male,23,2.59,23,MPhil Statistics,Ashanti,no,3250
+2300,Kojo Boateng,male,21,3.34,21,MSc Economics,Eastern,YES,14000
+2256,Fatima Mensah,Male,22,1.59,37,MSc Economics,Upper West,No,6250
+2098,Kojo Brown,F,17,3.22,20,MPhil Statistics,central,YES,13500
+2402,Michael Doe,F,17,2.08,34,MSc Economics,Eastern,no,11750
+1227,Grace Lee,Female,30,1.22,9,MSc Data Science,western,No,6500
+1471,Irene Doe,F,18,3.08,26,MSc Economics,Western,YES,2000
+1115,Selina Asare,Male,32,3.07,5,MSc Data Science,Upper West,YES,14500
+1585,Isaac Nkrumah,M,29,1.71,2,MSc Data Science,central,No,3000
+1331,Emmanuel Sarpong,male,twenty-two,2.23,15,MSc Economics,Western,Yes,13000
+1124,Akosua Agyeman,male,28,2.85,38,MSc Economics,Upper East,Yes,11000
+1004,Rashid Nkrumah,female,17,2.95,11,MSc Data Science,Volta,YES,?
+2308,Yaw Mensah,Male,18,1.98,33,MPhil Statistics,upper west,no,14000
+2258,Irene Nkrumah,Female,24,2.08,36,MPhil Statistics,ashanti,Yes,12750
+1388,Selina Brown,female,31,2.88,38,MPhil Statistics,upper west,No,4500
+1018,Joseph Addo,Male,31,3.37,38,MPhil Statistics,ashanti,Yes,10750
+1789,Samuel Nkrumah,Male,20,1.94,36,MSc Economics,central,No,2750
+1302,Selina Doe,Male,35,1.54,35,MBA, central ,YES,13000
+1287,Fatima Lee,Male,28,3.72,18,MBA,Central,No,18000
+2119,Samuel Mensah,female,18,2.32,24,MBA,Ashanti,no,10500
+1418,Joseph Sarpong,M,17,1.3,38,MPhil Statistics,Eastern,YES,12750
+1509,Kojo Lee,Female,25,2.55,1,MBA, volta ,YES,15500
+1249,Kofi Agyeman,male,23,2.22,25,MSc Data Science,northern,Yes,6750
+1835,Kwame Asare,F,20,1.99,16,MPhil Statistics,Central,no,4750
+2301,Emmanuel Ofori,F,26,3.2,13,MSc Economics,Upper East,no,9250
+2385,Selina Nkrumah,male,17,3.74,29,MSc Economics,Ashanti,YES,11750
+2195,Samuel Lee,Male,23,1.11,23,MSc Data Science,Ashanti,YES,15500
+2255,Ama Amankwah,M,35,3.15,ten,MBA,Central,YES,2000
+1604,Michael Asare,female,25,1.06,15,MPhil Statistics,Upper West,Yes,15000
+1034,Rashid Doe,female,31,3.26,17,MSc Data Science,Northern,No,17500
+1609,Abena Sarpong,Female,32,2.5,8,MSc Data Science,Upper East,Yes,8000
+2423,Daniel Addo,male,twenty-two,3.67,22,MPhil Statistics,Eastern,No,9000
+1182,Akosua Mensah,Female,32,3.28,39,MBA,Central,No,3750
+1053,Grace Lee,female,21,3.95,18,MBA,greater accra,No,4750
+2411,Efua Owusu,F,24,1.01,14,MSc Data Science,upper west,Yes,13000
+2279,Michael Amankwah,Female,23,3.2,18,MSc Data Science,Upper West,Yes,8000
+2201,Kwame Sarpong,Female,29,,15,MSc Economics,Central,No,12000
+1269,Emmanuel Ofori,M,31,3.06,10,MSc Data Science,Volta,no,13750
+1843,Efua Ofori,Male,18,2.32,8,MSc Economics,upper west,No,7250
+1308,Fatima Doe,M,35,2.95,3,MPhil Statistics,Greater Accra,no,9750
+2487,Adwoa Mensah,M,26,2.97,35,MBA,Volta,YES,11500
+2326,Daniel Lee,M,31,3.48,18,MBA,upper east,YES,13250
+1113,Selina Sarpong,male,twenty-two,2.02,37,MPhil Statistics,Northern,no,17250
+1548,Emmanuel Mensah,female,34,3.15,36,MPhil Statistics,Upper West,YES,17500
+1110,Michael Tetteh,Male,26,1.67,37,MSc Economics,Central,No,3500
+1660,Ama Owusu,Male,21,3.05,6,MSc Economics,Western,No,15250
+1979,Emmanuel Ofori,Male,25,4.8,5,MSc Data Science,central,no,12750
+1189,Grace Nkrumah,F,33,2.33,19,MBA, Ashanti ,Yes,3250
+1076,Fatima Asare,F,24,2.81,40,MSc Economics,eastern,No,8750
+1324,Efua Tetteh,female,27,3.35,24,MSc Data Science,Central,no,?
+1814,Rashid Agyeman,female,35,1.83,5,MSc Economics,upper east,YES,16250
+2497,Kwame Doe,M,35,1.09,0,MBA,Central,YES,12000
+1495,Rashid Sarpong,female,27,2.27,14,MBA,Greater Accra,No,3500
+1705,Kofi Owusu,male,28,1.56,33,MSc Economics,Upper East,No,3000
+1371,Grace Addo,F,35,2.2,21,MPhil Statistics,upper east,no,16500
+1019,Isaac Sarpong,male,34,1.15,36,MSc Economics,ashanti,No,3500
+1587,Fatima Amankwah,female,28,4.8,22,MBA,northern,YES,17750
+1333,Adwoa Brown,M,20,1.85,3,MSc Data Science,greater accra,No,3000
+1432,Grace Owusu,female,35,3.33,30,MPhil Statistics,Northern,Yes,17250
+2283,Rashid Sarpong,M,24,3.62,39,MSc Data Science,Central,Yes,17250
+1709,Yaw Lee,male,32,1.4,4,MSc Economics,northern,YES,5000
+1551,Isaac Asare,Female,20,1.79,11,MSc Data Science,northern,No,14000
+2221,Rashid Ofori,female,31,1.69,0,MBA,Ashanti,YES,13750
+1449,Grace Mensah,male,21,3.11,0,MSc Data Science,volta,No,15750
+2169,Joseph Addo,female,29,1.32,8,MPhil Statistics,ashanti,Yes,9750
+2380,Isaac Brown,Male,21,1.25,35,MBA,greater accra,no,13250
+1543,Abena Ofori,F,34,3.82,13,MPhil Statistics,Central,Yes,14500
+2055,Rashid Nkrumah,Male,19,2.8,29,MSc Economics,Upper East,No,17250
+1678,Efua Ofori,M,26,2.56,6,MSc Economics,Central,no,5750
+1257,Irene Boateng,M,23,3.59,24,MSc Data Science,upper west,YES,12250
+1213,Rashid Asare,female,30,3.6,4,MPhil Statistics,Eastern,YES,2000
+1260,Isaac Addo,M,twenty-two,1.36,24,MSc Economics,Western,No,14750
+1679,Yaw Amankwah,Male,34,3.29,14,MPhil Statistics,greater accra,YES,7000
+1745,Irene Sarpong,M,28,2.41,29,MBA,Upper West,YES,5750
+2082,Isaac Addo,F,19,1.5,12,MBA, upper west ,No,4000
+2146,Irene Agyeman,female,23,2.87,ten,MSc Economics,Northern,no,17500
+1236,Yaw Agyeman,M,22,3.83,5,MSc Data Science, upper east ,no,17500
+1787,Kojo Brown,Male,20,1.16,30,MBA,northern,No,13250
+2358,Kofi Nkrumah,Male,18,1.68,7,MPhil Statistics,Eastern,No,9250
+1646,Emmanuel Asare,female,28,1.02,34,MBA,Eastern,no,9000
+1815,Isaac Sarpong,M,34,1.32,27,MBA,Ashanti,YES,6750
+1022,Grace Agyeman,Female,18,1.62,28,MBA,Ashanti,No,3750
+1845,Rashid Boateng,M,25,3.78,26,MBA,Eastern,no,14750
+2297,Samuel Amankwah,female,22,3.02,27,MBA, ashanti ,YES,13250
+2227,Abena Amankwah,male,35,3.77,10,MSc Data Science,greater accra,Yes,9250
+1706,Yaw Doe,male,33,1.86,33,MBA,Upper West,No,2500
+2257,Akosua Sarpong,F,17,3.7,32,MSc Economics,Western,YES,18000
+1071,Samuel Tetteh,Male,32,2.42,8,MSc Economics,western,No,4000
+2377,Samuel Nkrumah,Male,27,2.11,12,MSc Data Science,eastern,no,14250
+1803,Selina Lee,M,35,2.98,40,MBA,eastern,YES,14750
+2125,Efua Ofori,M,35,3.79,7,MSc Economics,ashanti,YES,15750
+1353,Selina Mensah,female,22,2.17,5,MSc Economics,central,no,15000
+1021,Selina Asare,Male,24,3.76,4,MSc Data Science,upper east,Yes,10250
+2276,Samuel Nkrumah,male,22,,22,MSc Data Science,Upper West,no,7000
+1504,Adwoa Ofori,Female,twenty-two,2.79,33,MSc Data Science,central,no,6250
+2130,Selina Mensah,male,35,3.4,33,MSc Data Science,ashanti,no,7750
+1712,Grace Asare,Female,25,3.93,15,MPhil Statistics,western,no,10000
+2340,Kofi Asare,M,21,3.55,33,MPhil Statistics,central,No,11000
+2156,Kojo Brown,female,32,3.81,5,MSc Economics,eastern,no,12750
+1536,Fatima Nkrumah,M,17,3.23,30,MBA,ashanti,YES,15000
+1129,Kwame Doe,F,31,1.73,31,MBA,eastern,Yes,12250
+2165,Daniel Asare,Female,25,3.28,30,MSc Economics,Eastern,YES,17000
+1085,Akosua Nkrumah,female,32,3.48,40,MSc Data Science,Ashanti,YES,16500
+2221,Rashid Ofori,female,31,1.69,0,MBA,Ashanti,YES,13750
+1366,Ama Tetteh,male,27,,9,MSc Economics,Eastern,No,13000
+1918,Rashid Mensah,Male,24,3.24,32,MBA,greater accra,No,2500
+1944,Efua Nkrumah,male,26,1.65,21,MSc Data Science,Northern,YES,14750
+2240,Yaw Mensah,Male,17,2.41,14,MPhil Statistics, volta ,no,10500
+2037,Abena Tetteh,F,19,1.91,14,MSc Data Science,Northern,No,11250
+2069,Samuel Owusu,male,21,1.74,30,MSc Economics,greater accra,no,9000
+1788,Irene Tetteh,M,17,3.47,8,MBA,upper west,no,4000
+1336,Samuel Ofori,female,22,1.79,39,MSc Economics,ashanti,Yes,17750
+1574,Efua Sarpong,Male,20,,31,MBA,greater accra,Yes,5500
+2032,Kwame Asare,M,31,1.31,5,MSc Economics,Northern,Yes,11750
+1008,Emmanuel Doe,male,21,1.44,30,MPhil Statistics, ashanti ,YES,13250
+1927,Efua Doe,male,27,1.9,6,MSc Data Science, Ashanti ,No,7250
+1867,Kojo Lee,female,19,2.95,40,MSc Economics,Eastern,No,13750
+1958,Samuel Amankwah,female,33,2.68,19,MPhil Statistics,greater accra,no,12250
+1583,Grace Boateng,male,29,1.25,15,MBA,Upper West,Yes,7250
+1456,Isaac Mensah,M,21,3.69,3,MBA,Upper West,No,9000
+2463,Emmanuel Nkrumah,Male,22,3.73,12,MBA,Upper West,No,17000
+1342,Daniel Nkrumah,Male,20,1.43,17,MPhil Statistics,ashanti,YES,4000
+1103,Joseph Tetteh,Male,twenty-two,3.76,34,MPhil Statistics,Ashanti,no,5250
+2420,Joseph Sarpong,M,18,3.92,19,MSc Data Science,volta,YES,8500
+1978,Daniel Boateng,Male,23,,35,MPhil Statistics,Upper West,YES,12250
+2068,Selina Nkrumah,M,23,1.48,25,MBA,Central,no,12000
+1048,Fatima Owusu,F,26,3.15,28,MSc Data Science,Ashanti,No,9250
+2024,Ama Ofori,male,18,3.39,23,MSc Economics,Volta,YES,10000
+1186,Kojo Owusu,male,34,3.5,16,MSc Data Science,Volta,YES,7250
+1172,Kojo Sarpong,male,28,1.24,12,MSc Economics,Volta,YES,13250
+1422,Efua Lee,M,31,1.37,6,MSc Data Science, Volta ,Yes,7000
+1916,Samuel Sarpong,female,33,1.83,8,MPhil Statistics, Upper West ,No,8000
+1874,Rashid Ofori,female,19,3.03,27,MPhil Statistics,Ashanti,no,10750
+1482,Irene Owusu,male,34,2.49,22,MPhil Statistics,upper east,No,11750
+1062,Isaac Doe,Male,31,3.03,2,MPhil Statistics,upper west,no,12500
+1695,Michael Tetteh,Male,35,3.87,33,MSc Data Science,Volta,no,5750
+1924,Kofi Lee,M,23,,32,MSc Data Science,Ashanti,Yes,3750
+1386,Isaac Owusu,Male,23,2.37,26,MBA,greater accra,no,4000
+2191,Akosua Sarpong,female,29,2.59,4,MSc Data Science,upper east,Yes,7250
+1286,Rashid Sarpong,female,twenty-two,3.22,22,MBA,ashanti,no,3000
+1195,Rashid Doe,M,twenty-two,1.44,20,MSc Economics,Eastern,No,8250
+1406,Grace Tetteh,male,17,3.84,39,MSc Data Science,upper west,no,11000
+2168,Efua Agyeman,Male,31,2.97,1,MPhil Statistics,upper west,Yes,13000
+1967,Isaac Lee,F,27,3.66,30,MSc Data Science,Eastern,No,2000
+1573,Kwame Amankwah,male,28,1.61,3,MSc Data Science,ashanti,No,11500
+2106,Irene Addo,Male,25,3.23,30,MPhil Statistics,Eastern,No,16250
+1130,Efua Doe,M,33,1.21,0,MSc Economics,Central,YES,8250
+1368,Samuel Agyeman,female,34,3.26,1,MPhil Statistics,Northern,no,14250
+2172,Abena Addo,Male,35,3.85,16,MSc Economics,ashanti,Yes,6250
+1847,Yaw Tetteh,female,18,2.02,16,MBA,western,no,13750
+2127,Fatima Ofori,F,19,1.44,7,MSc Data Science,Ashanti,no,5000
+1664,Selina Boateng,male,19,3.95,16,MBA,Northern,YES,8500
+2367,Isaac Nkrumah,Male,31,2.13,10,MPhil Statistics,eastern,YES,16250
+1489,Adwoa Amankwah,F,29,3.1,22,MSc Data Science,upper west,Yes,17000
+2266,Adwoa Owusu,male,17,3.55,32,MPhil Statistics,Northern,no,8250
+1772,Emmanuel Doe,F,32,2.35,ten,MPhil Statistics,Ashanti,YES,9750
+1673,Adwoa Brown,female,21,3.84,7,MSc Economics,Ashanti,YES,5000
+1541,Kwame Agyeman,Male,17,2.3,12,MSc Data Science,Eastern,Yes,7250
+1128,Grace Amankwah,F,33,1.04,17,MSc Data Science,Upper West,Yes,7750
+1881,Samuel Lee,M,31,,20,MSc Economics,upper west,no,15500
+1362,Ama Mensah,Male,26,1.33,27,MSc Economics,Eastern,no,10000
+1757,Akosua Lee,M,120,3.48,18,MSc Data Science,Eastern,YES,10250
+1170,Adwoa Asare,Male,31,2.9,3,MSc Economics,volta,No,13750
+2359,Abena Tetteh,Male,21,2.09,9,MBA,ashanti,YES,7750
+1120,Efua Lee,male,30,3.69,27,MBA,Greater Accra,no,9500
+2222,Kwame Owusu,male,30,,38,MSc Economics,northern,YES,17000
+1965,Akosua Tetteh,male,22,3.59,25,MBA,upper east,YES,15500
+2467,Grace Amankwah,male,22,3.5,32,MSc Economics,Ashanti,no,17000
+1581,Kwame Doe,F,18,1.69,38,MSc Data Science,Upper East,YES,14750
+1736,Abena Asare,F,twenty-two,1.91,ten,MPhil Statistics,Upper West,Yes,4250
+2009,Isaac Agyeman,M,26,2.84,10,MSc Data Science,Central,No,2750
+2178,Fatima Tetteh,M,27,2.39,25,MPhil Statistics,western,Yes,10000
+2000,Ama Nkrumah,Female,twenty-two,3.72,10,MSc Economics,upper east,YES,4000
+1615,Fatima Sarpong,Female,28,2.05,24,MPhil Statistics,northern,YES,2500
+2238,Kofi Nkrumah,Male,22,1.57,37,MBA,western,Yes,10000
+1201,Daniel Amankwah,female,20,3.42,34,MSc Economics,eastern,Yes,15250
+1746,Akosua Ofori,Male,120,2.45,28,MSc Data Science,eastern,Yes,3750
+1250,Adwoa Brown,female,29,4.8,3,MSc Data Science,Ashanti,No,8000
+1378,Daniel Asare,M,25,1.6,32,MPhil Statistics,Upper West,No,16250
+1316,Fatima Tetteh,M,19,,21,MPhil Statistics,upper west,no,15000
+1147,Kojo Agyeman,male,21,2.03,2,MSc Economics,northern,Yes,4250
+1463,Akosua Lee,Female,29,2.26,ten,MSc Economics,Ashanti,YES,?
+1758,Akosua Nkrumah,male,20,1.58,1,MPhil Statistics,Western,no,7000
+2204,Emmanuel Lee,Female,22,4.8,40,MBA,northern,No,6250
+2459,Fatima Lee,Male,20,2.15,8,MSc Economics,Upper East,No,12750
+1142,Fatima Tetteh,M,28,2.93,30,MBA,ashanti,no,7000
+2307,Abena Nkrumah,Male,32,3.0,38,MPhil Statistics,northern,No,16750
+2035,Isaac Addo,F,18,3.84,21,MSc Data Science,central,No,4000
+1722,Selina Sarpong,female,19,3.87,ten,MBA,eastern,no,4250
+1356,Adwoa Agyeman,Male,19,1.63,11,MSc Data Science,Ashanti,YES,10500
+1505,Kwame Asare,M,24,3.53,27,MSc Data Science,Central,YES,13500
+1336,Samuel Ofori,female,22,1.79,39,MSc Economics,ashanti,Yes,17750
+1068,Irene Agyeman,male,33,3.24,21,MPhil Statistics,greater accra,YES,17750
+2386,Adwoa Nkrumah,Female,30,1.25,16,MPhil Statistics, Upper West ,No,17000
+2492,Abena Nkrumah,male,29,1.96,ten,MSc Data Science, Greater Accra ,No,10750
+1420,Efua Mensah,Male,31,3.27,0,MSc Data Science,western,no,5000
+2066,Irene Tetteh,male,28,3.03,13,MSc Economics,Northern,YES,3000
+1083,Samuel Nkrumah,M,26,1.64,32,MSc Data Science,eastern,no,9000
+1326,Michael Tetteh,male,22,1.5,34,MSc Data Science,Upper East,Yes,3000
+2320,Irene Addo,male,19,3.88,35,MSc Economics,Western,no,4250
+1042,Abena Amankwah,female,31,3.67,22,MSc Data Science,upper east,Yes,2250
+1016,Joseph Ofori,Male,23,1.98,9,MSc Data Science,Ashanti,no,16750
+1159,Grace Sarpong,male,25,1.65,23,MBA,Eastern,No,7500
+1469,Grace Amankwah,F,120,3.55,22,MPhil Statistics,Northern,YES,9250
+1626,Emmanuel Boateng,Female,34,3.58,33,MBA, Upper East ,no,12500
+2239,Irene Boateng,female,28,4.8,16,MPhil Statistics,Ashanti,Yes,3500
+2026,Efua Tetteh,F,23,3.27,ten,MSc Data Science,Upper East,no,10000
+1981,Samuel Agyeman,F,28,2.79,11,MBA, upper west ,No,3750
+1594,Joseph Agyeman,male,19,1.83,8,MPhil Statistics,Greater Accra,Yes,2500
+2167,Isaac Boateng,F,25,3.32,16,MSc Economics,upper east,YES,16500
+1756,Kofi Brown,male,twenty-two,2.47,2,MBA,Upper East,Yes,16000
+2298,Akosua Owusu,Female,29,2.42,21,MSc Economics,central,No,2250
+1580,Daniel Nkrumah,Female,20,2.13,17,MPhil Statistics,greater accra,YES,11000
+2441,Kojo Doe,F,23,2.98,ten,MSc Data Science,Greater Accra,No,14250
+1527,Samuel Addo,F,25,1.36,1,MBA,eastern,no,5500
+2335,Isaac Brown,Female,20,3.29,39,MSc Data Science, Upper East ,Yes,4000
+1854,Emmanuel Sarpong,F,27,2.48,4,MPhil Statistics,Western,no,15500
+1100,Yaw Boateng,female,34,2.41,18,MBA,upper west,no,14250
+1329,Efua Boateng,female,17,3.41,25,MBA,Volta,Yes,9000
+1493,Kofi Brown,female,28,2.2,5,MSc Economics, Eastern ,No,16000
+2200,Kofi Lee,female,35,2.81,40,MSc Economics,greater accra,Yes,6500
+2192,Yaw Nkrumah,Male,twenty-two,2.46,7,MSc Economics,northern,YES,6250
+1084,Grace Amankwah,Female,20,1.37,26,MSc Data Science,volta,No,15250
+1003,Kojo Owusu,Male,31,1.05,1,MSc Economics,Volta,Yes,13000
+1793,Michael Lee,male,30,2.53,32,MSc Data Science,northern,YES,9250
+2206,Ama Nkrumah,F,twenty-two,3.46,24,MBA,central,YES,15250
+2093,Joseph Mensah,female,18,1.83,13,MSc Economics,upper east,Yes,6500
+2065,Joseph Doe,M,30,1.45,40,MSc Economics, Western ,no,9000
+2057,Fatima Mensah,Male,33,3.64,25,MSc Data Science,ashanti,Yes,6500
+1697,Kofi Mensah,Male,18,2.56,40,MBA,Eastern,No,3750
+1216,Michael Nkrumah,F,26,2.07,21,MBA,northern,No,16250
+2274,Irene Addo,F,21,1.92,25,MSc Economics,Central,no,12000
+1502,Isaac Amankwah,male,31,3.21,40,MPhil Statistics,volta,YES,16000
+2471,Ama Addo,female,26,2.48,18,MSc Data Science,upper west,No,11250
+1081,Samuel Mensah,F,28,2.17,24,MPhil Statistics,greater accra,YES,2500
+2365,Yaw Sarpong,male,27,2.57,28,MSc Economics,Northern,YES,11750
+1038,Fatima Agyeman,Male,24,3.7,2,MSc Economics,Upper East,No,15500
+2443,Adwoa Addo,Male,27,2.4,16,MSc Data Science,Central,No,16750
+1520,Akosua Tetteh,male,34,3.03,32,MSc Economics,volta,YES,16000
+2080,Rashid Tetteh,M,26,3.72,ten,MSc Economics,eastern,Yes,15000
+2054,Emmanuel Amankwah,Male,30,1.66,23,MSc Data Science,eastern,Yes,5000
+1392,Selina Amankwah,female,20,1.29,33,MBA,Upper East,No,3750
+1183,Irene Amankwah,M,27,2.18,39,MSc Economics,Central,Yes,6000
+1375,Kofi Doe,F,29,2.56,2,MBA,ashanti,Yes,4750
+1530,Selina Lee,female,20,2.86,ten,MPhil Statistics, Northern ,Yes,17250
+2456,Rashid Tetteh,Male,20,2.08,22,MPhil Statistics,Greater Accra,No,8500
+1872,Fatima Asare,Female,19,3.14,25,MBA,volta,Yes,3250
+1067,Fatima Tetteh,Male,28,1.18,35,MSc Data Science,upper east,Yes,?
+1733,Samuel Amankwah,female,29,3.16,4,MSc Data Science,Upper East,YES,5500
+1485,Adwoa Ofori,female,20,3.46,38,MSc Economics,western,no,15000
+2215,Fatima Doe,F,32,3.3,35,MPhil Statistics,Western,YES,14250
+1408,Rashid Asare,Female,22,2.93,5,MSc Data Science,central,No,14250
+2470,Irene Lee,female,26,3.61,35,MPhil Statistics,Central,no,5500
+1804,Adwoa Lee,female,34,2.58,10,MSc Data Science,Volta,YES,10250
+1430,Joseph Agyeman,F,35,,5,MSc Economics,Ashanti,Yes,5500
+1173,Kwame Tetteh,male,20,1.24,11,MBA,northern,No,9500
+1591,Samuel Asare,M,21,2.0,35,MSc Economics, upper west ,No,4250
+2289,Emmanuel Mensah,Female,19,,20,MSc Data Science,upper west,YES,17500
+1331,Emmanuel Sarpong,male,twenty-two,2.23,15,MSc Economics,Western,Yes,13000
+1572,Isaac Sarpong,female,33,2.79,14,MBA,volta,YES,7250
+1488,Isaac Doe,Female,26,1.75,31,MPhil Statistics,central,Yes,7750
+1285,Ama Amankwah,female,22,3.67,24,MPhil Statistics,Greater Accra,Yes,14750
+1994,Ama Addo,F,23,3.1,33,MSc Data Science,Western,YES,12500
+1716,Rashid Brown,Female,29,2.61,19,MBA,Central,No,8500
+2207,Irene Mensah,Male,26,1.59,5,MSc Data Science,central,No,5750
+2249,Rashid Tetteh,female,31,,6,MSc Economics,Western,no,6250
+2268,Samuel Tetteh,M,30,2.8,32,MBA,Western,no,11000
+1233,Adwoa Brown,female,29,1.39,36,MPhil Statistics,volta,no,5250
+1846,Efua Brown,Female,35,4.8,24,MBA, western ,Yes,6000
+1825,Grace Addo,male,20,2.28,40,MPhil Statistics,Greater Accra,Yes,15500
+1280,Efua Boateng,M,23,2.19,12,MPhil Statistics,Western,YES,2500
+1808,Kwame Asare,Male,34,3.08,18,MSc Economics,northern,no,7000
+2445,Daniel Asare,Male,33,3.48,7,MSc Economics,central,YES,13750
+2101,Kojo Owusu,male,17,3.1,5,MSc Economics,Northern,YES,6500
+2478,Fatima Agyeman,Female,25,2.01,31,MPhil Statistics,Greater Accra,YES,11250
+1554,Akosua Agyeman,M,18,3.49,28,MSc Data Science,Upper West,YES,16250
+2155,Ama Boateng,male,32,1.48,35,MPhil Statistics,Northern,Yes,7000
+1970,Adwoa Asare,M,33,3.16,26,MBA,greater accra,YES,12250
+2384,Isaac Mensah,female,24,2.82,24,MSc Economics,upper west,no,13250
+2041,Selina Tetteh,F,27,,0,MPhil Statistics,Northern,no,2250
+2133,Kwame Addo,female,32,1.1,2,MPhil Statistics,Western,YES,18000
+1878,Adwoa Doe,M,28,2.88,18,MPhil Statistics,central,no,10000
+1271,Joseph Lee,Male,35,3.08,37,MBA,Eastern,no,16750
+1625,Emmanuel Sarpong,male,twenty-two,3.9,11,MSc Economics,Central,no,16500
+1461,Ama Boateng,Male,23,2.45,32,MSc Economics,Upper East,YES,16500
+1700,Rashid Brown,Female,25,2.39,40,MPhil Statistics,western,Yes,9750
+2237,Yaw Mensah,Male,19,1.37,26,MBA,Volta,Yes,8750
+1061,Rashid Doe,F,31,2.36,3,MSc Economics,volta,No,10750
+1202,Michael Mensah,Female,26,1.3,32,MBA,Upper East,No,16250
+1400,Joseph Ofori,female,34,1.43,37,MSc Data Science,volta,no,15750
+1029,Akosua Lee,Female,18,2.54,4,MSc Data Science,western,No,12750
+1598,Yaw Agyeman,male,21,1.23,30,MSc Economics,Greater Accra,No,2750
+2469,Fatima Brown,M,33,1.97,4,MSc Data Science,Upper West,no,13250
+1931,Michael Boateng,M,31,3.0,37,MSc Data Science, Northern ,no,15000
+2211,Efua Agyeman,F,18,3.26,26,MBA,Greater Accra,no,6500
+1452,Grace Asare,F,20,2.65,7,MBA,Ashanti,no,14750
+1992,Grace Mensah,F,34,,20,MSc Data Science,central,No,5250
+1127,Yaw Mensah,female,31,2.21,29,MSc Economics,volta,No,2750
+2099,Kojo Doe,Female,24,2.56,25,MBA,upper west,YES,7750
+1348,Kojo Sarpong,M,28,1.77,19,MPhil Statistics,greater accra,Yes,5750
+2246,Akosua Asare,Male,32,1.16,1,MSc Economics,western,No,17250
+1117,Emmanuel Nkrumah,F,34,4.8,22,MPhil Statistics,Eastern,Yes,4000
+1105,Efua Lee,Female,33,3.14,22,MPhil Statistics,Eastern,Yes,13750
+1844,Samuel Agyeman,Male,18,2.26,12,MSc Economics,central,YES,9500
+1380,Isaac Sarpong,Female,33,3.53,39,MSc Economics,Greater Accra,no,15000
+1352,Michael Sarpong,M,24,2.76,3,MSc Data Science,Eastern,YES,17750
+1294,Kojo Agyeman,female,30,1.06,11,MBA,Volta,No,18000
+1607,Kofi Amankwah,female,17,2.39,13,MPhil Statistics, Volta ,YES,9500
+1902,Rashid Owusu,female,25,3.11,21,MPhil Statistics,volta,no,2500
+1790,Selina Nkrumah,M,30,2.24,17,MBA,Upper West,YES,14500
+2281,Daniel Ofori,male,18,2.7,5,MBA, western ,Yes,4250
+1092,Emmanuel Nkrumah,Female,24,2.5,26,MSc Data Science,eastern,YES,11250
+1024,Samuel Boateng,F,twenty-two,2.28,24,MSc Economics,Ashanti,YES,9000
+2481,Yaw Ofori,female,30,3.33,39,MSc Economics,greater accra,no,9750
+1986,Ama Boateng,F,21,1.24,ten,MBA,Eastern,no,6500
+1091,Ama Brown,female,18,3.44,1,MPhil Statistics,Central,YES,12000
+1652,Samuel Addo,female,twenty-two,1.87,9,MSc Economics,greater accra,no,11750
+1524,Abena Ofori,M,22,3.35,36,MBA,northern,Yes,14500
+1569,Samuel Agyeman,Female,19,3.32,26,MPhil Statistics, northern ,YES,16250
+1735,Irene Tetteh,M,29,3.44,12,MBA,Eastern,YES,11000
+2349,Akosua Mensah,F,20,3.82,27,MPhil Statistics,northern,no,7750
+2122,Grace Lee,Male,22,3.31,37,MSc Economics,Volta,Yes,2500
+1972,Abena Owusu,Female,33,2.46,29,MBA,Northern,no,14250
+2272,Efua Boateng,Male,29,2.78,9,MSc Data Science,eastern,No,12000
+1620,Emmanuel Mensah,male,19,3.26,25,MBA, Western ,Yes,2000
+1860,Grace Asare,female,22,2.8,24,MBA,Ashanti,Yes,12000
+2112,Isaac Boateng,F,29,3.0,40,MPhil Statistics,Greater Accra,YES,6750
+1644,Joseph Sarpong,female,34,3.53,2,MPhil Statistics,upper east,no,17750
+1612,Kojo Boateng,Male,33,1.49,32,MSc Data Science,upper west,Yes,9750
+2437,Kwame Addo,female,17,3.4,9,MSc Economics,Volta,YES,7750
+1224,Abena Boateng,Female,18,3.16,27,MBA,greater accra,Yes,2250
+2105,Emmanuel Brown,F,33,2.9,34,MPhil Statistics,eastern,no,13000
+1214,Kojo Mensah,Female,17,2.63,30,MBA,greater accra,Yes,15500
+2317,Daniel Brown,female,33,3.75,38,MBA,eastern,Yes,11250
+1886,Fatima Brown,male,35,2.97,11,MPhil Statistics,central,no,4250
+2149,Adwoa Owusu,M,34,2.7,0,MSc Data Science,eastern,No,6250
+1863,Grace Brown,female,35,1.4,15,MBA,northern,Yes,8000
+1078,Michael Asare,Male,25,3.49,25,MSc Data Science,Volta,YES,11500
+2436,Kojo Agyeman,female,33,2.24,37,MPhil Statistics,central,No,9500
+1001,Kojo Brown,Female,35,1.84,30,MPhil Statistics,eastern,no,3500
+1389,Michael Brown,male,29,,34,MBA,Upper East,YES,17750
+2399,Ama Sarpong,Male,25,1.78,37,MSc Economics,ashanti,No,4250
+1440,Yaw Boateng,male,29,2.96,17,MBA,eastern,YES,7750
+1668,Grace Lee,male,22,1.07,3,MBA,Greater Accra,No,16750
+1858,Adwoa Asare,Female,20,1.59,25,MSc Data Science,Volta,no,3250
+1641,Adwoa Mensah,Female,21,3.5,30,MBA,northern,No,10500
+1836,Samuel Nkrumah,Male,25,2.68,20,MBA,northern,no,17750
+2264,Joseph Addo,female,twenty-two,3.51,16,MSc Data Science,Volta,No,2500
+2097,Ama Ofori,male,31,1.7,27,MSc Data Science,Ashanti,YES,7750
+1552,Emmanuel Brown,male,19,1.68,10,MPhil Statistics,Upper West,Yes,2750
+2331,Selina Addo,F,21,1.68,18,MBA,central,YES,6250
+1298,Efua Agyeman,female,17,1.71,19,MSc Data Science,volta,YES,12500
+1546,Adwoa Tetteh,M,27,1.84,15,MBA,Ashanti,No,3250
+1544,Kofi Amankwah,female,28,3.59,39,MSc Economics,volta,YES,14500
+1278,Daniel Mensah,M,25,3.4,20,MBA,Greater Accra,No,12250
+2474,Isaac Owusu,M,27,,38,MPhil Statistics,Eastern,No,9750
+1323,Selina Boateng,Female,31,,30,MPhil Statistics,Upper East,no,4000
+1491,Abena Asare,F,29,1.73,18,MBA,upper west,Yes,5250
+2027,Samuel Asare,M,33,2.47,26,MBA,northern,Yes,13750
+1817,Daniel Boateng,M,23,1.86,25,MSc Economics, Eastern ,No,12750
+2177,Joseph Owusu,F,17,3.29,34,MSc Economics,Central,Yes,12250
+1996,Selina Sarpong,female,25,1.91,34,MSc Economics,ashanti,No,16750
+2293,Irene Addo,F,21,1.72,19,MBA,upper east,YES,4250
+2406,Irene Sarpong,Female,30,1.68,32,MSc Data Science,Northern,Yes,16250
+2153,Ama Boateng,M,20,2.86,26,MSc Economics,Volta,No,3250
+1653,Daniel Ofori,M,26,2.87,32,MBA,Eastern,Yes,18000
+2287,Yaw Asare,Female,23,1.91,19,MSc Economics,greater accra,Yes,3500
+2208,Selina Lee,F,29,2.3,32,MSc Data Science,Central,no,2750
+1222,Irene Sarpong,female,33,3.93,24,MSc Economics,Eastern,No,10000
+2457,Samuel Agyeman,female,34,3.59,37,MBA,Northern,YES,3000
+2490,Emmanuel Asare,F,24,1.72,11,MBA,ashanti,no,5750
+1852,Joseph Asare,female,20,2.65,28,MSc Data Science,volta,Yes,12000
+1811,Michael Amankwah,female,22,3.99,24,MPhil Statistics,Volta,Yes,9500
+2491,Samuel Boateng,female,22,3.9,40,MBA,ashanti,no,9750
+1007,Fatima Tetteh,male,twenty-two,1.37,8,MSc Data Science,Ashanti,YES,7000
+1310,Isaac Owusu,F,30,3.39,28,MPhil Statistics,Upper West,Yes,8250
+2116,Kojo Owusu,M,20,1.5,12,MBA,Northern,YES,6250
+2488,Efua Boateng,male,20,3.62,25,MSc Economics,volta,No,16750
+1282,Grace Ofori,F,30,1.12,23,MSc Economics,Western,YES,10250
+2243,Irene Nkrumah,female,21,1.18,38,MSc Data Science,Upper West,No,15500
+2346,Akosua Nkrumah,F,28,1.23,7,MBA,Ashanti,YES,2250
+1149,Adwoa Amankwah,Male,31,1.36,28,MPhil Statistics,Greater Accra,no,15500
+1398,Michael Ofori,female,20,2.4,4,MSc Data Science,Ashanti,no,18000
+1884,Adwoa Sarpong,female,35,2.87,8,MPhil Statistics,central,Yes,12000
+1328,Emmanuel Lee,F,31,,3,MSc Economics,central,no,?
+1487,Ama Doe,Male,34,1.0,ten,MBA,Upper East,Yes,9500
+1578,Akosua Ofori,male,27,4.8,13,MSc Data Science,Eastern,No,5250
+1689,Daniel Amankwah,Male,21,1.31,6,MSc Data Science,northern,Yes,6750
+1523,Selina Addo,Female,18,3.31,23,MSc Data Science,upper west,YES,3250
+1952,Efua Addo,female,23,2.82,0,MSc Economics,Upper East,No,4500
+1643,Daniel Boateng,female,19,2.35,11,MPhil Statistics,Greater Accra,Yes,8000
+1272,Grace Agyeman,Male,27,1.84,3,MBA,Northern,no,9000
+1654,Samuel Addo,Male,27,3.22,40,MSc Economics,upper west,Yes,4750
+1628,Grace Mensah,male,21,1.46,16,MSc Data Science,Eastern,Yes,6750
+1087,Kojo Nkrumah,male,twenty-two,1.72,7,MBA,upper west,no,6000
+1165,Efua Nkrumah,Female,21,3.82,12,MSc Data Science, ashanti ,No,9750
+2325,Rashid Tetteh,Female,17,1.53,13,MPhil Statistics,upper west,Yes,5750
+1650,Joseph Ofori,M,26,2.18,40,MSc Data Science,Ashanti,No,17250
+1556,Joseph Tetteh,female,20,3.4,17,MSc Economics,Ashanti,no,15250
+1194,Rashid Owusu,Female,19,3.58,15,MBA,northern,No,15000
+1327,Michael Lee,F,21,,13,MPhil Statistics,central,YES,16000
+1344,Joseph Lee,F,26,1.27,16,MSc Data Science,volta,YES,16000
+1109,Michael Sarpong,M,24,,39,MBA,Ashanti,No,7500
+1156,Yaw Mensah,F,19,1.13,14,MSc Economics,Northern,no,7250
+1531,Kwame Doe,female,18,,22,MSc Data Science,eastern,No,13000
+2267,Akosua Amankwah,male,23,,33,MBA,Upper West,No,15000
+1376,Efua Nkrumah,F,32,3.09,39,MSc Data Science,Western,YES,11000
+2083,Abena Addo,male,twenty-two,1.24,14,MSc Economics,Ashanti,no,4250
+2400,Michael Lee,F,24,3.38,28,MBA,greater accra,YES,16250
+1785,Samuel Nkrumah,male,25,1.5,26,MSc Data Science,ashanti,no,7000
+1481,Yaw Owusu,Male,20,3.78,0,MBA,greater accra,Yes,7500
+1729,Rashid Boateng,F,17,1.77,8,MSc Economics,Western,no,7750
+1718,Kojo Lee,M,26,1.93,40,MPhil Statistics,northern,Yes,4250
+1795,Adwoa Tetteh,F,32,3.29,1,MSc Economics,Western,Yes,7250
+2454,Michael Sarpong,male,31,2.47,27,MSc Economics,Upper East,Yes,12750
+2298,Akosua Owusu,Female,29,2.42,21,MSc Economics,central,No,2250
+1472,Michael Addo,M,20,2.06,2,MSc Data Science,Western,YES,2500
+2294,Joseph Agyeman,male,22,2.01,30,MPhil Statistics,Eastern,YES,6250
+1017,Michael Brown,Female,20,1.83,10,MSc Economics,Ashanti,no,17250
+1780,Selina Addo,M,34,1.63,2,MPhil Statistics,eastern,No,16750
+2280,Efua Amankwah,male,20,2.0,14,MSc Economics,northern,YES,7250
+1076,Fatima Asare,F,24,2.81,40,MSc Economics,eastern,No,8750
+1135,Yaw Lee,Male,33,3.77,19,MSc Data Science,volta,YES,17000
+1002,Isaac Agyeman,M,34,3.12,13,MBA,Central,YES,12500
+1438,Kwame Ofori,M,31,2.72,27,MSc Data Science,Greater Accra,YES,10750
+2414,Adwoa Owusu,male,31,1.79,34,MSc Data Science,Northern,No,4750
+1320,Isaac Agyeman,Female,26,1.62,ten,MBA,ashanti,YES,16750
+2008,Kwame Ofori,female,33,3.56,15,MSc Data Science,greater accra,YES,7000
+1929,Kwame Addo,female,25,1.98,32,MSc Data Science,ashanti,no,6000
+1991,Ama Addo,female,23,3.68,ten,MBA,Eastern,no,12750
+1666,Joseph Boateng,F,35,3.08,25,MPhil Statistics,Ashanti,YES,3000
+1322,Fatima Lee,F,twenty-two,3.55,33,MPhil Statistics,Central,Yes,8750
+1568,Grace Asare,Male,23,3.91,37,MBA,upper west,YES,8000
+1912,Isaac Brown,female,34,1.04,3,MSc Economics,Greater Accra,no,15750
+1252,Michael Doe,female,32,2.26,3,MSc Data Science,volta,No,5250
+1908,Selina Amankwah,Male,33,1.45,27,MSc Economics,Western,no,4750
+2323,Akosua Asare,Female,28,1.87,2,MBA,upper east,No,10250
+2371,Akosua Tetteh,F,17,1.7,36,MSc Data Science,greater accra,No,3500
+1063,Michael Owusu,M,27,2.2,24,MSc Data Science,central,Yes,12000
+1777,Rashid Owusu,female,120,2.04,28,MSc Economics,ashanti,no,4000
+1090,Michael Boateng,F,26,1.14,16,MSc Economics,greater accra,no,5750
+1800,Daniel Agyeman,female,23,2.48,20,MSc Data Science,Ashanti,No,17750
+1732,Abena Doe,Female,17,1.03,14,MSc Data Science,volta,no,2500
+1157,Michael Amankwah,female,35,1.05,33,MSc Economics,ashanti,no,13000
+1442,Michael Boateng,M,22,3.83,25,MSc Data Science,eastern,Yes,4000
+2284,Joseph Doe,Female,33,3.45,25,MPhil Statistics,volta,no,9250
+1744,Irene Boateng,Male,34,2.14,37,MBA,northern,YES,16750
+1415,Yaw Tetteh,Male,31,2.82,7,MBA,western,No,15750
+1875,Grace Mensah,male,19,1.66,10,MSc Economics,northern,Yes,6750
+1696,Joseph Agyeman,female,27,1.07,37,MBA,Central,no,14250
+1553,Efua Nkrumah,M,twenty-two,2.48,20,MBA,central,YES,10000
+1512,Grace Mensah,Male,34,1.83,14,MSc Data Science,central,No,6750
+2412,Akosua Doe,M,29,3.66,25,MBA,ashanti,Yes,6500
+1522,Kojo Addo,Female,19,,27,MBA,central,Yes,9500
+2194,Adwoa Addo,F,18,,6,MSc Data Science,northern,no,12000
+2383,Daniel Ofori,male,25,1.1,0,MBA,Eastern,YES,15250
+1721,Kojo Asare,F,19,,36,MBA,ashanti,Yes,12250
+1474,Samuel Agyeman,Female,28,4.8,30,MPhil Statistics,Volta,Yes,7250
+2282,Samuel Sarpong,Male,27,3.38,21,MBA,Eastern,Yes,4000
+2040,Ama Amankwah,M,23,,15,MPhil Statistics,Central,YES,5000
+2305,Abena Sarpong,Female,17,2.53,0,MSc Economics,Upper East,no,17500
+1181,Adwoa Ofori,male,28,3.1,30,MPhil Statistics,Western,no,7250
+1740,Fatima Mensah,M,20,3.78,23,MSc Economics,volta,Yes,6500
+1769,Isaac Doe,M,24,2.19,19,MBA,Upper East,no,15750
+2389,Michael Agyeman,female,120,3.11,4,MSc Economics,Upper West,no,13500
+1402,Kwame Amankwah,F,21,2.91,15,MPhil Statistics, Central ,no,9750
+2244,Selina Owusu,F,34,1.12,6,MSc Data Science,western,Yes,9250
+1828,Michael Agyeman,Female,35,1.78,13,MSc Economics,western,No,14500
+1346,Selina Sarpong,Male,20,3.2,11,MPhil Statistics,greater accra,no,16500
+2394,Selina Tetteh,Male,24,1.36,29,MSc Data Science,upper east,Yes,4500
+1251,Efua Brown,male,28,1.18,18,MSc Data Science, Volta ,Yes,8500
+1296,Michael Asare,M,35,3.8,25,MSc Data Science,Greater Accra,YES,15750
+2179,Grace Doe,Female,23,3.18,7,MBA,Upper East,no,11250
+1998,Ama Doe,female,27,1.68,13,MSc Economics,Northern,No,4250
+2245,Rashid Doe,Male,30,1.63,36,MBA,volta,no,3250
+1810,Kwame Addo,Male,24,1.04,38,MBA,Western,No,15250
+1263,Yaw Asare,Male,24,1.57,ten,MPhil Statistics,upper west,YES,3500
+1121,Rashid Brown,M,29,2.79,14,MSc Data Science,eastern,YES,14750
+2128,Joseph Amankwah,M,23,1.39,15,MSc Data Science,Ashanti,no,7250
+2431,Kofi Asare,Male,29,1.4,24,MSc Economics,central,YES,13500
+1220,Irene Lee,male,33,3.11,8,MPhil Statistics,Upper West,No,7750
+1268,Grace Owusu,F,18,2.25,33,MSc Economics,western,YES,3750
+1369,Adwoa Nkrumah,Male,20,3.78,13,MPhil Statistics,northern,No,7750
+1193,Joseph Brown,Female,17,1.19,3,MSc Data Science,Eastern,Yes,15750
+1291,Yaw Brown,M,31,1.27,11,MSc Economics,Ashanti,no,?
+1693,Rashid Agyeman,Male,26,2.71,19,MPhil Statistics,upper west,No,7750
+1698,Irene Agyeman,M,34,2.08,14,MSc Data Science,Northern,Yes,?
+1739,Akosua Doe,female,20,1.71,ten,MBA,central,YES,5750
+2401,Akosua Owusu,Male,23,2.85,13,MPhil Statistics,Upper East,No,15750
+2089,Samuel Addo,male,27,2.71,37,MSc Economics,greater accra,YES,8000
+2166,Emmanuel Mensah,Female,28,2.71,35,MSc Economics,Western,No,14500
+1892,Efua Sarpong,F,27,1.7,15,MBA,Upper West,Yes,12000
+1547,Irene Amankwah,female,20,1.88,26,MBA,Greater Accra,Yes,17250
+1075,Irene Amankwah,Male,23,3.74,20,MBA,Eastern,Yes,16500
+2241,Emmanuel Sarpong,Male,24,,26,MPhil Statistics, greater accra ,no,3750
+1799,Rashid Mensah,M,34,2.15,15,MSc Data Science,Western,no,15750
+1253,Samuel Agyeman,Female,31,2.16,ten,MPhil Statistics,Upper East,no,13000
+1433,Abena Nkrumah,male,120,1.32,35,MSc Economics,eastern,Yes,4250
+1904,Emmanuel Addo,M,twenty-two,1.49,22,MSc Data Science,Northern,No,17250
+1597,Yaw Owusu,Female,22,1.1,24,MSc Data Science,northern,Yes,12750
+2435,Joseph Tetteh,M,18,,28,MSc Economics,upper east,YES,12750
+1012,Kojo Doe,male,31,3.96,31,MBA,Volta,No,12750
+1783,Selina Lee,female,33,3.33,ten,MSc Economics,Central,No,9000
+1655,Rashid Lee,female,28,2.82,23,MSc Data Science,ashanti,YES,17500
+2230,Selina Lee,male,22,3.02,11,MSc Economics,western,no,11500
+2016,Kofi Brown,F,32,3.65,27,MBA,central,YES,2750
+1210,Efua Agyeman,Male,25,1.25,22,MSc Economics,Eastern,YES,17500
+1802,Kwame Asare,F,120,2.28,12,MPhil Statistics,northern,YES,13500
+2171,Kofi Brown,Female,24,3.1,9,MSc Economics,ashanti,Yes,16250
+2347,Selina Amankwah,Male,31,1.31,38,MSc Economics,volta,No,8750
+1180,Selina Boateng,F,29,2.76,8,MPhil Statistics, Ashanti ,No,13000
+2056,Kojo Ofori,female,23,3.55,25,MPhil Statistics, central ,no,6750
+1514,Abena Mensah,Female,27,2.35,30,MSc Economics,Upper West,No,13000
+1313,Michael Asare,F,29,,12,MBA,Eastern,Yes,5000
+1441,Adwoa Agyeman,M,24,3.74,31,MBA,ashanti,YES,2000
+1622,Kojo Lee,female,20,1.75,15,MBA,Volta,no,16000
+1161,Grace Owusu,male,32,1.87,4,MSc Economics,upper east,No,2500
+1826,Ama Tetteh,Female,29,1.19,5,MBA,upper west,Yes,6500
+1377,Yaw Addo,Female,18,1.49,3,MPhil Statistics,Central,No,5500
+1206,Kojo Ofori,Male,twenty-two,1.43,30,MBA,Central,YES,13750
+1917,Kwame Sarpong,Female,34,3.58,25,MBA,ashanti,Yes,9500
+1289,Grace Boateng,female,19,3.44,9,MSc Data Science,central,no,4250
+1057,Joseph Lee,F,23,1.61,6,MSc Economics,volta,No,7000
+1685,Daniel Addo,male,18,3.38,15,MSc Data Science, Eastern ,No,4500
+1385,Yaw Agyeman,male,26,2.81,19,MBA,upper west,Yes,12000
+1501,Grace Amankwah,female,120,2.0,14,MBA,upper east,no,13250
+1953,Adwoa Boateng,female,24,1.81,25,MSc Economics,Eastern,Yes,12250
+1871,Yaw Brown,Female,18,1.01,15,MSc Economics,Greater Accra,No,13000
+1232,Fatima Lee,F,22,3.37,35,MPhil Statistics,greater accra,no,3500
+2285,Abena Sarpong,female,32,3.92,13,MBA,central,Yes,12000
+1426,Adwoa Tetteh,male,18,2.99,27,MSc Economics,northern,no,6000
+2228,Irene Lee,M,20,2.44,5,MSc Data Science,Greater Accra,YES,?
+1742,Michael Addo,female,24,1.57,32,MPhil Statistics, Northern ,YES,4000
+1311,Michael Sarpong,M,28,3.34,23,MSc Economics,Upper West,No,11250
+1590,Grace Lee,F,23,2.45,27,MBA,Ashanti,No,11250
+1238,Isaac Amankwah,Female,20,,12,MSc Economics,ashanti,Yes,8250
+1237,Kwame Sarpong,F,33,3.77,33,MBA,Central,No,16000
+1427,Fatima Boateng,male,22,1.19,36,MBA,Upper West,No,9000
+1983,Grace Boateng,M,32,2.37,32,MSc Data Science,Central,no,10250
+2366,Akosua Agyeman,F,28,1.15,3,MBA,upper east,Yes,3750
+1582,Adwoa Asare,female,120,3.2,30,MSc Economics,Volta,no,3500
+2144,Kwame Nkrumah,Female,33,3.21,20,MSc Data Science, eastern ,Yes,13500
+1762,Emmanuel Ofori,F,120,3.5,39,MPhil Statistics,western,Yes,11250
+1176,Kojo Agyeman,Female,17,1.3,26,MSc Data Science,greater accra,YES,8750
+2333,Samuel Sarpong,male,26,1.94,2,MSc Economics,upper west,no,6750
+2043,Yaw Nkrumah,F,33,3.26,38,MPhil Statistics,Central,YES,15500
+1997,Abena Mensah,F,35,1.89,27,MSc Data Science,western,no,17500
+2482,Daniel Agyeman,M,30,1.83,29,MSc Data Science,ashanti,YES,9750
+1457,Fatima Mensah,female,32,2.66,24,MPhil Statistics,Central,No,10500
+2337,Grace Asare,female,26,,14,MSc Data Science,northern,No,5000
+2336,Kojo Ofori,male,18,1.5,27,MSc Economics,volta,Yes,3250
+1838,Fatima Doe,female,34,3.51,31,MSc Data Science,ashanti,no,12000
+2477,Grace Addo,M,24,2.51,26,MSc Data Science,Upper West,YES,8000
+1318,Kofi Boateng,female,28,3.12,38,MPhil Statistics,Northern,YES,16250
+2337,Grace Asare,female,26,,14,MSc Data Science,northern,No,5000
+1999,Kwame Tetteh,male,twenty-two,2.6,38,MBA,greater accra,YES,7250
+1672,Joseph Addo,male,23,2.14,16,MSc Economics,northern,YES,2000
+1387,Fatima Sarpong,Male,29,1.11,5,MPhil Statistics,ashanti,YES,9000
+1153,Samuel Sarpong,female,21,2.8,15,MSc Economics,Volta,No,7250
+1559,Irene Lee,male,19,2.77,8,MSc Data Science,Volta,YES,8500
+2434,Michael Ofori,Male,31,2.27,34,MBA,volta,No,3000
+2393,Grace Ofori,female,18,2.84,7,MPhil Statistics,Upper East,YES,9750
+1686,Kwame Tetteh,Male,20,1.89,22,MPhil Statistics,Eastern,YES,14000
+2322,Ama Amankwah,F,22,3.0,27,MPhil Statistics, Volta ,No,3750
+2484,Fatima Doe,M,19,2.92,2,MSc Data Science,Upper West,YES,5000
+2391,Abena Tetteh,male,25,3.49,14,MSc Data Science,eastern,no,4250
+1753,Daniel Ofori,Male,25,2.5,22,MBA,Upper East,no,16500
+2398,Efua Ofori,female,18,3.61,19,MSc Economics,volta,Yes,7750
+2379,Kojo Lee,Female,21,2.04,6,MSc Data Science, upper east ,No,13500
+1575,Fatima Mensah,Male,32,2.17,20,MSc Data Science,Northern,No,13500
+2330,Grace Ofori,Male,35,3.67,36,MSc Economics,greater accra,no,?
+1265,Grace Addo,female,25,3.07,24,MSc Data Science, upper east ,No,4250
+1292,Grace Boateng,Male,19,3.61,13,MSc Economics,Greater Accra,Yes,2000
+2375,Joseph Sarpong,Male,19,3.99,9,MSc Economics,greater accra,no,6000
+1600,Selina Lee,F,27,1.99,4,MBA,Volta,Yes,6750
+2151,Akosua Mensah,Female,31,1.13,25,MSc Economics,Volta,YES,17250
+1155,Grace Tetteh,male,18,1.94,19,MPhil Statistics,eastern,no,12500
+2038,Rashid Amankwah,Female,27,2.59,24,MBA,Central,no,11000
+1023,Daniel Ofori,male,17,3.94,31,MSc Data Science,ashanti,YES,15000
+2254,Abena Boateng,M,19,1.51,12,MSc Data Science,eastern,Yes,3250
+2440,Samuel Agyeman,F,23,1.79,4,MPhil Statistics, northern ,YES,2000
+2135,Efua Addo,male,27,3.93,6,MSc Data Science,Western,no,4750
+2212,Samuel Tetteh,M,25,1.13,1,MSc Economics,northern,No,?
+2067,Isaac Boateng,M,29,2.42,26,MBA,upper east,No,5250
+2430,Selina Lee,female,31,,32,MPhil Statistics,northern,Yes,5500
+1824,Abena Doe,F,22,3.01,12,MSc Data Science,Upper West,YES,4500
+1259,Michael Amankwah,Female,19,3.33,8,MBA,Central,YES,9750
+1228,Adwoa Tetteh,F,22,2.06,4,MPhil Statistics, central ,no,8000
+1317,Daniel Ofori,Female,twenty-two,2.3,30,MSc Economics, Upper East ,Yes,3250
+1962,Akosua Sarpong,female,18,2.99,26,MSc Economics,eastern,Yes,8000
+1108,Kwame Amankwah,male,27,2.31,25,MSc Data Science,greater accra,No,14750
+2405,Daniel Boateng,male,25,3.63,ten,MSc Economics,greater accra,Yes,14250
+2175,Yaw Owusu,Female,33,2.6,3,MBA,Northern,no,7500
+1428,Grace Sarpong,male,20,3.05,12,MSc Data Science,northern,no,6500
+1086,Efua Owusu,female,26,1.11,40,MSc Economics,upper east,YES,6250
+2223,Samuel Boateng,female,26,2.59,20,MBA,upper west,No,2250
+2363,Kwame Amankwah,Male,21,3.72,3,MPhil Statistics, volta ,YES,4250
+2060,Adwoa Agyeman,Male,21,2.71,34,MPhil Statistics,central,No,2500
+1593,Ama Lee,Male,24,2.79,4,MSc Economics,northern,No,11250
+1611,Fatima Agyeman,M,33,3.4,26,MPhil Statistics, Greater Accra ,no,14500
+1170,Adwoa Asare,Male,31,2.9,3,MSc Economics,volta,No,13750
+1525,Fatima Owusu,Male,21,2.45,31,MPhil Statistics,Central,YES,2250
+1031,Fatima Amankwah,female,24,2.55,16,MPhil Statistics,volta,Yes,8500
+1011,Kojo Ofori,male,17,3.0,6,MSc Data Science,greater accra,no,6500
+2304,Ama Sarpong,M,25,3.44,31,MPhil Statistics,Northern,No,2000
+1439,Daniel Amankwah,Female,24,1.57,ten,MPhil Statistics,northern,Yes,4500
+1343,Samuel Sarpong,Male,35,3.7,4,MSc Data Science,Northern,no,7250
+1711,Michael Mensah,Female,19,3.65,ten,MSc Data Science,central,no,15000
+2123,Emmanuel Lee,Female,21,1.84,16,MBA,Greater Accra,YES,17500
+1459,Michael Nkrumah,Male,27,2.78,33,MSc Data Science,upper west,Yes,17750
+2260,Isaac Ofori,female,27,3.68,13,MSc Data Science,eastern,No,9750
+1670,Grace Ofori,Male,18,,17,MSc Data Science,Ashanti,Yes,2250
+2141,Michael Asare,female,120,2.3,38,MSc Data Science,northern,Yes,9250
+1126,Efua Sarpong,male,22,1.2,16,MPhil Statistics,Upper East,no,5500
+1258,Fatima Mensah,F,19,3.48,40,MSc Economics,eastern,Yes,7500
+2357,Fatima Brown,female,33,2.47,24,MSc Data Science,Upper West,No,10500
+1862,Kofi Doe,F,19,3.88,7,MSc Data Science,Eastern,YES,18000
+1314,Akosua Tetteh,Male,32,3.41,12,MPhil Statistics,western,YES,16250
+1906,Fatima Addo,Male,23,2.36,20,MBA,Volta,no,14500
+2073,Samuel Sarpong,male,24,3.78,28,MPhil Statistics,northern,no,12000
+1005,Grace Lee,female,18,2.12,36,MBA,Eastern,no,16500
+2353,Daniel Ofori,male,21,3.96,4,MSc Data Science,upper west,YES,11000
+1199,Isaac Sarpong,Male,27,1.24,15,MSc Data Science, Volta ,Yes,14250
+1629,Ama Brown,Female,17,1.87,2,MBA,volta,no,12500
+1410,Rashid Brown,Male,24,3.26,3,MPhil Statistics,central,YES,4750
+2271,Joseph Ofori,F,19,3.04,10,MBA,ashanti,No,3250
+1717,Isaac Sarpong,female,22,2.5,ten,MSc Economics,upper east,No,2000
+1864,Abena Boateng,female,25,3.79,2,MBA,Northern,Yes,13000
+1175,Yaw Sarpong,Female,21,2.72,33,MSc Data Science,Volta,Yes,12250
+2292,Abena Addo,F,22,3.59,ten,MBA,Western,No,15000
+2095,Isaac Nkrumah,female,19,3.82,32,MSc Data Science,Western,no,5750
+1840,Ama Ofori,male,23,2.15,21,MSc Economics,volta,YES,2250
+1470,Irene Addo,female,23,2.75,27,MSc Economics,eastern,No,17250
+1203,Irene Mensah,Male,21,2.52,2,MPhil Statistics, Upper West ,YES,2500
+1987,Joseph Asare,F,twenty-two,4.8,37,MBA,upper west,Yes,16000
+1596,Rashid Boateng,M,20,2.11,12,MPhil Statistics,Greater Accra,no,11250
+1632,Kojo Owusu,male,34,2.98,13,MBA,Northern,YES,6250
+1178,Emmanuel Amankwah,F,20,1.9,37,MSc Economics,volta,YES,14250
+1276,Joseph Brown,male,18,2.75,21,MSc Economics,ashanti,no,11000
+1922,Michael Asare,F,35,2.17,10,MBA,central,YES,9000
+1413,Yaw Asare,F,29,2.83,13,MSc Economics, Western ,No,15250
+1014,Fatima Sarpong,female,26,1.18,33,MPhil Statistics,Greater Accra,No,2500
+1484,Grace Boateng,Female,26,1.11,18,MSc Economics,central,no,17000
+1092,Emmanuel Nkrumah,Female,24,2.5,26,MSc Data Science,eastern,YES,11250
+2468,Michael Brown,F,30,3.39,20,MBA,Western,No,2250
+1476,Akosua Owusu,male,29,2.42,17,MSc Data Science,greater accra,Yes,12500
+2360,Akosua Mensah,M,21,3.73,26,MSc Economics, Central ,Yes,12750
+1539,Fatima Owusu,F,18,,9,MSc Economics, Western ,Yes,9000
+1616,Irene Sarpong,F,26,3.63,ten,MSc Data Science,Northern,YES,7750
+2362,Daniel Nkrumah,M,26,1.94,0,MSc Economics,Northern,No,4000
+1118,Yaw Boateng,Female,34,1.13,0,MSc Economics,ashanti,No,10250
+1537,Joseph Doe,Male,33,3.94,13,MSc Data Science,Northern,Yes,7000
+2136,Fatima Asare,M,24,1.99,25,MSc Economics,volta,No,8500
+2137,Fatima Asare,F,19,1.73,37,MBA, upper west ,YES,11750
+1642,Samuel Nkrumah,male,22,1.07,15,MSc Data Science,Northern,No,8250
+1603,Akosua Mensah,Female,34,2.6,28,MPhil Statistics,central,No,14000
+1102,Isaac Lee,F,33,,32,MSc Economics,Volta,no,12250
+2199,Kofi Nkrumah,female,33,2.01,6,MSc Economics,Northern,Yes,18000
+2059,Selina Brown,female,27,3.65,8,MBA,Western,YES,?
+1164,Emmanuel Addo,Female,35,2.94,24,MSc Data Science,Western,YES,8750
+1112,Isaac Doe,Male,29,1.07,36,MSc Economics,ashanti,Yes,16000
+1345,Ama Agyeman,F,25,3.22,28,MSc Data Science,Greater Accra,No,3750
+2200,Kofi Lee,female,35,2.81,40,MSc Economics,greater accra,Yes,6500
+2439,Michael Lee,F,24,,8,MBA,western,no,8250
+1483,Irene Mensah,M,33,,33,MSc Economics,ashanti,No,15250
+2342,Kwame Ofori,Female,26,2.35,21,MSc Economics,ashanti,YES,17000
+2126,Kofi Boateng,F,32,1.2,16,MSc Economics,western,No,5250
+1131,Ama Boateng,Female,17,3.5,37,MSc Data Science,Upper West,no,3750
+2350,Akosua Mensah,F,26,3.59,31,MSc Data Science,western,no,6250
+2310,Yaw Brown,female,27,1.22,34,MPhil Statistics,northern,No,17250
+1339,Selina Boateng,Female,25,2.49,34,MSc Economics,Western,No,13750
+2278,Daniel Asare,Female,24,2.59,36,MSc Data Science,Volta,no,5750
+2461,Fatima Agyeman,Female,30,2.35,11,MSc Data Science,ashanti,No,4000
+1073,Isaac Ofori,Female,32,2.78,37,MSc Data Science,Greater Accra,Yes,3250
+1515,Kojo Lee,F,22,2.96,5,MSc Data Science,eastern,YES,16000
+1985,Adwoa Lee,F,17,1.4,12,MSc Economics,Upper West,no,8000
+1516,Akosua Boateng,M,17,2.69,8,MBA,upper west,Yes,7250
+2378,Selina Amankwah,Male,120,1.66,5,MSc Economics,central,Yes,3250
+1379,Emmanuel Lee,Female,20,3.68,17,MBA,Western,No,6750
+1013,Ama Amankwah,M,29,1.39,29,MBA,upper east,No,7750
+1448,Rashid Doe,female,21,2.17,22,MPhil Statistics,Ashanti,YES,14250
+2002,Kwame Owusu,female,26,2.24,29,MSc Economics,Northern,no,2750
+1209,Grace Brown,male,26,1.28,0,MSc Economics,Upper East,Yes,15250
+1304,Akosua Lee,female,28,3.14,20,MSc Economics,Greater Accra,No,8500
+1577,Yaw Sarpong,F,twenty-two,3.13,39,MSc Economics,Volta,YES,12500
+1621,Adwoa Owusu,F,30,3.05,2,MSc Data Science,upper east,YES,5750
+2019,Ama Owusu,male,33,3.09,25,MPhil Statistics, Eastern ,YES,4750
+2250,Fatima Lee,female,26,2.85,25,MSc Data Science,upper east,No,10750
+1566,Yaw Mensah,female,35,1.94,26,MSc Economics,Upper West,No,13000
+2392,Selina Boateng,male,32,2.46,1,MSc Economics,central,YES,8750
+1694,Michael Amankwah,Female,twenty-two,2.95,9,MPhil Statistics,western,YES,?
+2231,Isaac Nkrumah,Female,19,2.86,6,MBA,western,No,8000
+1955,Yaw Owusu,male,32,3.41,3,MSc Economics,Greater Accra,Yes,6250
+1645,Ama Doe,M,25,2.6,22,MBA,Upper West,YES,15500
+1883,Daniel Asare,female,31,3.62,5,MBA,ashanti,no,15000
+1341,Kojo Ofori,F,31,3.51,34,MSc Economics,upper east,no,?
+1932,Joseph Tetteh,Male,32,1.05,21,MSc Economics,western,no,3500
+1347,Irene Brown,male,22,1.67,33,MSc Data Science,ashanti,no,17250
+2449,Adwoa Agyeman,male,34,3.26,35,MPhil Statistics,Upper West,No,15500
+2334,Adwoa Addo,female,29,3.56,27,MSc Data Science,upper west,no,16750
+1305,Adwoa Nkrumah,M,26,1.03,11,MPhil Statistics,greater accra,No,15250
+1037,Irene Nkrumah,female,29,1.92,19,MBA,volta,No,10750
+1812,Rashid Agyeman,Female,25,1.43,2,MPhil Statistics,Central,YES,4750
+1043,Kwame Addo,Female,26,,40,MSc Economics,Greater Accra,No,13750
+2148,Kojo Brown,female,17,1.77,24,MBA,greater accra,no,4000
+1395,Ama Doe,Male,23,,28,MSc Data Science,upper east,no,3500
+1879,Kwame Ofori,Male,23,3.11,8,MBA,Greater Accra,No,6500
+2115,Kojo Boateng,M,29,2.83,26,MPhil Statistics,greater accra,YES,14250
+1926,Efua Ofori,male,22,1.33,38,MBA, upper west ,YES,3500
+2318,Abena Lee,M,34,3.37,20,MSc Economics,Upper West,no,5750
+1734,Kojo Agyeman,male,21,3.39,0,MSc Economics,Upper East,YES,9000
+1460,Adwoa Brown,Female,17,2.91,36,MBA, upper west ,YES,13500
+1708,Fatima Amankwah,Male,34,2.5,16,MBA,volta,No,9750
+1424,Isaac Boateng,female,19,2.22,17,MSc Data Science,Upper West,YES,13000
+2286,Michael Amankwah,M,21,1.29,40,MSc Data Science,Greater Accra,YES,16000
+1961,Daniel Addo,Male,23,1.98,26,MSc Data Science,eastern,Yes,3000
+1880,Abena Ofori,M,30,2.42,8,MSc Data Science,greater accra,no,2500
+1295,Ama Amankwah,M,26,3.59,18,MPhil Statistics,upper west,YES,6750
+1586,Grace Owusu,Male,25,2.84,21,MSc Economics,Western,Yes,13000
+1027,Michael Brown,Female,28,2.04,3,MBA,upper west,no,14750
+1681,Emmanuel Boateng,F,34,3.54,ten,MSc Data Science,central,No,10750
+2063,Kofi Amankwah,Male,30,,2,MSc Economics,Upper West,No,2250
+2290,Efua Owusu,F,28,3.05,27,MSc Economics,western,Yes,17250
+1136,Adwoa Lee,M,28,3.44,7,MSc Data Science,Western,Yes,2000
+1511,Rashid Doe,M,34,2.85,38,MPhil Statistics,Upper West,YES,11000
+1211,Kwame Addo,F,31,2.29,16,MPhil Statistics,eastern,No,15750
+2124,Rashid Brown,female,twenty-two,3.88,13,MSc Economics,Eastern,no,12750
+1354,Joseph Addo,Male,25,3.55,29,MSc Economics,Greater Accra,No,12000
+2213,Rashid Boateng,Male,34,2.64,18,MSc Economics,western,No,6000
+2269,Samuel Ofori,F,20,2.72,12,MSc Economics,Western,no,11000
+1853,Ama Brown,Female,18,,8,MPhil Statistics,Ashanti,Yes,7000
+1056,Fatima Tetteh,Male,34,3.52,5,MSc Economics,Central,Yes,4000
+1464,Irene Owusu,F,28,2.56,2,MSc Data Science,greater accra,No,11500
+2444,Joseph Lee,Female,34,2.56,7,MSc Economics,upper east,YES,13750
+2465,Kojo Doe,Female,21,3.11,34,MSc Economics,volta,Yes,12250
+1857,Efua Brown,male,28,3.58,28,MPhil Statistics,Upper West,Yes,17750
+1217,Daniel Mensah,Male,35,1.24,32,MSc Economics,Northern,No,8500
+2096,Grace Doe,Female,19,,32,MPhil Statistics,greater accra,no,7250
+1041,Kofi Tetteh,Female,35,1.58,12,MSc Economics,Western,no,?
+1885,Irene Asare,male,22,2.87,8,MSc Economics,upper west,Yes,3250
+1397,Samuel Owusu,M,34,1.48,7,MSc Economics,upper west,No,10250
+2476,Kwame Agyeman,Female,20,3.4,34,MSc Economics,Western,YES,10250
+2404,Irene Nkrumah,Male,29,1.19,11,MBA,greater accra,No,13500
+2261,Daniel Boateng,F,22,1.77,1,MSc Data Science,ashanti,Yes,7750
+2407,Joseph Sarpong,female,19,3.22,6,MBA,Northern,no,3250
+2015,Daniel Lee,M,27,2.89,20,MSc Data Science,central,YES,16000
+2419,Grace Agyeman,M,33,1.9,23,MSc Data Science,volta,No,3750
+1179,Akosua Ofori,female,24,2.52,8,MPhil Statistics,central,no,15250
+1177,Selina Ofori,Male,26,2.4,31,MBA,volta,Yes,3000
+1741,Samuel Doe,F,25,3.72,9,MBA,Upper East,YES,5500
+1508,Samuel Nkrumah,male,26,3.97,9,MPhil Statistics,western,no,8500
+1571,Samuel Amankwah,Male,21,2.36,6,MSc Data Science,upper west,no,14750
+1921,Kojo Addo,female,31,2.93,24,MPhil Statistics,Greater Accra,No,9750
+2343,Ama Agyeman,Female,28,2.65,9,MPhil Statistics,Ashanti,Yes,17000
+1301,Abena Asare,male,24,3.22,39,MSc Economics,Central,no,9750
+2446,Yaw Amankwah,F,26,1.65,6,MPhil Statistics,northern,Yes,7250
+2007,Kwame Owusu,female,21,1.99,23,MPhil Statistics, upper east ,No,6250
+1640,Abena Lee,Male,35,3.08,35,MSc Data Science,Central,No,3250
+1564,Adwoa Brown,M,27,2.37,2,MSc Data Science,Upper East,Yes,9000
+2273,Efua Asare,female,20,1.76,33,MSc Data Science,upper east,No,13000
+1079,Efua Addo,male,17,2.49,39,MPhil Statistics,Ashanti,Yes,3750
+1519,Kwame Addo,M,18,3.68,2,MSc Data Science,volta,Yes,16250
+2087,Joseph Boateng,male,17,2.68,29,MBA,volta,no,12750
+1727,Grace Amankwah,M,17,2.38,16,MSc Economics,central,YES,14750
+1229,Abena Owusu,male,29,1.66,35,MPhil Statistics,central,No,16750
+1819,Irene Owusu,M,34,1.68,31,MSc Economics, western ,Yes,12000
+2085,Abena Mensah,male,35,3.97,9,MSc Economics,Upper West,No,16000
+1989,Joseph Tetteh,F,29,2.29,24,MSc Data Science, Eastern ,Yes,15000
+1051,Fatima Addo,Female,28,,27,MPhil Statistics,Greater Accra,YES,11000
+1030,Emmanuel Agyeman,male,24,2.25,30,MSc Economics,upper east,No,3250
+1634,Yaw Nkrumah,male,19,1.45,ten,MBA,Central,Yes,9500
+1657,Selina Amankwah,F,28,1.03,27,MPhil Statistics,Upper East,no,3000
+1562,Adwoa Tetteh,Female,23,1.23,14,MSc Data Science, greater accra ,no,5250
+2356,Kojo Brown,male,34,1.53,34,MBA,ashanti,No,5250
+1841,Kojo Tetteh,male,35,1.43,13,MSc Data Science,eastern,No,7250
+1226,Grace Sarpong,Male,24,1.51,17,MSc Data Science,Ashanti,YES,13250
+1923,Adwoa Asare,female,18,3.5,27,MSc Economics,volta,Yes,2500
+1204,Daniel Addo,F,21,1.08,21,MPhil Statistics,western,no,12000
+1445,Kwame Tetteh,male,26,3.37,22,MPhil Statistics,western,no,2750
+1372,Efua Agyeman,Female,27,2.75,20,MBA,Northern,YES,11250
+1033,Isaac Tetteh,Female,35,1.01,33,MSc Economics,Central,YES,8500
+2138,Kojo Boateng,male,twenty-two,3.4,37,MBA,central,Yes,11250
+2225,Irene Agyeman,M,twenty-two,2.16,19,MBA,eastern,Yes,16000
+1966,Joseph Agyeman,F,24,1.76,12,MSc Data Science, Northern ,YES,9250
+2078,Yaw Nkrumah,Male,23,2.86,28,MSc Economics,western,YES,6500
+1894,Ama Mensah,Male,21,3.75,10,MSc Economics,western,No,9500
+1669,Efua Nkrumah,Male,30,2.33,38,MSc Economics,northern,no,9750
+2224,Ama Brown,Male,26,1.94,ten,MPhil Statistics,western,No,9250
+2248,Emmanuel Agyeman,Female,34,1.27,35,MSc Economics,eastern,no,11750
+1959,Samuel Mensah,Male,17,3.86,38,MSc Data Science,central,Yes,17750
+1335,Adwoa Amankwah,Male,33,3.95,29,MSc Data Science,Upper East,no,2500
+1383,Ama Ofori,M,29,1.88,38,MSc Data Science,greater accra,no,12750
+2102,Kofi Addo,male,35,3.4,31,MSc Data Science,central,YES,13250
+2181,Kwame Ofori,M,25,1.11,30,MSc Economics,Upper West,No,3500
+1373,Ama Asare,Male,30,2.44,32,MSc Economics,Greater Accra,no,17500
+1152,Ama Asare,Female,20,1.55,7,MBA,Central,Yes,18000
+1960,Adwoa Amankwah,Male,31,2.59,35,MBA,northern,Yes,8250
+1223,Kofi Tetteh,female,24,3.88,8,MSc Data Science,upper west,YES,7250
+1703,Michael Amankwah,Male,29,1.96,5,MSc Economics,eastern,no,3000
+2205,Michael Doe,M,18,2.12,20,MPhil Statistics,upper east,No,14750
+2314,Fatima Asare,Male,29,1.96,2,MBA,Greater Accra,no,17500
+1855,Akosua Ofori,Female,23,2.84,12,MSc Data Science, Upper East ,YES,8250
+1834,Rashid Lee,M,25,1.01,4,MBA,northern,no,16000
+1114,Daniel Doe,Male,23,3.27,5,MSc Data Science,Central,YES,?
+1049,Kojo Sarpong,Male,27,1.67,18,MPhil Statistics,Upper East,Yes,15000
+1290,Isaac Mensah,F,25,2.61,33,MSc Economics,central,no,4250
+2022,Daniel Mensah,Male,26,2.08,12,MBA,upper west,YES,12750
+1207,Irene Brown,male,23,1.46,11,MBA,Ashanti,YES,13750
+1974,Emmanuel Brown,Male,21,1.21,35,MBA,northern,YES,11000
+1633,Fatima Tetteh,Male,21,2.09,25,MSc Economics,volta,no,6750
+1776,Kojo Amankwah,F,34,1.53,17,MSc Data Science,Northern,Yes,8500
+1890,Daniel Tetteh,female,25,1.1,6,MSc Data Science,central,No,10000
+1900,Irene Sarpong,F,20,1.99,23,MSc Economics,central,No,17500
+1833,Grace Boateng,female,20,3.73,17,MSc Data Science,Upper East,no,7250
+1684,Kwame Nkrumah,Female,35,1.5,6,MSc Economics,volta,no,5250
+2390,Michael Lee,female,19,2.55,24,MSc Economics,Central,No,10500
+1618,Isaac Brown,female,32,3.1,37,MSc Economics,western,no,16250
+1686,Kwame Tetteh,Male,20,1.89,22,MPhil Statistics,Eastern,YES,14000
+1870,Efua Owusu,male,35,3.73,33,MPhil Statistics,Volta,No,14500
+1674,Samuel Owusu,female,24,3.13,34,MPhil Statistics,volta,no,16500
+1750,Yaw Mensah,female,30,2.46,23,MBA,central,YES,8000
+2003,Rashid Boateng,male,28,3.8,4,MBA,Ashanti,Yes,13000
+2382,Adwoa Doe,Female,30,3.58,30,MBA, Upper West ,no,16500
+1409,Isaac Agyeman,M,27,1.03,9,MSc Economics, upper west ,Yes,13750
+1630,Yaw Addo,Female,21,3.74,13,MSc Data Science,Northern,Yes,12500
+2253,Isaac Tetteh,male,32,1.32,12,MPhil Statistics,Ashanti,No,15000
+1647,Kojo Owusu,female,31,3.93,13,MSc Data Science,upper east,Yes,4000
+1140,Michael Boateng,Male,17,2.16,12,MPhil Statistics,eastern,Yes,11250
+2134,Kwame Lee,M,29,1.92,5,MBA,Upper West,No,4000
+1914,Akosua Sarpong,male,21,2.19,7,MBA,Western,No,4250
+1166,Daniel Nkrumah,male,29,3.72,39,MSc Economics, Northern ,no,5250
+2109,Abena Doe,Male,19,3.46,28,MSc Economics, Volta ,YES,7000
+1813,Samuel Asare,M,24,1.96,18,MSc Data Science,upper west,No,6000
+1215,Abena Agyeman,F,twenty-two,1.81,25,MPhil Statistics,Eastern,No,11500
+1132,Isaac Owusu,Male,19,1.15,33,MBA, eastern ,no,14000
+1315,Akosua Tetteh,M,22,,14,MSc Economics,Volta,No,2250
+1139,Daniel Boateng,F,twenty-two,3.87,7,MBA,Ashanti,YES,16250
+2210,Kofi Owusu,female,33,2.37,33,MPhil Statistics,Eastern,No,8250
+1417,Isaac Agyeman,Male,35,1.99,27,MPhil Statistics,upper east,YES,9500
+2030,Michael Boateng,M,23,2.06,6,MPhil Statistics,volta,Yes,6000
+1039,Isaac Tetteh,F,30,3.01,4,MSc Data Science,Northern,No,13250
+1054,Daniel Agyeman,female,30,2.82,24,MSc Economics,Northern,No,5500
+1707,Rashid Lee,M,34,3.32,7,MSc Economics,northern,no,5250
+1137,Grace Lee,F,20,2.73,10,MSc Data Science,northern,no,5500
+2395,Irene Asare,Male,21,2.82,32,MBA,greater accra,no,11750
+1794,Michael Tetteh,Female,34,3.27,36,MSc Economics,upper west,YES,12750
+1036,Adwoa Amankwah,Male,24,3.28,4,MBA,western,no,6000
+1026,Ama Amankwah,male,22,1.13,15,MSc Economics,volta,no,16250
+1658,Yaw Asare,M,29,1.96,ten,MPhil Statistics,eastern,no,17250
+1450,Daniel Owusu,F,21,2.55,15,MSc Economics,Ashanti,YES,12750
+1579,Efua Mensah,Female,18,1.86,11,MSc Economics,northern,No,?
+2077,Abena Agyeman,M,25,3.07,8,MSc Data Science,Volta,No,9250
+1303,Kojo Amankwah,F,23,1.16,ten,MBA,greater accra,no,15750
+2433,Emmanuel Sarpong,M,18,1.64,ten,MPhil Statistics,Eastern,no,9500
+2486,Efua Lee,Female,21,3.04,19,MSc Economics,ashanti,Yes,11000
+2174,Abena Boateng,F,22,2.56,31,MSc Economics,Northern,No,6500
+2053,Kojo Boateng,M,22,3.51,0,MPhil Statistics,Central,YES,5000
+2203,Ama Ofori,M,120,3.65,16,MSc Data Science,western,YES,15000
+1778,Ama Owusu,female,19,1.32,36,MBA,western,YES,18000
+2229,Ama Doe,Male,34,2.4,17,MSc Economics,Volta,Yes,5250
+1245,Isaac Amankwah,Female,29,2.7,ten,MSc Data Science,Eastern,YES,14000
+1104,Abena Agyeman,F,20,3.59,40,MSc Economics,upper west,no,9500
+1277,Grace Ofori,Male,26,3.16,16,MSc Economics,upper east,YES,15000
+1394,Fatima Boateng,M,31,3.3,3,MSc Data Science,Upper East,no,9000
+1111,Ama Mensah,male,32,2.64,31,MBA,upper west,No,15500
+1589,Michael Owusu,F,34,2.67,35,MPhil Statistics,Ashanti,Yes,11000
+1160,Emmanuel Tetteh,F,22,1.43,4,MSc Economics,Northern,no,12750
+1971,Kwame Agyeman,F,22,2.29,18,MPhil Statistics, Volta ,No,4250
+1748,Kofi Lee,M,23,1.48,2,MSc Economics,Central,No,13750
+2188,Abena Tetteh,M,28,,17,MBA,eastern,YES,13750
+2369,Emmanuel Nkrumah,Female,17,3.36,2,MSc Economics,Central,Yes,17250
+1661,Efua Addo,M,23,3.79,34,MPhil Statistics,eastern,no,3000
+2202,Michael Brown,M,24,2.66,10,MSc Data Science,Upper East,No,2500
+1340,Grace Tetteh,M,20,3.74,2,MBA,Upper East,No,7250
+1330,Samuel Addo,Male,35,1.26,19,MPhil Statistics,central,no,15250
+1134,Yaw Sarpong,Male,30,2.67,25,MSc Data Science, northern ,no,17000
+1638,Ama Nkrumah,F,29,3.97,28,MSc Data Science,central,No,7000
+1168,Grace Boateng,Male,20,2.65,19,MBA,Greater Accra,YES,16750
+2408,Rashid Agyeman,female,28,3.77,11,MBA,Eastern,no,16000
+1928,Ama Asare,M,25,3.45,15,MPhil Statistics,Western,Yes,4000
+1861,Grace Asare,F,27,1.01,8,MSc Data Science,Western,No,3000
+2021,Kwame Mensah,F,35,2.3,35,MPhil Statistics,Greater Accra,Yes,6750
+2493,Kwame Owusu,female,29,1.69,30,MBA,volta,No,6000
+1025,Emmanuel Ofori,Male,23,1.41,12,MSc Economics,Western,No,3500
+1807,Efua Owusu,female,35,,20,MPhil Statistics,Upper East,Yes,15000
+2424,Adwoa Asare,M,22,1.71,1,MPhil Statistics,Northern,No,2000
+1444,Yaw Addo,F,twenty-two,1.31,5,MSc Data Science,eastern,no,11000
+1151,Efua Owusu,Female,28,2.51,27,MSc Economics,volta,Yes,12250
+2319,Kwame Addo,Male,25,2.01,24,MPhil Statistics,Ashanti,no,4250
+1095,Kofi Doe,female,32,1.84,28,MSc Economics,ashanti,no,2500
+2364,Rashid Tetteh,male,18,,23,MSc Economics,upper east,no,11250
+1218,Irene Nkrumah,M,31,2.52,38,MPhil Statistics,Western,YES,2750
+1382,Abena Asare,male,27,1.31,5,MSc Economics,northern,YES,2750
+2048,Fatima Mensah,female,28,2.84,5,MSc Data Science,western,no,14750
+1781,Selina Addo,Male,33,3.26,40,MSc Data Science,Volta,No,13250
+1901,Selina Agyeman,M,21,,25,MPhil Statistics,Western,no,2000
+2447,Abena Mensah,male,23,2.17,8,MPhil Statistics,Central,No,10500
+1865,Abena Owusu,Female,32,2.24,11,MSc Data Science,upper west,no,8750
+1293,Yaw Mensah,female,30,1.35,39,MPhil Statistics,Northern,Yes,13000
+1713,Kojo Asare,female,34,1.49,3,MSc Economics,northern,No,17750
+1101,Emmanuel Ofori,F,22,4.0,1,MBA,greater accra,Yes,4250
+2050,Kojo Agyeman,M,35,3.34,15,MSc Data Science,upper west,no,5250
+1784,Irene Nkrumah,Female,29,,ten,MSc Data Science,Ashanti,no,17000
+2216,Kojo Mensah,female,24,2.79,6,MPhil Statistics,Volta,No,8000
+1490,Michael Doe,Male,24,2.09,39,MBA,central,Yes,10250
+1701,Kofi Agyeman,M,25,2.18,ten,MSc Economics,western,Yes,7500
+2164,Isaac Owusu,female,20,2.6,27,MPhil Statistics,northern,No,2500
+1751,Abena Nkrumah,Male,20,1.93,17,MSc Economics,Greater Accra,YES,10750
+1963,Kwame Ofori,Female,19,3.55,13,MBA,Upper West,No,6500
+2013,Joseph Amankwah,female,24,2.96,5,MBA,central,Yes,17000
+1243,Kofi Doe,Female,27,1.69,34,MBA,greater accra,no,9000
+1169,Kojo Tetteh,F,30,3.77,28,MBA,Greater Accra,YES,3750
+1074,Samuel Boateng,male,21,1.85,22,MSc Economics,volta,YES,12500
+1560,Ama Owusu,M,29,3.35,40,MSc Economics,Volta,YES,14000
+2329,Michael Amankwah,Male,30,2.74,1,MSc Economics, upper west ,no,?
+1775,Adwoa Ofori,F,18,2.15,36,MSc Economics,Western,Yes,13750
+2280,Efua Amankwah,male,20,2.0,14,MSc Economics,northern,YES,7250
+1119,Emmanuel Agyeman,Female,24,2.85,5,MSc Economics,Upper East,Yes,10750
+2139,Adwoa Owusu,Male,31,2.34,24,MBA,upper west,No,9500
+1521,Rashid Agyeman,M,29,2.62,0,MBA, volta ,Yes,15000
+1714,Efua Lee,M,22,1.2,40,MSc Economics,central,no,10750
+1993,Akosua Mensah,Female,twenty-two,1.24,18,MSc Data Science,Western,No,13500
+1006,Emmanuel Agyeman,female,20,,14,MSc Data Science,upper east,No,7000
+1255,Emmanuel Ofori,female,24,,9,MSc Data Science,central,Yes,14750
+2094,Kojo Agyeman,F,23,3.5,35,MPhil Statistics,Greater Accra,YES,6250
+2039,Samuel Doe,F,35,2.58,20,MPhil Statistics,Northern,No,17000
+1384,Irene Mensah,M,30,1.77,3,MPhil Statistics,Western,No,13250
+2103,Abena Brown,Female,35,2.85,36,MBA,Northern,YES,2250
+1517,Grace Amankwah,Male,17,1.26,6,MPhil Statistics,Northern,no,10750
+1055,Isaac Addo,M,27,2.22,24,MPhil Statistics,upper east,Yes,5750
+1468,Michael Boateng,female,35,1.22,21,MSc Economics,Volta,Yes,13500
+1267,Kojo Mensah,male,20,1.28,12,MSc Data Science,upper east,YES,17000
+2034,Samuel Mensah,male,17,3.13,36,MBA,volta,YES,2000
+1584,Grace Sarpong,male,26,1.46,20,MSc Economics,Greater Accra,no,14500
+1767,Kwame Agyeman,F,23,3.26,16,MSc Data Science,upper east,No,8500
+1538,Isaac Mensah,M,18,2.24,25,MSc Data Science,upper east,no,2500
+2452,Grace Mensah,female,28,1.76,1,MSc Economics,greater accra,no,15750
+1060,Kwame Boateng,male,31,1.61,38,MSc Economics,northern,No,11500
+2186,Selina Ofori,female,31,1.25,23,MPhil Statistics,Northern,No,7750
+1167,Adwoa Sarpong,female,32,3.42,27,MSc Economics,Upper East,Yes,9500
+2275,Fatima Doe,F,26,1.29,7,MPhil Statistics,eastern,no,10250
+1816,Rashid Mensah,Female,22,2.32,30,MSc Data Science,Western,No,8000
+1332,Abena Lee,female,20,2.3,0,MPhil Statistics,Greater Accra,No,15750
+1248,Michael Tetteh,M,19,1.14,35,MSc Economics,Central,No,6000
+1374,Abena Brown,female,19,1.66,29,MBA,Volta,Yes,13750
+2214,Joseph Agyeman,male,26,1.89,34,MPhil Statistics,Volta,no,17750
+1500,Samuel Brown,F,29,3.33,10,MSc Economics,upper east,No,16500
+2217,Rashid Tetteh,Male,31,1.12,2,MSc Data Science,eastern,YES,13750
+2189,Samuel Lee,male,24,1.25,35,MSc Data Science,Western,YES,11250
+1637,Akosua Boateng,Female,24,,0,MPhil Statistics,western,no,7500
+1617,Emmanuel Brown,female,31,2.99,2,MSc Data Science,upper west,No,10000
+2381,Daniel Boateng,F,32,2.53,38,MSc Data Science,Central,no,12000
+2183,Daniel Boateng,Male,33,2.34,10,MBA,ashanti,YES,?
+1567,Efua Addo,Male,34,3.71,35,MSc Economics,Western,no,5250
+1235,Emmanuel Asare,M,35,1.74,6,MPhil Statistics,greater accra,Yes,13500
+1627,Daniel Addo,Female,18,2.21,33,MSc Data Science,western,no,3500
+1431,Rashid Addo,M,34,3.58,37,MBA,Upper West,Yes,4000
+2011,Isaac Addo,Female,35,1.77,2,MSc Data Science,Upper West,YES,10750
+2374,Kofi Owusu,Male,26,3.4,4,MSc Economics,greater accra,YES,9500
+1192,Rashid Mensah,female,25,1.96,39,MSc Economics,Northern,Yes,13500
+2198,Samuel Asare,M,29,3.43,17,MBA,Upper West,No,2500
+2176,Isaac Sarpong,M,35,,28,MSc Data Science,Northern,no,7250
+1436,Abena Boateng,female,33,3.38,7,MSc Data Science,Volta,YES,10750
+1837,Irene Amankwah,female,33,3.89,6,MBA,Western,no,14750
+2265,Abena Ofori,F,24,3.72,20,MSc Economics,western,YES,16000
+2187,Abena Ofori,M,24,,16,MSc Economics,Northern,no,6500
+2017,Akosua Asare,male,22,4.8,33,MPhil Statistics,ashanti,No,13500
+1185,Ama Mensah,female,22,2.65,6,MBA,northern,No,14000
+1688,Selina Agyeman,Male,30,2.41,37,MPhil Statistics,Northern,YES,9500
+1639,Isaac Ofori,Male,twenty-two,2.02,20,MSc Data Science,Western,no,13250
+1570,Kwame Brown,Female,18,3.77,4,MBA,Upper East,no,6500
+1934,Efua Addo,F,34,1.53,18,MSc Economics,northern,no,2750
+2170,Akosua Amankwah,M,25,3.77,24,MPhil Statistics,western,YES,6750
+1534,Efua Tetteh,Female,25,2.92,16,MSc Data Science,Ashanti,no,6750
+2159,Kojo Asare,male,23,2.0,21,MSc Data Science,Ashanti,no,2000
+2409,Kojo Sarpong,Female,28,2.77,19,MSc Economics,ashanti,Yes,14750
+1743,Kojo Mensah,F,31,3.48,12,MBA,Greater Accra,No,10250
+1197,Kojo Sarpong,Female,18,3.21,35,MSc Economics,greater accra,Yes,6000
+2400,Michael Lee,F,24,3.38,28,MBA,greater accra,YES,16250
+1496,Emmanuel Mensah,Male,twenty-two,2.3,28,MBA,eastern,no,12000
+1592,Kofi Mensah,male,17,2.73,40,MSc Data Science,upper east,No,3750
+1937,Irene Ofori,M,35,3.2,33,MSc Economics,Upper East,No,14500
+2042,Fatima Nkrumah,female,twenty-two,2.29,19,MSc Data Science,central,Yes,17250
+1980,Fatima Ofori,female,32,1.52,33,MSc Data Science,upper west,no,15750
+1381,Emmanuel Agyeman,female,29,,37,MSc Data Science,Greater Accra,Yes,7250
+1028,Samuel Lee,M,28,3.53,7,MSc Data Science,western,YES,10500
+1396,Michael Ofori,male,28,3.61,26,MSc Economics,upper west,No,15000
+1321,Selina Brown,Male,18,3.78,20,MSc Data Science,northern,YES,8750
+1148,Isaac Tetteh,Male,17,1.38,17,MSc Economics, Central ,YES,16500
+1798,Samuel Mensah,female,30,2.38,16,MSc Data Science,western,No,16000
+1624,Rashid Sarpong,Male,28,2.22,17,MPhil Statistics,Ashanti,YES,10750
+1239,Adwoa Brown,M,22,2.19,40,MBA,volta,No,11250
+2010,Fatima Doe,male,33,2.65,29,MSc Economics, Upper West ,no,6500
+1911,Grace Sarpong,M,23,1.52,1,MSc Data Science,Northern,No,12250
+1896,Ama Sarpong,Female,27,3.31,36,MBA,volta,No,14750
+2345,Isaac Addo,M,29,1.57,37,MSc Data Science,Northern,YES,14000
+1107,Joseph Asare,male,17,1.43,24,MPhil Statistics,greater accra,No,17000
+1351,Efua Lee,Female,17,3.94,31,MSc Economics,volta,No,16500
+1651,Samuel Tetteh,F,18,3.19,8,MSc Data Science,Ashanti,no,12500
+1390,Rashid Doe,male,28,1.52,40,MSc Economics,central,No,14500
+2005,Kofi Mensah,Female,21,3.82,31,MPhil Statistics,upper west,no,13750
+2118,Joseph Mensah,Male,33,3.26,1,MPhil Statistics,Central,no,6500
+1555,Yaw Doe,M,21,3.85,19,MPhil Statistics,northern,no,11750
+2450,Selina Boateng,female,24,2.9,33,MSc Data Science,Ashanti,YES,17000
+1171,Irene Boateng,male,twenty-two,3.68,7,MBA,Northern,Yes,10500
+2495,Selina Mensah,F,twenty-two,2.42,40,MSc Data Science,northern,No,7500
+1307,Kojo Brown,male,33,3.42,38,MSc Economics,Western,Yes,3000
+1416,Adwoa Amankwah,M,120,2.37,24,MSc Economics,Eastern,no,6750
+2496,Selina Agyeman,male,35,3.84,ten,MPhil Statistics,Northern,no,2000
+2306,Rashid Brown,F,twenty-two,2.73,30,MBA,northern,Yes,14750
+1429,Selina Brown,female,29,1.79,23,MPhil Statistics,eastern,Yes,5750
+1187,Ama Ofori,male,33,1.75,12,MSc Data Science,volta,no,6000
+2006,Michael Doe,Male,32,2.38,38,MPhil Statistics,ashanti,no,13750
+1909,Michael Owusu,M,17,3.79,5,MSc Data Science,Western,no,8750
+1270,Emmanuel Mensah,F,33,1.96,40,MBA,Ashanti,No,4000
+1868,Adwoa Nkrumah,F,25,2.63,2,MBA,central,No,16250
+1631,Samuel Nkrumah,Female,22,3.88,10,MBA,western,No,10250
+1951,Akosua Amankwah,M,30,3.58,1,MSc Economics,ashanti,Yes,16000
+1163,Adwoa Agyeman,Female,35,3.03,25,MBA,western,no,16250
+1414,Grace Amankwah,Male,17,3.1,25,MSc Economics,ashanti,YES,6000
+2354,Daniel Lee,Male,24,3.83,23,MSc Data Science,Central,no,17750
+1096,Emmanuel Boateng,Female,32,1.17,2,MPhil Statistics,Central,no,15250
+1099,Akosua Lee,Female,25,1.16,8,MSc Economics,central,No,16500
+2031,Emmanuel Owusu,Female,35,2.49,17,MSc Data Science,Upper East,Yes,9250
+1877,Kofi Addo,female,29,3.52,39,MSc Data Science,volta,YES,16000
+1818,Kojo Amankwah,Male,26,2.18,ten,MPhil Statistics,Volta,no,3000
+1823,Joseph Mensah,F,32,1.51,25,MSc Data Science,Upper West,No,12000
+1208,Emmanuel Mensah,Male,20,1.31,15,MBA,Ashanti,No,7750
+1975,Kofi Ofori,M,30,2.13,13,MBA,Western,No,16750
+1687,Rashid Agyeman,female,25,2.96,2,MSc Economics,central,YES,4750
+1873,Rashid Boateng,Male,17,1.97,33,MPhil Statistics,volta,No,13750
+1246,Abena Addo,Female,21,2.03,ten,MSc Economics,greater accra,No,4500
+1230,Ama Mensah,F,18,3.54,3,MBA,volta,No,13000
+1907,Irene Mensah,male,28,3.16,22,MSc Data Science,upper east,no,12500
+1009,Kofi Mensah,F,26,2.69,8,MBA,Greater Accra,No,17250
+1897,Selina Asare,Female,33,3.0,3,MSc Economics,Upper East,No,12000
+2429,Irene Nkrumah,F,27,3.15,4,MSc Data Science,central,YES,13500
+2413,Rashid Asare,Female,23,3.79,3,MSc Economics,upper east,No,?
+2458,Akosua Amankwah,Female,30,1.98,ten,MPhil Statistics,Volta,YES,9250
+1866,Grace Ofori,F,21,1.56,23,MSc Data Science,upper east,YES,5250
+1415,Yaw Tetteh,Male,31,2.82,7,MBA,western,No,15750
+1792,Ama Tetteh,F,32,,3,MPhil Statistics,Volta,YES,11750
+2023,Efua Mensah,Male,28,3.69,13,MSc Data Science,central,YES,3000
+1190,Michael Brown,F,20,1.93,23,MPhil Statistics, western ,Yes,5750
+1261,Irene Tetteh,Female,33,3.05,ten,MSc Data Science,Ashanti,No,15250
+1145,Selina Agyeman,Male,21,1.63,11,MBA,Eastern,YES,15250
+1829,Samuel Owusu,Female,28,1.6,29,MSc Economics,greater accra,Yes,5250
+1699,Irene Lee,Male,17,1.54,31,MBA,Ashanti,Yes,10750
+1920,Fatima Lee,male,23,3.56,ten,MBA,Volta,no,17000
+2421,Emmanuel Asare,Male,24,1.99,6,MBA,Eastern,no,15500
+1938,Irene Amankwah,male,27,1.14,36,MBA,Volta,Yes,4750
+2036,Akosua Tetteh,Male,26,2.99,11,MSc Data Science,Eastern,No,17000
+2388,Joseph Brown,Male,31,1.28,10,MSc Economics,central,YES,17000
+1891,Irene Asare,female,30,,5,MSc Economics,Greater Accra,no,3000
+1595,Akosua Doe,Female,25,3.19,11,MPhil Statistics,Eastern,no,14250
+1532,Kofi Nkrumah,F,25,2.94,25,MBA,upper west,Yes,8250
+1895,Selina Owusu,female,22,2.46,29,MSc Economics,volta,YES,8250
+2494,Selina Doe,female,33,3.86,18,MSc Economics,Western,No,9000
+2152,Efua Sarpong,F,19,3.99,24,MPhil Statistics,central,no,8750
+1058,Efua Ofori,F,28,1.22,22,MSc Economics,volta,YES,13500
+2058,Joseph Doe,F,27,1.48,39,MSc Data Science,central,No,10000
+2262,Fatima Agyeman,male,24,2.78,32,MPhil Statistics,greater accra,no,2500
+1283,Michael Boateng,Male,27,3.37,14,MBA,upper east,YES,12750
+1935,Rashid Ofori,Male,28,1.78,30,MSc Economics,Upper West,No,5750
+1363,Kofi Sarpong,male,twenty-two,3.84,2,MSc Data Science, Central ,no,7500
+1244,Kwame Owusu,Female,24,1.66,6,MSc Economics,greater accra,No,9500
+1093,Fatima Addo,female,30,3.74,22,MBA,upper east,Yes,10000
+2235,Kwame Doe,F,24,1.82,28,MSc Economics,greater accra,no,3250
+1338,Adwoa Owusu,female,28,2.5,34,MBA,upper west,Yes,14000
+2014,Akosua Asare,female,25,1.08,9,MBA,eastern,YES,14750
+1948,Selina Addo,M,19,1.13,10,MSc Economics,Central,Yes,14000
+2110,Joseph Addo,female,35,3.66,40,MPhil Statistics,central,Yes,8000
+1191,Samuel Nkrumah,M,28,1.09,9,MPhil Statistics,Greater Accra,Yes,10250
+1040,Ama Nkrumah,male,21,1.67,34,MSc Economics,Volta,No,8000
+1976,Rashid Sarpong,Female,33,3.36,28,MSc Economics,northern,YES,7750
+1635,Isaac Sarpong,Male,35,1.98,11,MSc Data Science, Eastern ,No,14250
+1765,Yaw Agyeman,Female,32,1.73,16,MSc Data Science,central,no,8750
+1724,Irene Asare,male,35,1.99,31,MPhil Statistics,Western,no,13500
+2129,Selina Amankwah,M,twenty-two,3.56,20,MBA,Volta,YES,15500
+1064,Adwoa Addo,male,21,1.91,21,MSc Economics,Northern,YES,3250
+1234,Abena Sarpong,female,28,1.61,29,MPhil Statistics,Upper West,No,11000
+1677,Rashid Amankwah,M,30,3.61,6,MPhil Statistics,greater accra,no,2250
+1106,Ama Asare,male,35,2.04,31,MSc Data Science,Ashanti,no,12000
+1754,Irene Tetteh,Female,33,3.16,36,MBA,upper west,no,3000
+1903,Kwame Brown,F,21,3.18,ten,MSc Economics,Central,No,8000
+1254,Fatima Tetteh,Male,26,3.77,24,MSc Data Science,eastern,YES,17750
+1423,Isaac Amankwah,male,33,1.53,40,MSc Data Science,Greater Accra,Yes,14750
+1775,Adwoa Ofori,F,18,2.15,36,MSc Economics,Western,Yes,13750
+2233,Akosua Lee,male,34,3.73,ten,MBA,upper west,no,4750
+1859,Daniel Agyeman,F,twenty-two,1.62,2,MSc Data Science,Northern,YES,10500
+1925,Kofi Sarpong,M,twenty-two,2.76,8,MPhil Statistics,Upper East,No,10750
+1080,Irene Boateng,male,30,2.13,5,MSc Data Science,Eastern,No,10250
+1990,Grace Addo,Female,22,2.08,19,MSc Data Science,upper west,Yes,2000
+2107,Efua Sarpong,Female,120,1.18,30,MPhil Statistics,Upper East,No,4000
+1498,Adwoa Sarpong,female,26,1.98,31,MSc Economics,Eastern,no,2000
+2473,Daniel Sarpong,male,27,2.36,26,MPhil Statistics,Eastern,YES,11750
+1088,Kwame Tetteh,Female,33,1.53,2,MPhil Statistics,Northern,Yes,16250
+1065,Fatima Doe,female,23,2.64,18,MSc Data Science,western,no,11500
+2295,Irene Nkrumah,Female,17,2.51,1,MPhil Statistics,greater accra,Yes,15750
+1606,Isaac Tetteh,female,19,2.71,9,MPhil Statistics,western,YES,13250
+1275,Abena Addo,Male,19,1.78,18,MSc Data Science,greater accra,no,15000
+2465,Kojo Doe,Female,21,3.11,34,MSc Economics,volta,Yes,12250
+2372,Daniel Boateng,Male,22,2.05,29,MPhil Statistics,Western,Yes,8500
+2455,Samuel Tetteh,female,26,3.91,7,MSc Data Science, Upper West ,YES,9000
+1154,Selina Lee,male,35,2.95,33,MPhil Statistics,Eastern,YES,2500
+1614,Joseph Asare,female,30,3.8,13,MBA,northern,no,10750
+1411,Fatima Brown,Female,33,3.02,6,MPhil Statistics,Greater Accra,Yes,18000
+1831,Daniel Boateng,male,22,2.71,17,MBA,Upper West,YES,?
+1913,Joseph Agyeman,Male,26,3.92,36,MSc Data Science,greater accra,YES,5750
+1518,Adwoa Mensah,M,18,2.92,39,MPhil Statistics,Upper East,no,2250
+1045,Kojo Addo,Female,30,2.32,17,MSc Data Science,eastern,No,4500
+1391,Adwoa Doe,Male,23,2.48,37,MSc Economics,Volta,no,16750
+1221,Joseph Owusu,male,34,2.07,13,MSc Economics,central,Yes,12250
+1141,Adwoa Doe,female,29,2.04,29,MSc Economics,Upper West,Yes,4250
+1358,Selina Nkrumah,M,35,3.69,8,MBA,western,no,12750
+1723,Abena Doe,Male,32,1.12,ten,MSc Economics,Eastern,no,16500
+2158,Michael Addo,Female,30,3.98,ten,MSc Economics,Volta,Yes,8500
+1262,Kwame Sarpong,female,30,3.58,27,MBA,ashanti,YES,6250
+2303,Michael Sarpong,male,22,1.06,21,MSc Economics,northern,YES,8250
+1899,Isaac Amankwah,F,21,3.59,14,MSc Economics,volta,Yes,?
+2104,Yaw Lee,Male,18,2.56,8,MBA,Eastern,no,17250
+1196,Irene Sarpong,male,29,1.23,39,MSc Data Science,Upper West,YES,17250
+1116,Fatima Doe,Female,20,2.48,20,MBA,western,no,17500
+2076,Irene Lee,F,29,3.48,29,MSc Data Science,ashanti,Yes,17250
+2074,Yaw Lee,M,19,1.84,29,MPhil Statistics,Upper East,Yes,17500
+1719,Kofi Brown,Female,33,3.85,2,MBA,volta,no,4000
+2483,Samuel Asare,M,19,,ten,MSc Data Science,volta,YES,6500
+2209,Adwoa Addo,male,29,3.79,7,MSc Economics,Upper West,No,3750
+2370,Selina Owusu,male,19,3.45,4,MSc Economics,Volta,Yes,9000
+1359,Rashid Lee,F,30,3.38,3,MSc Data Science,northern,YES,16250
+2061,Selina Mensah,female,twenty-two,,35,MSc Economics,central,No,4750
+2020,Isaac Owusu,male,30,2.22,32,MBA,Central,Yes,?
+2001,Kojo Doe,female,19,2.68,16,MPhil Statistics,Central,YES,?
+1936,Yaw Ofori,female,24,3.37,22,MBA,Northern,Yes,5000
+1755,Kojo Addo,M,17,2.24,22,MPhil Statistics, Greater Accra ,no,2000
+1421,Samuel Owusu,Female,33,3.96,30,MBA,upper east,YES,14250
+1150,Kojo Amankwah,Female,31,3.62,34,MPhil Statistics,Ashanti,YES,5250
+1010,Rashid Asare,female,18,3.06,3,MPhil Statistics,northern,Yes,?
+2070,Adwoa Agyeman,M,23,3.46,14,MSc Data Science,upper east,No,13750
+2120,Ama Boateng,F,24,2.55,14,MSc Economics,northern,Yes,4250
+2462,Adwoa Nkrumah,M,34,,12,MPhil Statistics,Northern,No,15750
+1535,Kojo Nkrumah,Male,23,2.71,0,MSc Data Science, upper east ,No,11250
+1549,Michael Nkrumah,F,34,3.87,14,MBA,ashanti,no,12500
+1299,Abena Nkrumah,female,29,2.06,40,MBA,Greater Accra,No,7250
+1977,Adwoa Mensah,Female,17,2.37,14,MSc Economics,upper east,No,10500
+2315,Fatima Addo,Male,30,3.34,5,MPhil Statistics, western ,No,9750
+2338,Ama Asare,Male,31,1.22,27,MSc Economics,volta,Yes,2500
+1123,Kofi Sarpong,female,21,3.67,6,MBA, central ,no,13500
+2460,Isaac Agyeman,M,21,1.47,16,MBA,western,Yes,8500
+2373,Kofi Doe,Female,29,2.64,23,MSc Economics,Volta,no,11500
+2361,Yaw Brown,male,22,1.73,12,MSc Economics,volta,YES,4000
+2160,Adwoa Agyeman,F,25,4.0,15,MPhil Statistics,upper west,Yes,12750
+2417,Samuel Doe,female,22,2.27,17,MSc Economics,northern,YES,3250
+1710,Isaac Owusu,M,31,2.66,39,MSc Economics,Western,No,9750
+2397,Irene Addo,Male,34,2.96,37,MSc Economics,Ashanti,Yes,12750
+1770,Daniel Lee,male,25,1.42,29,MSc Data Science,ashanti,YES,8250
+1089,Grace Ofori,Male,22,2.15,15,MSc Economics,eastern,No,8000
+2464,Joseph Tetteh,male,24,1.69,37,MSc Data Science,Eastern,YES,11500
+2033,Abena Lee,Female,29,3.2,3,MBA,central,no,12250
+1098,Isaac Ofori,female,30,3.38,8,MBA,central,YES,2000
+2166,Emmanuel Mensah,Female,28,2.71,35,MSc Economics,Western,No,14500
+1349,Fatima Sarpong,F,28,1.88,12,MSc Data Science,Western,YES,16750
+1510,Emmanuel Doe,Female,29,2.63,37,MBA,Upper East,no,12250
+1212,Kojo Boateng,Male,twenty-two,1.35,14,MBA,eastern,Yes,16750
+1704,Ama Asare,F,21,2.86,2,MBA,upper east,Yes,18000
+1747,Grace Agyeman,F,28,1.61,ten,MSc Data Science,eastern,No,3750
+2046,Isaac Asare,female,25,,1,MBA,upper west,no,7250
+1940,Irene Owusu,F,19,2.19,33,MSc Data Science,Northern,YES,5000
+2472,Michael Brown,female,30,1.84,39,MSc Data Science, western ,No,16250
+1103,Joseph Tetteh,Male,twenty-two,3.76,34,MPhil Statistics,Ashanti,no,5250
+2415,Ama Doe,female,28,,35,MBA,Upper West,No,8250
+1479,Rashid Addo,M,26,1.93,1,MPhil Statistics,Northern,No,16250
+1492,Abena Agyeman,male,22,2.88,32,MSc Economics,Western,no,5000
+1842,Abena Lee,male,23,,15,MSc Economics,Eastern,YES,4250
+2071,Akosua Boateng,F,31,1.19,24,MPhil Statistics,Northern,no,15500
+1365,Adwoa Brown,male,32,2.82,27,MPhil Statistics,Volta,No,12000
+1297,Michael Ofori,Female,23,1.69,33,MSc Economics,Upper West,no,17750
+1050,Samuel Sarpong,F,26,2.57,26,MSc Economics,Northern,No,9500
+1225,Grace Mensah,Male,28,2.69,34,MBA,Ashanti,YES,3500
+2244,Selina Owusu,F,34,1.12,6,MSc Data Science,western,Yes,9250
+2489,Ama Asare,F,30,1.75,21,MSc Economics,northern,YES,5750
+1851,Akosua Brown,male,17,3.97,36,MPhil Statistics,Greater Accra,Yes,8000
+1648,Selina Doe,Male,30,3.6,0,MBA,upper east,No,6500
+2226,Kofi Amankwah,Male,27,1.45,2,MBA,greater accra,no,9750
+1563,Yaw Agyeman,male,35,3.61,35,MSc Data Science,Greater Accra,Yes,13750
+1623,Kofi Ofori,M,twenty-two,1.88,13,MPhil Statistics,Central,YES,17500
+1762,Emmanuel Ofori,F,120,3.5,39,MPhil Statistics,western,Yes,11250
+2088,Isaac Owusu,female,20,2.3,37,MBA,Greater Accra,YES,12750
+1805,Daniel Amankwah,male,29,1.05,37,MPhil Statistics,eastern,no,5500
+1605,Abena Nkrumah,M,33,2.18,16,MSc Data Science,Volta,YES,15750
+2270,Irene Tetteh,female,26,1.86,2,MSc Data Science,central,No,8000
+1443,Samuel Boateng,female,17,2.88,32,MSc Economics,Greater Accra,no,10250
+2442,Abena Addo,male,34,3.73,8,MSc Data Science,western,No,10250
+2025,Yaw Lee,F,twenty-two,3.54,37,MSc Economics,upper west,No,9250
+1540,Joseph Addo,F,22,3.2,12,MBA,northern,YES,12250
+1768,Rashid Ofori,F,28,1.56,15,MSc Economics,greater accra,No,14250
+1763,Kofi Addo,Male,22,2.52,31,MSc Data Science,Ashanti,No,16000
+1869,Fatima Brown,Male,32,2.45,ten,MSc Data Science,Upper East,Yes,13000
+1690,Irene Owusu,Male,28,2.55,34,MSc Economics,volta,no,16250
+1188,Kojo Asare,female,28,2.67,22,MBA,central,no,6750
+1407,Daniel Doe,F,26,2.83,24,MPhil Statistics, upper east ,No,6750
+2012,Kojo Lee,M,25,3.17,ten,MPhil Statistics,Eastern,Yes,17500
+2173,Kojo Addo,male,26,3.64,25,MPhil Statistics,Greater Accra,Yes,7750
+1752,Rashid Tetteh,female,26,3.03,29,MSc Data Science,Upper East,Yes,15500
+2051,Irene Asare,Female,33,1.1,21,MBA,Northern,no,12750
+1462,Isaac Owusu,Female,25,3.01,10,MBA,volta,No,10250
+1671,Grace Agyeman,F,18,1.14,4,MPhil Statistics,ashanti,Yes,7000
+1656,Fatima Ofori,female,23,,12,MSc Economics, Upper West ,YES,13000
+1786,Joseph Sarpong,female,27,3.18,23,MBA,Northern,no,17000
+2084,Daniel Boateng,F,19,3.17,6,MPhil Statistics,central,No,6500
+1715,Kojo Doe,F,30,1.06,33,MSc Data Science,greater accra,Yes,16250
+2351,Kojo Nkrumah,female,34,1.61,10,MPhil Statistics,Northern,YES,8500
+1425,Isaac Owusu,Male,24,3.04,25,MBA,eastern,YES,7000
+1044,Isaac Sarpong,Male,20,2.57,15,MSc Economics,Northern,no,16000
+1662,Daniel Addo,male,27,,1,MSc Economics,greater accra,Yes,15750
+1636,Fatima Asare,Male,24,1.64,15,MBA,Ashanti,YES,7000
+1529,Kofi Agyeman,Female,26,3.95,19,MSc Economics,Eastern,no,14250
+1988,Rashid Brown,Female,28,1.97,34,MSc Economics,upper east,no,3500
+1219,Abena Brown,Female,19,,30,MSc Data Science,eastern,no,11500
+1821,Akosua Asare,female,32,3.95,ten,MPhil Statistics,upper east,No,3000
+1293,Yaw Mensah,female,30,1.35,39,MPhil Statistics,Northern,Yes,13000
+2480,Akosua Lee,Female,34,3.56,24,MSc Economics,Greater Accra,no,8750
+1856,Grace Owusu,M,29,1.45,28,MSc Data Science,upper east,Yes,9750
+1610,Selina Boateng,M,23,2.3,ten,MSc Data Science,Volta,No,15250
+1486,Michael Lee,female,33,1.63,39,MBA,Northern,YES,15000
+2150,Kojo Lee,F,31,2.11,40,MPhil Statistics,Central,No,2250
+2018,Ama Boateng,female,30,3.47,5,MSc Economics,Ashanti,no,13250
+2086,Daniel Boateng,M,21,1.82,20,MSc Economics,upper west,no,17000
+1082,Akosua Mensah,F,31,1.5,0,MPhil Statistics,Eastern,Yes,14750
+1325,Samuel Owusu,Male,29,1.8,9,MPhil Statistics,Greater Accra,YES,3250
+2410,Daniel Sarpong,Male,twenty-two,2.88,30,MPhil Statistics,ashanti,Yes,8750
+2081,Yaw Mensah,F,17,1.37,27,MSc Data Science,northern,No,15000
+1020,Akosua Addo,Female,22,1.33,18,MSc Economics,greater accra,Yes,14250
+1455,Selina Boateng,Female,17,1.19,31,MSc Economics,Upper West,Yes,11500
+2111,Kwame Sarpong,M,25,3.64,16,MSc Economics,Western,No,10000
+1839,Abena Tetteh,male,21,1.91,27,MSc Data Science,Volta,YES,10750
+1759,Rashid Ofori,F,35,1.6,10,MPhil Statistics,Greater Accra,No,13000
+2341,Michael Lee,female,26,2.75,27,MPhil Statistics,Ashanti,Yes,14000
+1035,Joseph Agyeman,Female,33,2.08,33,MPhil Statistics,Upper East,No,5000
+1809,Kofi Boateng,M,18,3.56,0,MSc Economics,Central,YES,15750
+2163,Kojo Tetteh,female,twenty-two,3.27,31,MSc Economics,central,YES,?
+1905,Fatima Sarpong,Female,33,2.89,5,MBA,volta,YES,17250
+1801,Grace Tetteh,Male,33,2.37,36,MSc Data Science, upper west ,Yes,2250
+1097,Rashid Addo,M,18,3.21,10,MSc Data Science,ashanti,no,8250
+2108,Fatima Agyeman,male,24,1.65,37,MSc Data Science,Eastern,Yes,16250
+1447,Abena Lee,F,31,1.81,40,MPhil Statistics,Volta,no,17000
+1475,Rashid Doe,female,24,1.82,35,MBA, upper east ,Yes,17000
+1367,Efua Tetteh,male,24,3.81,7,MSc Data Science,upper east,no,6500
+2485,Adwoa Agyeman,M,20,2.64,7,MPhil Statistics,greater accra,Yes,8500
+1761,Rashid Amankwah,M,24,1.7,26,MSc Data Science, central ,YES,9000
+1919,Fatima Boateng,M,23,3.15,28,MPhil Statistics,eastern,no,6000
+2426,Akosua Amankwah,F,24,2.07,1,MSc Data Science,Eastern,Yes,14750
+1760,Selina Lee,Male,34,1.87,40,MSc Data Science,eastern,no,6750
+1393,Adwoa Mensah,M,17,1.69,1,MSc Data Science,Upper West,Yes,9500
+2296,Yaw Boateng,male,twenty-two,3.97,4,MBA,upper west,No,10250
+1507,Akosua Agyeman,Female,26,1.61,26,MSc Economics,western,YES,15250
+1435,Abena Addo,Female,27,1.85,6,MSc Economics,Upper West,No,2500
+1649,Akosua Amankwah,M,34,2.89,36,MSc Economics,Northern,no,14500
+1943,Michael Amankwah,Female,22,2.28,25,MBA,Western,no,16750
+2232,Joseph Brown,female,31,2.25,18,MPhil Statistics,central,YES,2500
+2344,Efua Doe,Female,33,2.54,14,MBA,Eastern,No,10250
+2296,Yaw Boateng,male,twenty-two,3.97,4,MBA,upper west,No,10250
+1133,Isaac Boateng,Male,120,1.08,29,MSc Data Science,central,Yes,?
+2075,Adwoa Owusu,F,twenty-two,1.72,5,MSc Data Science,greater accra,no,16750
+1973,Selina Tetteh,Male,120,3.0,37,MSc Data Science,ashanti,YES,11750
+2263,Abena Mensah,male,22,1.54,40,MBA,Upper East,YES,12500
+1451,Isaac Brown,female,28,3.1,10,MSc Data Science,upper east,no,10500
+1032,Kojo Lee,male,19,3.27,33,MPhil Statistics,Central,no,13250
+1122,Samuel Nkrumah,Female,23,3.97,23,MSc Data Science,volta,No,2000
+2236,Grace Agyeman,male,29,3.18,31,MBA,Volta,YES,3250
+2376,Emmanuel Tetteh,F,31,3.29,36,MPhil Statistics,upper west,no,11000
+2479,Selina Owusu,male,18,2.78,31,MSc Economics,upper west,YES,12000
+2327,Kwame Amankwah,female,26,1.78,32,MSc Data Science,Greater Accra,Yes,13750
+2113,Kojo Addo,F,30,1.84,13,MSc Data Science,Western,no,10000
+2350,Akosua Mensah,F,26,3.59,31,MSc Data Science,western,no,6250
+2348,Rashid Lee,F,25,1.34,1,MPhil Statistics,ashanti,YES,9000
+1256,Efua Boateng,male,33,3.7,24,MBA, greater accra ,Yes,14750
+1893,Efua Agyeman,Male,32,1.1,30,MSc Economics,Eastern,No,4000
+1360,Fatima Amankwah,male,20,2.32,8,MSc Economics,upper east,no,16000
+1052,Grace Ofori,Male,32,1.24,10,MPhil Statistics,central,No,13000
+1876,Grace Brown,male,27,3.94,37,MBA,Central,Yes,4000
+1939,Irene Agyeman,F,25,3.56,1,MSc Economics, ashanti ,no,3500
+1773,Yaw Brown,male,23,3.98,21,MBA,western,YES,4500
+2127,Fatima Ofori,F,19,1.44,7,MSc Data Science,Ashanti,no,5000
+2220,Daniel Lee,female,17,3.44,3,MPhil Statistics, Central ,YES,2000
+1680,Irene Sarpong,male,18,1.37,1,MPhil Statistics,volta,no,6500
+1806,Adwoa Mensah,male,20,2.48,27,MSc Economics,Ashanti,no,3750
+1125,Joseph Mensah,M,32,2.06,1,MSc Data Science,northern,YES,16750
+1405,Isaac Sarpong,female,twenty-two,,9,MPhil Statistics,volta,no,9750
+1731,Michael Owusu,male,25,1.26,39,MSc Economics,Northern,no,17250
+2312,Fatima Nkrumah,Male,24,3.9,30,MBA, Eastern ,No,7000
+1832,Adwoa Sarpong,M,21,3.25,34,MSc Economics, western ,Yes,15750
+2072,Adwoa Asare,Female,21,,4,MSc Data Science,central,YES,17500
+1726,Efua Amankwah,F,23,3.77,22,MSc Economics,Eastern,No,4000
+1588,Kwame Agyeman,male,26,2.76,9,MSc Economics,eastern,YES,11750
+1608,Fatima Amankwah,Male,21,2.68,30,MBA,western,No,7250
+1434,Grace Addo,male,20,2.45,39,MBA,Upper West,No,2750
+1675,Yaw Agyeman,M,27,2.69,21,MPhil Statistics,Eastern,Yes,10750
+2288,Grace Nkrumah,male,35,1.9,19,MSc Economics,eastern,no,17000
+1361,Fatima Brown,Male,25,3.63,29,MSc Economics,Greater Accra,Yes,7000
+2100,Grace Mensah,F,26,2.13,0,MBA,Upper West,No,12000
+1467,Fatima Owusu,Female,18,1.77,24,MBA,upper east,No,18000
+1300,Rashid Owusu,M,25,2.15,25,MSc Data Science,Greater Accra,Yes,10250
+1494,Samuel Lee,Male,19,1.3,5,MSc Economics,Northern,YES,6000
+1528,Kofi Lee,Female,26,2.84,8,MPhil Statistics,central,YES,5500
+2193,Fatima Ofori,M,20,3.66,15,MPhil Statistics,eastern,Yes,12750
